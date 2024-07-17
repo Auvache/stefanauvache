@@ -87,7 +87,7 @@
 }
 
 .mobile-menu {
-  background: $mhn-text;
+  background: $site-text;
   position: fixed;
   left: -295px;
   top: 60px;
@@ -119,7 +119,7 @@
             border: none;
 
             .accordion-link {
-              background-color: $mhn-text;
+              background-color: $site-text;
               color: $white;
               padding: 1rem 1.5rem;
               font-size: 1rem;
@@ -127,7 +127,7 @@
             }
 
             .accordion-button {
-              background-color: $mhn-text;
+              background-color: $site-text;
               color: $white;
               padding: 0.5rem 1.5rem;
 
@@ -139,7 +139,7 @@
               }
 
               &:not(.collapsed) {
-                background-color: $mhn-primary;
+                background-color: $site-primary;
                 box-shadow: none;
 
                 &:after {
@@ -209,7 +209,7 @@
             }
 
             &.selected {
-              background-color: $mhn-primary;
+              background-color: $site-primary;
             }
           }
 

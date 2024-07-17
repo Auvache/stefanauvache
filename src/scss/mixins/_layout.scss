@@ -41,22 +41,22 @@
 }
 
 .bg-dark-blue {
-  background-color: $mhn-primary;
+  background-color: $site-blue;
 }
 
 .bg-dark-blue-md-white {
-  background-color: $mhn-primary;
+  background-color: $site-primary;
   @include breakpoint(md) {
     background-color: $white;
   }
 }
 
 .bg-linear-gradient-white-to-blue {
-  background: linear-gradient(180deg, $white 0, $light-blue 100%);
+  background: linear-gradient(180deg, $white 0, $site-blue 100%);
 }
 
 .bg-linear-gradient-blue-to-white {
-  background: linear-gradient(180deg, $light-blue 0, $white 100%);
+  background: linear-gradient(180deg, $site-blue 0, $white 100%);
 }
 
 section {
@@ -126,11 +126,6 @@ section {
   }
 }
 
-.navbar-buffer {
-  background-color: transparent;
-  height: 72px;
-}
-
 .horizontal-line {
   display: block;
   border-bottom: 1px solid  $gray-chateau;
@@ -174,5 +169,24 @@ section {
 
   .panel.show{
     max-height: 500px;
+  }
+}
+
+.logo {
+  font-size: 1rem;
+  color: $steel-blue;
+  font-weight: $font-weight-light;
+  padding: 0;
+
+  @include breakpoint(sm) {
+    font-size: 2rem;
+    padding: 1rem 0;
+  }
+
+  &:hover,
+  &:focus,
+  &:active
+  {
+    color: $steel-blue;
   }
 }

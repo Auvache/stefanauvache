@@ -6,8 +6,8 @@ const routes = [
     name: 'Home',
     component: () => import('../views/Home'),
     meta: {
-      title: 'Welcome to Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com',
+      title: 'Stefan Bradley',
+      canonical: 'https://www.stefanbradley.net',
       metaTags: [
         {
           name: 'description',
@@ -41,35 +41,12 @@ const routes = [
 
   // alphabetic pages
   {
-    path: '/about',
-    name: 'About',
-    component: () => import('../views/About'),
+    path: '/article',
+    name: 'Article',
+    component: () => import('../views/Article.vue'),
     meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/about',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/all-posts',
-    name: 'AllPosts',
-    component: () => import('../views/AllPosts'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/all-posts',
+      title: 'About Me',
+      canonical: 'https://www.stefanbradley.net/article',
       metaTags: [
         {
           name: 'description',
@@ -89,10 +66,10 @@ const routes = [
   {
     path: '/articles',
     name: 'Articles',
-    component: () => import('../views/Articles'),
+    component: () => import('../views/Articles.vue'),
     meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/articles',
+      title: 'About Me',
+      canonical: 'https://www.stefanbradley.net/articles',
       metaTags: [
         {
           name: 'description',
@@ -110,12 +87,12 @@ const routes = [
     },
   },
   {
-    path: '/links',
-    name: 'Links',
-    component: () => import('../views/Links'),
+    path: '/music',
+    name: 'Music',
+    component: () => import('../views/Music.vue'),
     meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/links',
+      title: 'About Me',
+      canonical: 'https://www.stefanbradley.net/music',
       metaTags: [
         {
           name: 'description',
@@ -132,400 +109,6 @@ const routes = [
       ]
     },
   },
-  {
-    path: '/my-story',
-    name: 'MyStory',
-    component: () => import('../views/MyStory'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/my-story',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/post/:slug',
-    name: 'Post',
-    component: () => import('../views/Post.vue'),
-    props: true,
-    meta: {
-      title: 'Mental Health Naps Blog Posts',
-      canonical: 'https://www.mentalhealthnaps.com/posts',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/posts',
-    name: 'Posts',
-    component: () => import('../views/Posts'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/posts',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/products',
-    name: 'Products',
-    component: () => import('../views/Products'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/products',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/products/cpap-filters',
-    name: 'CPAPFilters',
-    component: () => import('../views/products/CPAPFilters'),
-    meta: {
-      title: 'All Products for Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/products/cpap-filters',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/products/cpap-rainout',
-    name: 'CPAPRainout',
-    component: () => import('../views/products/CPAPRainout'),
-    meta: {
-      title: 'All Products for Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/products/cpap-rainout',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/products/cpap-wipes',
-    name: 'CPAPWipes',
-    component: () => import('../views/products/CPAPWipes'),
-    meta: {
-      title: 'All Products for Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/products/cpap-wipes',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/products/resmed',
-    name: 'ResMed',
-    component: () => import('../views/products/ResMed'),
-    meta: {
-      title: 'All Products for Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/products/resmed',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/questions',
-    name: 'Questions',
-    component: () => import('../views/Questions'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/questions',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/search',
-    name: 'Search',
-    component: () => import('../views/Search'),
-    props: true,
-    meta: {
-      title: 'Search Posts on Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/search',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/sleep-scape',
-    name: 'SleepScape',
-    component: () => import('../views/SleepScape'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/sleep-scape',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/sleep-study',
-    name: 'SleepStudy',
-    component: () => import('../views/SleepStudy'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/sleep-study',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/socials',
-    name: 'Socials',
-    component: () => import('../views/Socials'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/socials',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/subscribe',
-    name: 'Subscribe',
-    component: () => import('../views/Subscribe'),
-    meta: {
-      title: 'Subscribe to Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/subscribe',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/tips',
-    name: 'Tips',
-    component: () => import('../views/Tips'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/tips',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/understanding-sleep-apnea',
-    name: 'UnderstandingSleepApnea',
-    component: () => import('../views/UnderstandingSleepApnea.vue'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/understanding-sleep-apnea',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-  {
-    path: '/vision',
-    name: 'Vision',
-    component: () => import('../views/Vision'),
-    meta: {
-      title: 'About Mental Health Naps',
-      canonical: 'https://www.mentalhealthnaps.com/vision',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
-
 ]
 
 const router = createRouter({
