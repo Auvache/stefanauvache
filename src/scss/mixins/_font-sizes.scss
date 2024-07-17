@@ -1,0 +1,124 @@
+//
+// FONT SIZING
+//
+// _font-sizes.scss
+
+/* Headers and paragraph */
+@mixin font-prop($point) {
+  color: $mhn-text;
+  font-family: $font-family-base;
+  font-weight: $font-weight-light;
+  margin: 0;
+
+  @if $point == h1 {
+    font-size: 28px;
+    font-weight: $font-weight-normal;
+    line-height: 38px;
+    margin-bottom: 1rem;
+    padding-bottom: 0;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(28px, 38px);
+      line-height: fluidProp(38px, 52px);
+    }
+  }
+
+  @if $point == h2 {
+    font-size: 20px;
+    font-weight: $font-weight-normal;
+    line-height: 30px;
+    margin: 3rem 0 0.5rem;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(20px, 28px);
+      line-height: fluidProp(30px, 38px);
+    }
+  }
+
+  @if $point == h3 {
+    font-size: 16px;
+    font-weight: $font-weight-bold;
+    line-height: 26px;
+    margin: 1.5rem 0 0.5rem;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(16px, 18px);
+      line-height: fluidProp(26px, 28px);
+    }
+  }
+
+  @if $point == h4 {
+    font-size: 16px;
+    font-weight: $font-weight-light;
+    line-height: 26px;
+    margin: 1rem 0 0.5rem;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(16px, 18px);
+      line-height: fluidProp(26px, 28px);
+    }
+  }
+
+  @if $point == h5 {
+    font-size: 16px;
+    font-weight: $font-weight-light;
+    line-height: 26px;
+    margin: 1rem 0 0.5rem;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(16px, 18px);
+      line-height: fluidProp(26px, 28px);
+    }
+  }
+
+  @if $point == p {
+    font-size: 16px;
+    font-weight: $font-weight-light;
+    line-height: 26px;
+    margin-bottom: 1rem;
+
+    @include breakpoint(sm) {
+      font-size: 18px;
+      line-height: 28px;
+    }
+  }
+
+  @if $point == tagline {
+    font-size: 14px;
+    font-weight: $font-weight-light;
+    line-height: 20px;
+    margin-bottom: 1rem;
+
+    @include breakpoint(sm) {
+      font-size: fluidProp(14px, 14px);
+      line-height: fluidProp(20px, 20px);
+    }
+  }
+
+  @if $point == a {
+    font-size: 16px;
+    font-weight: $font-weight-light;
+    color: $mhn-link;
+
+    @include breakpoint(sm) {
+      font-size: 18px;
+      line-height: 28px;
+    }
+
+    &:hover {
+      color: inherit;
+    }
+  }
+
+  @if $point == li {
+    font-size: 16px;
+    font-weight: $font-weight-light;
+    line-height: 26px;
+    margin-bottom: 0.5rem;
+
+    @include breakpoint(sm) {
+      font-size: 18px;
+      line-height: 28px;
+    }
+  }
+}
