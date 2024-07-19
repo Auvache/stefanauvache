@@ -178,14 +178,9 @@ section {
   font-weight: $font-weight-light;
   padding: 0;
 
-  @include breakpoint(sm) {
-    font-size: 2rem;
-    padding: 1rem 0;
-  }
-
-  &:hover,
+  &:active,
+  &:visited,
   &:focus,
-  &:active
   {
     color: $steel-blue;
   }
@@ -198,4 +193,17 @@ section {
     @include font-prop(h2);
     color: $site-blue;
   }
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  background: $alabaster;
+  z-index: 1000;
+}
+
+.nav-buffer {
+  height: 45px;
+  width: 100%;
+  background: blue;
 }

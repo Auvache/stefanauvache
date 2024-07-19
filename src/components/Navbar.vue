@@ -1,6 +1,6 @@
 <template>
-  <nav class="bg-gray">
-    <div class="container medium-content py-3">
+  <nav>
+    <div class="container medium-content py-2">
       <div class="d-flex justify-content-between align-items-center">
         <router-link class="logo" to="/">STEFAN BRADLEY</router-link>
         <div>
@@ -11,4 +11,7 @@
       </div>
     </div>
   </nav>
+  <div class="nav-buffer"></div>
 </template>
+<script setup>
+</script>
