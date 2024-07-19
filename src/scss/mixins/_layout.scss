@@ -190,3 +190,12 @@ section {
     color: $steel-blue;
   }
 }
+
+.article-card {
+  padding: 0 0 2rem;
+
+  a {
+    @include font-prop(h2);
+    color: $site-blue;
+  }
+}

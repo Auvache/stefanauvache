@@ -6,7 +6,6 @@
         <div>
           <ul class="list-group list-group-horizontal list-unstyled">
             <li class="mx-2 my-0"><router-link to="/articles">Articles</router-link></li>
-            <li class="mx-2 my-0"><router-link to="/music">Music</router-link></li>
           </ul>
         </div>
       </div>

@@ -4,7 +4,7 @@
       <div class="row">
         <h1>Articles</h1>
         <ul class="list-unstyled">
-          <li><router-link to="/article">Article</router-link></li>
+          <li v-for="article in Articles" :key="article.slug"><router-link :to="'/articles/' + article.slug">{{ article.title }}</router-link></li>
         </ul>
       </div>
     </div>
@@ -12,4 +12,5 @@
 </template>
 
 <script setup>
+import Articles from "@/assets/articlesList.json"
 </script>

@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import {createRouter, createWebHistory} from 'vue-router'
 
 const routes = [
   {
@@ -29,7 +29,7 @@ const routes = [
     name: "PageNotFound",
     component: () => import('../views/PageNotFound'),
     meta: {
-      title: 'Requested Page Not Found on Mental Health Naps',
+      title: 'Requested Page Not Found',
       metaTags: [
         {
           name: 'description',
@@ -39,30 +39,7 @@ const routes = [
     },
   },
 
-  // alphabetic pages
-  {
-    path: '/article',
-    name: 'Article',
-    component: () => import('../views/Article.vue'),
-    meta: {
-      title: 'About Me',
-      canonical: 'https://www.stefanbradley.net/article',
-      metaTags: [
-        {
-          name: 'description',
-          content: ''
-        },
-        {
-          name: 'keywords',
-          content: ''
-        },
-        {
-          name: 'robots',
-          content: 'index, follow'
-        }
-      ]
-    },
-  },
+  // pages
   {
     path: '/articles',
     name: 'Articles',
@@ -109,6 +86,77 @@ const routes = [
       ]
     },
   },
+  // articles
+  {
+    path: '/articles/better-business-writing',
+    name: 'BetterBusinessWriting',
+    component: () => import('../views/articles/BetterBusinessWriting.vue'),
+    meta: {
+      title: 'Better Business Writing',
+      canonical: 'https://www.stefanbradley.net/articles/better-business-writing',
+      metaTags: [
+        {
+          name: 'description',
+          content: ''
+        },
+        {
+          name: 'keywords',
+          content: ''
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/books-that-have-changed-my-life',
+    name: 'BooksThatHaveChangedMyLife',
+    component: () => import('../views/articles/BooksThatHaveChangedMyLife.vue'),
+    meta: {
+      title: 'Books That Have Changed My Life',
+      canonical: 'https://www.stefanbradley.net/articles/books-that-have-changed-my-life',
+      metaTags: [
+        {
+          name: 'description',
+          content: ''
+        },
+        {
+          name: 'keywords',
+          content: ''
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/mastery',
+    name: 'Mastery',
+    component: () => import('../views/articles/Mastery.vue'),
+    meta: {
+      title: 'Mastery',
+      canonical: 'https://www.stefanbradley.net/articles/mastery',
+      metaTags: [
+        {
+          name: 'description',
+          content: ''
+        },
+        {
+          name: 'keywords',
+          content: ''
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+
 ]
 
 const router = createRouter({
