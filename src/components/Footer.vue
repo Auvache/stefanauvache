@@ -4,7 +4,7 @@
     <section class="bg-gray text-center py-4">
       <div class="container">
         <div class="row">
-          <p class="m-0">Property of Stefan Bradley, {{store.year}}</p>
+          <p class="m-0 tagline">Property of Stefan Auvache Bradley, {{store.year}}</p>
         </div>
       </div>
     </section>

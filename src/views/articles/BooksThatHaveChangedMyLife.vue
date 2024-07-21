@@ -42,7 +42,7 @@
         <p>Things aren’t always as they seem. Asking questions and honestly trying to answer them can help you more deeply understand the world.&nbsp;</p>
         <p>Freakonomics was my entry point into the world of nonfiction reading. Steven Levitt and Stephen Dubner taught me that real-world stories and research can be endlessly entertaining, thought provoking, and meaningful.</p>
         <p>
-          <strong>Mastery</strong>
+          <strong>Mastery - Robert Greene</strong>
         </p>
         <p>Robert Greene presents the path to mastery as seen throughout history. Find what you love enough to master, focus intensely on learning everything you can through apprenticeship, break off on your own to create within your field, and continue to work until the skills and knowledge of your craft become a part of who you are. Mastery isn’t just something that everyone is capable of; it is our duty as members of society to find and follow our path to mastery.</p>
         <p>Robert Greene taught me to search my soul for passion, and then to pursue it with everything I have. His books also contain an outrageous number of compelling stories from history. He is a master and inspires me to someday be a master as well.</p>
