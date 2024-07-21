@@ -6,8 +6,8 @@ const routes = [
     name: 'Home',
     component: () => import('../views/Home'),
     meta: {
-      title: 'Stefan Bradley',
-      canonical: 'https://www.stefanbradley.net',
+      title: 'Stefan Auvache',
+      canonical: 'https://www.stefanauvache.com',
       metaTags: [
         {
           name: 'description',
@@ -46,7 +46,7 @@ const routes = [
     component: () => import('../views/Articles.vue'),
     meta: {
       title: 'About Me',
-      canonical: 'https://www.stefanbradley.net/articles',
+      canonical: 'https://www.stefanauvache.com/articles',
       metaTags: [
         {
           name: 'description',
@@ -69,7 +69,7 @@ const routes = [
     component: () => import('../views/Music.vue'),
     meta: {
       title: 'About Me',
-      canonical: 'https://www.stefanbradley.net/music',
+      canonical: 'https://www.stefanauvache.com/music',
       metaTags: [
         {
           name: 'description',
@@ -93,7 +93,7 @@ const routes = [
     component: () => import('../views/articles/BetterBusinessWriting.vue'),
     meta: {
       title: 'Better Business Writing',
-      canonical: 'https://www.stefanbradley.net/articles/better-business-writing',
+      canonical: 'https://www.stefanauvache.com/articles/better-business-writing',
       metaTags: [
         {
           name: 'description',
@@ -116,7 +116,7 @@ const routes = [
     component: () => import('../views/articles/BooksThatHaveChangedMyLife.vue'),
     meta: {
       title: 'Books That Have Changed My Life',
-      canonical: 'https://www.stefanbradley.net/articles/books-that-have-changed-my-life',
+      canonical: 'https://www.stefanauvache.com/articles/books-that-have-changed-my-life',
       metaTags: [
         {
           name: 'description',
@@ -139,7 +139,7 @@ const routes = [
     component: () => import('../views/articles/Mastery.vue'),
     meta: {
       title: 'Mastery',
-      canonical: 'https://www.stefanbradley.net/articles/mastery',
+      canonical: 'https://www.stefanauvache.com/articles/mastery',
       metaTags: [
         {
           name: 'description',
