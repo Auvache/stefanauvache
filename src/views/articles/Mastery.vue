@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1>{{article.title}}</h1>
-        <p>{{article.datePublished}}</p>
+        <h1 class="mb-1">{{article.title}}</h1>
+        <p class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
 
         <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.&nbsp;</p>
         <p>I recently read Stephen King’s memoir,
@@ -53,6 +53,19 @@
         <p>Don’t be afraid to pursue something challenging.&nbsp;</p>
         <p>Don’t be afraid to suck at something.&nbsp;</p>
         <p>Find something that engages you. Work to master it. That will bring you satisfaction.</p>
+        <div class="sources">
+          <p>Sources</p>
+          <ol>
+            <li>On Writing by Stephen King: King, S. (2000).
+              <em>On writing: A memoir of the craft</em>. Scribner.</li>
+            <li>Mastery by Robert Greene: Greene, R. (2012).
+              <em>Mastery</em>. Viking Adult.</li>
+            <li>Chronicles: Volume One by Bob Dylan: Dylan, B. (2004).
+              <em>Chronicles: Volume one</em>. Simon &amp; Schuster.</li>
+            <li>Deep Work by Cal Newport: Newport, C. (2016).
+              <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
+          </ol>
+        </div>
       </div>
     </div>
   </section>
@@ -60,5 +73,6 @@
 
 <script setup>
 import getArticleData from "@/functions/getArticleData";
+import formatDate from "@/functions/formatDate";
 let article = getArticleData()
 </script>

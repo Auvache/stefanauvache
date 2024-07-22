@@ -207,3 +207,29 @@ nav {
   width: 100%;
   background: transparent;
 }
+
+.sources {
+  margin-top: 4rem;
+  background: $alabaster;
+  border: 1px solid $site-blue;
+  padding: 1rem 2rem;
+  * {
+    font-size: 0.8rem;
+  }
+
+  p {
+   text-align: center;
+    font-weight: bold;
+  }
+
+  li {
+    font-style: italic;
+  }
+}
+
+.quote {
+  background: $alabaster;
+  border: 1px solid $site-blue;
+  padding: 1rem;
+  font-style: italic;
+}

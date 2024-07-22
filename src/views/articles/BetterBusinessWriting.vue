@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1>{{article.title}}</h1>
-        <p>{{article.datePublished}}</p>
+        <h1 class="mb-1">{{article.title}}</h1>
+        <p class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>
         <p>Adams is the mastermind behind
@@ -48,6 +48,24 @@
         <p>“<em>That’s it. You just learned 80% or the rules of good writing. Now find something worth writing about.”</em>
         </p>
         <p>Write simply. Keep it lean. Convey ideas to your audience as clearly as possible. And, for the love of Scott and Steven, write about something meaningful.</p>
+
+        <div class="sources">
+          <p>Sources</p>
+          <ol>
+            <li>
+              <a target="_blank" href="https://dilbert.com/">
+                <span style="color:rgb(17, 85, 204);">https://dilbert.com</span>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html">
+                <span style="color:rgb(17, 85, 204);">https://dilbertblog.typepad.com</span>
+              </a>
+            </li>
+            <li>The War of Art by Steven Pressfield: Pressfield, S. (2002).
+              <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
+          </ol>
+        </div>
       </div>
     </div>
   </section>
@@ -55,5 +73,6 @@
 
 <script setup>
 import getArticleData from "@/functions/getArticleData";
+import formatDate from "@/functions/formatDate";
 let article = getArticleData()
 </script>

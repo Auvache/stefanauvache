@@ -10,11 +10,11 @@
   <SubscribeBar />
   <section class="section-padding">
     <div class="container thin-content">
-      <h2 class="t1 text-center mt-3 mb-4">Featured Articles</h2>
+      <h2 class="t2 text-center mt-3 mb-4">Featured Articles</h2>
       <hr class="mb-4">
-      <div class="article-card" v-for="article in Articles" :key="article.slug" :id="article.slug">
+      <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
         <router-link :to="'/articles/'+article.slug">{{article.title}}</router-link>
-        <p class="fst-italic">{{article.datePublished}}</p>
+        <p class="fst-italic">{{formatDate(article.datePublished)}}</p>
         <p>{{article.summary}}</p>
       </div>
     </div>
@@ -24,4 +24,7 @@
 <script setup>
 import SubscribeBar from "@/components/SubscribeBar.vue";
 import Articles from "@/assets/articlesList.json"
+import formatDate from "@/functions/formatDate";
+import sortByKey from "@/functions/sortByKey";
+let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
 </script>

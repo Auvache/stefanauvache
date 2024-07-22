@@ -11,21 +11,20 @@
   margin: 0;
 
   @if $point == h1 {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: $font-weight-normal;
-    line-height: 38px;
-    margin-bottom: 1rem;
-    padding-bottom: 0;
+    line-height: 30px;
+    margin: 0 0 0.5rem;
 
     @include breakpoint(sm) {
-      font-size: fluidProp(28px, 38px);
-      line-height: fluidProp(38px, 52px);
+      font-size: fluidProp(20px, 28px);
+      line-height: fluidProp(30px, 38px);
     }
   }
 
   @if $point == h2 {
     font-size: 20px;
-    font-weight: $font-weight-normal;
+    font-weight: 300;
     line-height: 30px;
     margin: 3rem 0 0.5rem;
 
@@ -36,14 +35,14 @@
   }
 
   @if $point == h3 {
-    font-size: 16px;
-    font-weight: $font-weight-bold;
+    font-size: 14px;
+    font-weight: 300;
     line-height: 26px;
     margin: 1.5rem 0 0.5rem;
 
     @include breakpoint(sm) {
-      font-size: fluidProp(16px, 18px);
-      line-height: fluidProp(26px, 28px);
+      font-size: fluidProp(14px, 16px);
+      line-height: fluidProp(24px, 26px);
     }
   }
 
@@ -72,20 +71,15 @@
   }
 
   @if $point == p {
-    font-size: 16px;
-    font-weight: $font-weight-light;
-    line-height: 26px;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.75rem;
     margin-bottom: 1rem;
-
-    @include breakpoint(sm) {
-      font-size: 18px;
-      line-height: 28px;
-    }
   }
 
   @if $point == tagline {
     font-size: 14px;
-    font-weight: $font-weight-light;
+    font-weight: 300;
     line-height: 20px;
     margin-bottom: 1rem;
 

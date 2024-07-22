@@ -134,6 +134,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/eliminate-delegate-automate-do',
+    name: 'EliminateAutomateDelegateDo',
+    component: () => import('../views/articles/EliminateAutomateDelegateDo.vue'),
+    meta: {
+      title: 'Eliminate Automate Delegate Do',
+      canonical: 'https://www.stefanauvache.com/articles/eliminate-delegate-automate-do',
+      metaTags: [
+        {
+          name: 'description',
+          content: ''
+        },
+        {
+          name: 'keywords',
+          content: ''
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/mastery',
     name: 'Mastery',
     component: () => import('../views/articles/Mastery.vue'),
