@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-1">{{article.title}}</h1>
-        <p class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
+        <h1 v-if="article.title" class="mb-1">{{article.title}}</h1>
+        <p v-if="article.datePublished" class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
 
         <p>There are some tasks that call to us. There are things we long to do. Unfortunately, those tasks are typically suffocated by other things we wish we didn’t have to do, but must, to keep the ship afloat.&nbsp;</p>
         <p>Here is a mantra for when you find yourself overwhelmed by the ocean of work sitting in front of you.&nbsp;</p>
@@ -30,5 +30,10 @@
 <script setup>
 import getArticleData from "@/functions/getArticleData";
 import formatDate from "@/functions/formatDate";
-let article = getArticleData()
+import {onBeforeMount, ref} from "vue";
+const article = ref({"title" : "", "datePublished" : ""})
+
+onBeforeMount(() => {
+  article.value = getArticleData()
+})
 </script>

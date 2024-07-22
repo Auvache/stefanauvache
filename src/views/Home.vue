@@ -1,10 +1,12 @@
 <template>
   <section class="section-padding">
     <div class="container thin-content">
-      <h1 class="intro-heading">The Pursuit of Lifelong Learning</h1>
-      <hr class="mt-0 mb-3">
-      <p>Hi, my name is <span class="blue fw-bold">Stefan</span>. I am a software engineer, avid reader, and a lover of music. I graduated from Brigham Young University in 2021 with a Masters Degree in Information Systems Management and have been in pursuit of the life lessons buried in technology ever since.</p>
-      <p>I am a believer in lifelong education. Universal, practical life lessons are deeply ingrained in the world around us, whether they be found in technology, project management, or music. My goal is to find and understand some of these lessons, and then to share them with you.</p>
+      <div class="fade-in-up-slow">
+        <h1 class="intro-heading">The Pursuit of Lifelong Learning</h1>
+        <hr class="mt-0 mb-3">
+        <p>Hi, my name is <span class="blue fw-bold">Stefan</span>. I am a software engineer, avid reader, and a lover of music. I graduated from Brigham Young University in 2021 with a Masters Degree in Information Systems Management and have been in pursuit of the life lessons buried in technology ever since.</p>
+        <p>I am a believer in lifelong education. Universal, practical life lessons are deeply ingrained in the world around us, whether they be found in technology, project management, or music. My goal is to find and understand some of these lessons, and then to share them with you.</p>
+      </div>
     </div>
   </section>
   <SubscribeBar />

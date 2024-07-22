@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-1">{{article.title}}</h1>
-        <p class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
+        <h1 v-if="article.title" class="mb-1">{{article.title}}</h1>
+        <p v-if="article.datePublished" class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>
         <p>Adams is the mastermind behind
@@ -74,5 +74,10 @@
 <script setup>
 import getArticleData from "@/functions/getArticleData";
 import formatDate from "@/functions/formatDate";
-let article = getArticleData()
+import {onBeforeMount, ref} from "vue";
+const article = ref({"title" : "", "datePublished" : ""})
+
+onBeforeMount(() => {
+  article.value = getArticleData()
+})
 </script>

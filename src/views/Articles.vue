@@ -1,7 +1,7 @@
 <template>
   <section class="section-padding">
     <div class="container thinnest-content">
-      <div class="row">
+      <div>
         <h1 class="text-sm-center">Articles</h1>
         <h2 class="t4">2024</h2>
         <ul class="list-unstyled">

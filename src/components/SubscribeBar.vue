@@ -1,6 +1,6 @@
 <template>
   <section class="py-3 bg-dark-blue">
-    <div class="container medium-content text-center">
+    <div class="container medium-content text-center fade-in">
       <div>
         <p class="white mb-0">Subscribe to my <span class="fw-bold fst-italic">Food 4 Thought</span> news letter for recommendations and lessons from technology, music, books, and life.</p>
         <div>

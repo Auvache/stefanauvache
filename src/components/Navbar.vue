@@ -1,5 +1,5 @@
 <template>
-  <nav>
+  <nav class="slide-in-down">
     <div class="container medium-content py-2">
       <div class="d-flex justify-content-between align-items-center">
         <router-link class="logo" to="/">STEFAN AUVACHE</router-link>
