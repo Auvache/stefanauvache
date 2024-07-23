@@ -157,6 +157,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/grow-your-focus',
+    name: 'GrowYourFocus',
+    component: () => import('../views/articles/GrowYourFocus.vue'),
+    meta: {
+      title: 'Grow Your Focus',
+      canonical: 'https://www.stefanauvache.com/articles/grow-your-focus',
+      metaTags: [
+        {
+          name: 'description',
+          content: ''
+        },
+        {
+          name: 'keywords',
+          content: ''
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/mastery',
     name: 'Mastery',
     component: () => import('../views/articles/Mastery.vue'),
