@@ -5,7 +5,7 @@
         <h1 v-if="article.title" class="mb-1">{{article.title}}</h1>
         <p v-if="article.datePublished" class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
 
-        <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.&nbsp;</p>
+        <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.</p>
         <p>I recently read Stephen King’s memoir,
           <em>On Writing.
           </em>He talks about the hour-after-hour, story-after-story grind that led him to write
@@ -19,12 +19,12 @@
           <em>It, Shawshank Redemption,
           </em>and
           <em>The Shining.</em>
-          He is a master storyteller.&nbsp;</p>
+          He is a master storyteller.</p>
         <p>Two books come to me when I think about mastery. Both are by guys named Rob.</p>
         <p>The first is
           <em>Mastery
-          </em>by Robert Greene.&nbsp;</p>
-        <p>In his book, Greene lays out the path to mastery; follow what you are passionate about, prioritize learning over making money when you are applying for jobs, become an apprentice to a mentor, then strike out on your own and create something new. This path leads to the intuitive, finger-tip-feel competence of craft we call mastery.&nbsp;</p>
+          </em>by Robert Greene.</p>
+        <p>In his book, Greene lays out the path to mastery; follow what you are passionate about, prioritize learning over making money when you are applying for jobs, become an apprentice to a mentor, then strike out on your own and create something new. This path leads to the intuitive, finger-tip-feel competence of craft we call mastery.</p>
         <p>You cannot master what you do not love to do. The reason I have gained any depth in my skills as a guitarist and a software developer is because I enjoy the practice of both disciplines.</p>
         <p>
           <em>“In order to master a field, you must love the subject and feel a profound connection to it. Your interest must transcend the field itself and border on the religious”</em>
@@ -37,32 +37,32 @@
         </p>
         <p>You aren’t born a master songwriter or a master salesman; it “happens to you by degrees.” The reason that Bob Dylan’s songs are relevant 60+ years after he wrote them isn’t because he is a great singer or guitarist. It’s his capacity as a writer to describe the world around him that makes his work so special. He is a master storyteller, and the writing in
           <em>Chronicles</em>
-          is proof enough.&nbsp;</p>
+          is proof enough.</p>
         <p>To master a craft is to choose work that you enjoy. The quality of your work and your life will undoubtedly improve as you focus on mastery of the subject matter.</p>
-        <p>It is far easier to enjoy life when you do what you love and you do it well.&nbsp;</p>
+        <p>It is far easier to enjoy life when you do what you love and you do it well.</p>
         <p>It is worth pointing out that the better you get at something, the more you will enjoy doing it (see
           <em>Deep Work
           </em>by Cal Newport).</p>
-        <p>If you, like me, want to find satisfaction in your life, develop a skill or talent that you enjoy. It could be writing poetry, negotiating business deals, playing basketball, or smoking meat.&nbsp;</p>
+        <p>If you, like me, want to find satisfaction in your life, develop a skill or talent that you enjoy. It could be writing poetry, negotiating business deals, playing basketball, or smoking meat.</p>
         <p>Remember this:</p>
         <ol>
           <li>When you start, you will suck.</li>
           <li>When you dig for depth, you discover satisfaction.</li>
         </ol>
         <p>My first job in the world of coding was for a copyright office at a university. I made $13 an hour. It took me two weeks to figure out how to make any changes to the website I was now in charge of maintaining. Luckily, I worked with some really understanding people. When I finally got my bearings and started making some progress with updating the site, it felt pretty dang good. Years later, I still find that same satisfaction in software development because I am constantly deepening my understanding and pushing the boundaries of my abilities.</p>
-        <p>Don’t be afraid to pursue something challenging.&nbsp;</p>
-        <p>Don’t be afraid to suck at something.&nbsp;</p>
+        <p>Don’t be afraid to pursue something challenging.</p>
+        <p>Don’t be afraid to suck at something.</p>
         <p>Find something that engages you. Work to master it. That will bring you satisfaction.</p>
         <div class="sources">
           <p>Sources</p>
           <ol>
             <li>On Writing by Stephen King: King, S. (2000).
               <em>On writing: A memoir of the craft</em>. Scribner.</li>
-            <li>Mastery by Robert Greene: Greene, R. (2012).
+            <li><a :href="affiliateLinks.mastery" target="_blank">Mastery by Robert Greene</a>: Greene, R. (2012).
               <em>Mastery</em>. Viking Adult.</li>
             <li>Chronicles: Volume One by Bob Dylan: Dylan, B. (2004).
               <em>Chronicles: Volume one</em>. Simon &amp; Schuster.</li>
-            <li>Deep Work by Cal Newport: Newport, C. (2016).
+            <li><a :href="affiliateLinks.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
               <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
           </ol>
         </div>
@@ -73,6 +73,7 @@
 
 <script setup>
 import getArticleData from "@/functions/getArticleData";
+import affiliateLinks from "@/assets/affiliateLinks.json";
 import formatDate from "@/functions/formatDate";
 import {onBeforeMount, ref} from "vue";
 const article = ref({"title" : "", "datePublished" : ""})

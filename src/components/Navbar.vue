@@ -5,7 +5,7 @@
         <router-link class="logo" to="/">STEFAN AUVACHE</router-link>
         <div>
           <ul class="list-group list-group-horizontal list-unstyled">
-            <li class="mx-2 my-0"><router-link to="/articles">Articles</router-link></li>
+            <li class="mx-2 my-0"><router-link class="blue" to="/articles">Articles</router-link></li>
           </ul>
         </div>
       </div>

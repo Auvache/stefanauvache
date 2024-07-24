@@ -3,9 +3,9 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="text-sm-center">Articles</h1>
-        <h2 class="t4">2024</h2>
+        <h2 class="text-black">2024</h2>
         <ul class="list-unstyled">
-          <li v-for="article in sortedArticles" :key="article.slug"><router-link :to="'/articles/' + article.slug">{{ article.title }}</router-link></li>
+          <li v-for="article in sortedArticles" :key="article.slug"><router-link class="blue" :to="'/articles/' + article.slug">{{ article.title }}</router-link></li>
         </ul>
       </div>
     </div>

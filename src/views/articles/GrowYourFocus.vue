@@ -24,24 +24,17 @@
         <p>What is the first thing on your list? Maybe you check social media after 15 seconds of reading. Maybe you aren't exactly sure what you need to do with a school assignment and your mind ends up wandering.</p>
         <p>If texting, social media, or email is a constant distraction, prevent yourself from giving into those distractions by removing them. Leave your phone on the other side of the room, or in a closet, or buried in a drawer somewhere. Turn off all notifications during your work session to remove distraction. Now, when your mind starts to wander, it won't have as many stimulating places to go, and the task of holding your focus will be easier.</p>
         <p>Here are a few general rules for negating and preventing distraction.</p>
-        <p class="mb-0">
-          <strong>Schedule work time</strong>
-        </p>
+        <h3>Schedule work time</h3>
         <p>Set aside 60-90 minutes with no distractions at all. Carve out time when no breaks are needed and no messages or email need to be checked. Can you do it before your kids wake up? Can you do it before your coworkers arrive at the office or after your boss leaves, or in the afternoon right after class gets over? Do what needs to be done to schedule focused time.</p>
-        <p class="mb-0">
-          <strong>Have a plan for your work time</strong>
-        </p>
+        <h3>Have a plan for your work time</h3>
         <p>Try to pick one thing to work on for your session. If you have a lot to do, try to bunch work together that is similar (homework, writing, physical chores, etc.).</p>
-        <p class="mb-0">
-          <strong>Minimize distractions</strong>
-        </p>
+        <h3>Minimize distractions</h3>
          <p>Eat your snack, fill your water bottle, and go to the bathroom before starting your task. Designate a clean, distraction-free place for work. Put your phone away, sit down, and work.</p>
         <h2>The Roosevelt Dash - exercise for your focus</h2>
         <p>President Theodore Roosevelt is a wannabe focus-master's hero. He focused with an intensity that took him from homeschooling to Harvard to the White House.</p>
-        <p>The following is an exercise I learned from Cal Newport's book
-          <em>Deep Work
-          </em>for increasing focus based on the habits of President Theodore Roosevelt. It is called
-          <strong>The Roosevelt Dash</strong>.</p>
+        <p>The following is an exercise I learned from <a :href="affiliateLinks.deepWork" target="_blank">Cal Newport's book
+          <em>Deep Work</em></a>
+          for increasing focus based on the habits of President Theodore Roosevelt. It is called "The Roosevelt Dash".</p>
         <ol>
           <li>Pick a task.</li>
           <li>Estimate the time it will take to complete the task.</li>
@@ -62,13 +55,13 @@
         <div class="sources">
           <p>Sources</p>
           <ol>
-            <li>The War of Art by Steven Pressfield: Pressfield, S. (2002).
+            <li><a :href="affiliateLinks.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
               <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
             <li>The 48 Laws of Power by Robert Greene: Greene, R. (1998).
               <em>The 48 laws of power</em>. Viking Press.</li>
-            <li>Meditations by Marcus Aurelius (translated by Gregory Hays): Aurelius, M. (2002).
+            <li><a :href="affiliateLinks.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
               <em>Meditations (G. Hays, Trans.)</em>. Modern Library.</li>
-            <li>Deep Work by Cal Newport: Newport, C. (2016).
+            <li><a :href="affiliateLinks.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
               <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
           </ol>
         </div>
@@ -79,6 +72,7 @@
 
 <script setup>
 import getArticleData from "@/functions/getArticleData";
+import affiliateLinks from "@/assets/affiliateLinks.json";
 import formatDate from "@/functions/formatDate";
 import {onBeforeMount, ref} from "vue";
 const article = ref({"title" : "", "datePublished" : ""})

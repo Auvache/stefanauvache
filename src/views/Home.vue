@@ -2,17 +2,18 @@
   <section class="section-padding">
     <div class="container thin-content">
       <div class="fade-in-up-slow">
-        <h1 class="intro-heading">The Pursuit of Lifelong Learning</h1>
+        <h1 class="intro-heading">In Pursuit of Lifelong Learning</h1>
         <hr class="mt-0 mb-3">
-        <p>Hi, my name is <span class="blue fw-bold">Stefan</span>. I am a software engineer, avid reader, and a lover of music. I graduated from Brigham Young University in 2021 with a Masters Degree in Information Systems Management and have been in pursuit of the life lessons buried in technology ever since.</p>
-        <p>I am a believer in lifelong education. Universal, practical life lessons are deeply ingrained in the world around us, whether they be found in technology, project management, or music. My goal is to find and understand some of these lessons, and then to share them with you.</p>
+        <p>My name is <span class="blue fw-normal">Stefan</span>. I am a software engineer, avid reader, a lover of music, and a lifelong learner. When I graduated from university in 2021, I realized that my education was far from over.</p>
+        <p>I am a believer that education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.</p>
+        <p class="fw-normal blue">My goal is to find and learn these lessons, and then to share them with you.</p>
       </div>
     </div>
   </section>
   <SubscribeBar />
   <section class="section-padding">
     <div class="container thin-content">
-      <h2 class="t2 text-center mt-3 mb-4">Featured Articles</h2>
+      <h2 class="text-black text-center mt-3 mb-4">Featured Articles</h2>
       <hr class="mb-4">
       <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
         <router-link :to="'/articles/'+article.slug">{{article.title}}</router-link>
