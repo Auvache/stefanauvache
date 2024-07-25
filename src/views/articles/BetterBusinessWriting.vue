@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 v-if="article.title" class="mb-1">{{article.title}}</h1>
-        <p v-if="article.datePublished" class="tagline fst-italic blue">{{formatDate(article.datePublished)}}</p>
+        <h1 class="mb-1">Better Business Writing</h1>
+        <p class="tagline fst-italic blue">June 17, 2024</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>
         <p>Adams is the mastermind behind
@@ -14,32 +14,32 @@
             One of the articles on that blog
           </a>
           is about becoming a better writer.</p>
-        <p>Adam’s says, in a nutshell:</p>
+        <p>Adam's says, in a nutshell:</p>
         <ul>
           <li>Keep it simple</li>
           <li>Get rid of extra words</li>
           <li>The first sentence should grab the reader</li>
           <li>Avoid multiple thoughts in a single sentence</li>
         </ul>
-        <p>Basically, writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity. Scott Adams’ 263-word post gave me the confidence to start writing daily (you’re the man Scott).</p>
+        <p>Basically, writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity. Scott Adams' 263-word post gave me the confidence to start writing daily (you're the man Scott).</p>
         <p>The last line of the article says:</p>
         <p>
-          <em>“That’s it. You just learned 80% of the rules of good writing. You’re welcome.</em>”</p>
+          <em>“That's it. You just learned 80% of the rules of good writing. You're welcome.</em>”</p>
         <p>I first assumed that the remaining 20% would include granular, complex stuff like, “know your target audience” or “have an editor run through your work.”</p>
         <p>Then I read <a target="_blank" :href="affiliateLinks.theWarOfArt"><em>The War of Art</em></a> by Steven Pressfield.</p>
-        <p>Pressfield’s writing embodies many of the principles from Adams’ post. His sentences are concise. His “chapters” are often a single paragraph.
+        <p>Pressfield's writing embodies many of the principles from Adams' post. His sentences are concise. His “chapters” are often a single paragraph.
           <em>The War of Art</em>
           itself barely breaks 150 pages. Anyone would be hard pressed to cut a phrase from that book without making it worse. If books were people,
           <em>The War of Art
           </em>would have 3% body fat.</p>
-        <p>But the thing that makes Steven Pressfield a great writer isn’t the leanness of his writing. Every portion of
+        <p>But the thing that makes Steven Pressfield a great writer isn't the leanness of his writing. Every portion of
           <em>The War of Art</em>
           is meaningful. His singular focus on what he calls
           <em>Resistance
           </em>captivates and inspires the reader.</p>
         <p>The main characteristic of great writing is something great to write about.</p>
-        <p>If I could append a sentence to Scott Adams’ nigh perfect blog post, it would be this:</p>
-        <p>“<em>That’s it. You just learned 80% or the rules of good writing. Now find something worth writing about.”</em>
+        <p>If I could append a sentence to Scott Adams' nigh perfect blog post, it would be this:</p>
+        <p>“<em>That's it. You just learned 80% or the rules of good writing. Now find something worth writing about.”</em>
         </p>
         <p>Write simply. Keep it lean. Convey ideas to your audience as clearly as possible. And, for the love of Scott and Steven, write about something meaningful.</p>
 
@@ -66,13 +66,5 @@
 </template>
 
 <script setup>
-import getArticleData from "@/functions/getArticleData";
 import affiliateLinks from "@/assets/affiliateLinks.json";
-import formatDate from "@/functions/formatDate";
-import {onBeforeMount, ref} from "vue";
-const article = ref({"title" : "", "datePublished" : ""})
-
-onBeforeMount(() => {
-  article.value = getArticleData()
-})
 </script>

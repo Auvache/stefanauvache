@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 v-if="article.title" class="mb-1">{{article.title}}</h1>
-        <p v-if="article.datePublished" class="tagline fst-italic blue mb-4">{{formatDate(article.datePublished)}}</p>
+        <h1 class="mb-1">Grow Your Focus</h1>
+        <p class="tagline fst-italic blue">July 23, 2024</p>
 
         <p class="quote">“Concentrate every minute like a Roman on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”<br> - Marcus Araelius</p>
         <p class="quote">“Resistance is like a telemarketer; if you so much as say hello, you're finished. The pro doesn't even pick up the phone. He stays at work.”<br> - Steven Pressfield</p>
@@ -71,13 +71,5 @@
 </template>
 
 <script setup>
-import getArticleData from "@/functions/getArticleData";
 import affiliateLinks from "@/assets/affiliateLinks.json";
-import formatDate from "@/functions/formatDate";
-import {onBeforeMount, ref} from "vue";
-const article = ref({"title" : "", "datePublished" : ""})
-
-onBeforeMount(() => {
-  article.value = getArticleData()
-})
 </script>

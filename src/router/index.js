@@ -134,12 +134,12 @@ const routes = [
     },
   },
   {
-    path: '/articles/eliminate-delegate-automate-do',
+    path: '/articles/eliminate-automate-delegate-do',
     name: 'EliminateAutomateDelegateDo',
     component: () => import('../views/articles/EliminateAutomateDelegateDo.vue'),
     meta: {
       title: 'Eliminate Automate Delegate Do',
-      canonical: 'https://www.stefanauvache.com/articles/eliminate-delegate-automate-do',
+      canonical: 'https://www.stefanauvache.com/articles/eliminate-automate-delegate-do',
       metaTags: [
         {
           name: 'description',
