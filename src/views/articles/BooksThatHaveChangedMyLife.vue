@@ -5,8 +5,8 @@
         <h1 class="mb-1">Books that have changed my life</h1>
         <p class="tagline fst-italic blue">June 15, 2024</p>
 
-        <p class="quote">“If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.” by Jim Mattis</p>
-        <p class="quote">“You dropped a hundred and fifty grand on a f@#%*^' education you coulda' got for a dollar fifty in late charges at the public library.” by Good Will Hunting</p>
+        <p class="quote">“If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.”<br> - Jim Mattis</p>
+        <p class="quote">“You dropped a hundred and fifty grand on a f@#%*^' education you coulda' got for a dollar fifty in late charges at the public library.”<br> - Will, Good Will Hunting</p>
         <p>Many are blessed with the opportunity to gain a structured education. Many are not. Whether you have a masters degree in mathematics or started working at 16 years old, there comes a point in life when education is no longer thrust upon you as part of the system. There are no more teachers. No assignments, deadlines, or grades. We are free to study the things that we find engaging at our own pace.</p>
         <p>Often, we choose to study nothing. We allow our learning to stagnate and erode away.</p>
         <p>Lack of structure is a daunting educational hurdle to overcome. There is, however, a surefire way to be a lifelong student:</p>

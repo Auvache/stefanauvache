@@ -76,7 +76,8 @@
     text-decoration: underline;
 
     &:hover {
-      color: inherit;
+      color: $site-blue !important;
+      text-decoration: underline;
     }
   }
 

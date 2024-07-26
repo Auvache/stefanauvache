@@ -42,7 +42,7 @@
         <p>This exercise is applicable to working, reading, writing, doing laundry, cleaning dishes, and working out. It will be discouraging at first, and you will often not finish the task at hand in the allotted time. However, your natural ability to focus will engage during your dash to complete your task.</p>
         <p>As you consistently push the limits of your focus with this exercise, your ability to focus will grow.</p>
         <h2>Let yourself be bored</h2>
-        <p>“You'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slightest hint of boredom.” - Cal Newport</p>
+        <p class="quote">“You'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slightest hint of boredom.”<br> - Cal Newport</p>
         <p>This may be the biggest secret to focus.</p>
         <p>Boredom means having nothing for your brain to do. Our brains are constantly assaulted with stimuli. If no time is taken to disengage your mind, engagement becomes a burden. How can you ever expect your mind to focus if it never has a break?</p>
         <p>When boredom sets in, don't chase it away. Welcome it with open arms. When a moment of nothing arises between tasks and scheduled events, don't reach for your phone. Don't go grab a snack to fill the void. Just be bored.</p>

@@ -47,7 +47,7 @@
               <em>On writing: A memoir of the craft</em>. Scribner.</li>
             <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a>: Greene, R. (2012).
               <em>Mastery</em>. Viking Adult.</li>
-            <li>Chronicles: Volume One by Bob Dylan: Dylan, B. (2004).
+            <li><a :href="affiliateLinks.books.chronicles" target="_blank">Chronicles: Volume One by Bob Dylan</a>: Dylan, B. (2004).
               <em>Chronicles: Volume one</em>. Simon &amp; Schuster.</li>
             <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
               <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>

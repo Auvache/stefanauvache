@@ -84,7 +84,7 @@ h6, .t6{ @include font-prop(h6); }
 p, .tp { @include font-prop(p); }
 .tp2 { @include font-prop(p2); }
 a, .ta {
-  @include font-prop(p2); @include font-prop(a);
+  @include font-prop(a);
   text-decoration: none;
 }
 p a { @include  font-prop(p); @include font-prop(a);}
@@ -135,12 +135,13 @@ b, strong {
 .intro-heading {
   font-size: 1rem;
   line-height: 1.5rem;
-  font-weight: 200;
+  font-weight: 300;
   margin: 0 0 0.5rem;
 
   @include breakpoint(sm) {
     font-size: 1.5rem;
     line-height: 2.5rem;
+    font-weight: 200;
   }
 }
 

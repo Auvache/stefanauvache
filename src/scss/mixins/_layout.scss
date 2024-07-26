@@ -189,11 +189,8 @@ section {
 }
 
 .article-card {
-  padding: 0 0 2rem;
+  padding: 0 0 4rem;
 
-  a {
-    @include font-prop(h2);
-  }
 }
 
 nav {
@@ -213,7 +210,7 @@ nav {
   margin-top: 2rem;
   background: $alabaster;
   border: 1px solid $site-blue;
-  padding: 1rem 2rem;
+  padding: 1rem;
   * {
     font-size: 0.8rem;
   }
@@ -221,6 +218,10 @@ nav {
   p {
    text-align: center;
     font-weight: bold;
+  }
+
+  ol {
+    padding-left: 1rem;
   }
 
   li {
