@@ -26,7 +26,7 @@
         <p>
           <em>“That's it. You just learned 80% of the rules of good writing. You're welcome.</em>”</p>
         <p>I first assumed that the remaining 20% would include granular, complex stuff like, “know your target audience” or “have an editor run through your work.”</p>
-        <p>Then I read <a target="_blank" :href="affiliateLinks.theWarOfArt"><em>The War of Art</em></a> by Steven Pressfield.</p>
+        <p>Then I read <a target="_blank" :href="affiliateLinks.books.theWarOfArt"><em>The War of Art</em></a> by Steven Pressfield.</p>
         <p>Pressfield's writing embodies many of the principles from Adams' post. His sentences are concise. His “chapters” are often a single paragraph.
           <em>The War of Art</em>
           itself barely breaks 150 pages. Anyone would be hard pressed to cut a phrase from that book without making it worse. If books were people,
@@ -56,7 +56,7 @@
                 https://dilbertblog.typepad.com
               </a>
             </li>
-            <li><a :href="affiliateLinks.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
+            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
               <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
           </ol>
         </div>

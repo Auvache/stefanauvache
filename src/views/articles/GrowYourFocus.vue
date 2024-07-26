@@ -32,9 +32,7 @@
          <p>Eat your snack, fill your water bottle, and go to the bathroom before starting your task. Designate a clean, distraction-free place for work. Put your phone away, sit down, and work.</p>
         <h2>The Roosevelt Dash - exercise for your focus</h2>
         <p>President Theodore Roosevelt is a wannabe focus-master's hero. He focused with an intensity that took him from homeschooling to Harvard to the White House.</p>
-        <p>The following is an exercise I learned from <a :href="affiliateLinks.deepWork" target="_blank">Cal Newport's book
-          <em>Deep Work</em></a>
-          for increasing focus based on the habits of President Theodore Roosevelt. It is called "The Roosevelt Dash".</p>
+        <p>The following is an exercise I learned from <a :href="affiliateLinks.books.deepWork" target="_blank">Cal Newport's book Deep Work</a>for increasing focus based on the habits of President Theodore Roosevelt. It is called "The Roosevelt Dash".</p>
         <ol>
           <li>Pick a task.</li>
           <li>Estimate the time it will take to complete the task.</li>
@@ -55,13 +53,13 @@
         <div class="sources">
           <p>Sources</p>
           <ol>
-            <li><a :href="affiliateLinks.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
+            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
               <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
             <li>The 48 Laws of Power by Robert Greene: Greene, R. (1998).
               <em>The 48 laws of power</em>. Viking Press.</li>
-            <li><a :href="affiliateLinks.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
+            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
               <em>Meditations (G. Hays, Trans.)</em>. Modern Library.</li>
-            <li><a :href="affiliateLinks.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
+            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
               <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
           </ol>
         </div>

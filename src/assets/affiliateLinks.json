@@ -1,11 +1,15 @@
 {
-  "theAlchemist" : "https://amzn.to/4deeuFz",
-  "deepWork" : "https://amzn.to/4fdbN8V",
-  "mansSearchForMeaning" : "https://amzn.to/3LAFvXM",
-  "theWarOfArt" : "https://amzn.to/3ymtMcp",
-  "littlePrinces" : "https://amzn.to/3zSEfwJ",
-  "freakonomics" : "https://amzn.to/4fvlAHR",
-  "mastery" : "https://amzn.to/3Sn2E3Y",
-  "meditations" : "https://amzn.to/3WAGPQP"
+  "books" : {
+    "theAlchemist" : "https://amzn.to/4deeuFz",
+    "deepWork" : "https://amzn.to/4fdbN8V",
+    "mansSearchForMeaning" : "https://amzn.to/3LAFvXM",
+    "theWarOfArt" : "https://amzn.to/3ymtMcp",
+    "littlePrinces" : "https://amzn.to/3zSEfwJ",
+    "freakonomics" : "https://amzn.to/4fvlAHR",
+    "mastery" : "https://amzn.to/3Sn2E3Y",
+    "meditations" : "https://amzn.to/3WAGPQP",
+    "onWriting" : "https://amzn.to/3SN0JWL",
+    "chronicles" : "https://amzn.to/4d0AW5s"
+  }
 }
 
