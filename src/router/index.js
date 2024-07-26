@@ -11,11 +11,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'Stefan Auvache, articles, learning, lifelong learning, education, philosophy, articles, literature, business, technology, music'
         },
         {
           name: 'robots',
@@ -45,16 +45,16 @@ const routes = [
     name: 'Articles',
     component: () => import('../views/Articles.vue'),
     meta: {
-      title: 'About Me',
+      title: 'Articles',
       canonical: 'https://www.stefanauvache.com/articles',
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
         },
         {
           name: 'robots',
@@ -68,16 +68,16 @@ const routes = [
     name: 'Music',
     component: () => import('../views/Music.vue'),
     meta: {
-      title: 'About Me',
+      title: 'Music',
       canonical: 'https://www.stefanauvache.com/music',
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Music I love, music I make'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'music, share music, love music'
         },
         {
           name: 'robots',
@@ -97,11 +97,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Writing should be as easy to understand and as meaningful as possible. Make your work entertaining, but not at the expense of simplicity.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'writing, better writing, business writing, meaningful writing, improve writing, write better articles, war of art, scott adams, steven pressfield, dilbert'
         },
         {
           name: 'robots',
@@ -120,11 +120,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Find interesting, powerful books and read them. These books that have changed my life.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'books, best books, interesting books, powerful books, book recommendations, life-changing books, favorite books, literature, business books'
         },
         {
           name: 'robots',
@@ -143,11 +143,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Eliminate tasks that don\'t need to be done, automate tasks that can be automated, delegate tasks that that can be should be done by others, and do the rest of your work.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'efficiency, eliminate, automate, delegate, do, improve work efficiency, low level tasks, self improvement'
         },
         {
           name: 'robots',
@@ -166,11 +166,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Anyone can learn to improve their focus. Even if your ability to focus sucks, your capacity to focus is greater than you think. You can focus.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'focus, improve focus, self improvement, train focus, learn to focus'
         },
         {
           name: 'robots',
@@ -189,11 +189,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: ''
+          content: 'Find something that engages you. Work to master it. That will bring you satisfaction. Don\'t be afraid to pursue something challenging. Don\'t be afraid to suck at something.'
         },
         {
           name: 'keywords',
-          content: ''
+          content: 'mastery, craft, engaging work, self improvement, robert greene, bob dylan, masters, improve skills, master skills'
         },
         {
           name: 'robots',
@@ -257,10 +257,5 @@ router.beforeEach((to, from, next) => {
     closeModal(modalName)
   }
 });
-
-// for accessibility
-// router.afterEach(() => {
-//   document.getElementById('firstTabIndex').focus()
-// })
 
 export default router
