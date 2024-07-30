@@ -202,6 +202,29 @@ const routes = [
       ]
     },
   },
+  {
+    path: '/articles/monk-week',
+    name: 'MonkWeek',
+    component: () => import('../views/articles/MonkWeek.vue'),
+    meta: {
+      title: 'Monk Week',
+      canonical: 'https://www.stefanauvache.com/articles/monk-week',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'You don\'t have to be successful to set aside time for deep reflection. Setting aside time to read, think, and plan makes you more successful.'
+        },
+        {
+          name: 'keywords',
+          content: 'think week, meditation, reflection, monk week, life calibration'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
 
 ]
 

@@ -2,8 +2,8 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-1">Better Business Writing</h1>
-        <p class="tagline fst-italic blue">June 17, 2024</p>
+        <h1 class="mb-3">Better Business Writing</h1>
+        <p class="tagline fst-italic blue mb-5">June 17, 2024</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>
         <p>Adams is the mastermind behind
