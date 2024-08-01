@@ -1,4 +1,6 @@
-.btn {
+.btn,
+button.btn,
+a.btn {
   background-color: $site-blue;
   padding: 0.5rem 1rem;
   color: $white;
@@ -13,7 +15,12 @@
   &:focus,
   &:active {
     background-color: $site-blue;
-    color: $white;
+    color: $white !important;
+  }
+
+  &:focus-visible {
+    outline: $outline;
+    border-radius: 4px;
   }
 
   &.btn-white {

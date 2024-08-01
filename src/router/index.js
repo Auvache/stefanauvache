@@ -212,11 +212,11 @@ const routes = [
       metaTags: [
         {
           name: 'description',
-          content: 'You don\'t have to be successful to set aside time for deep reflection. Setting aside time to read, think, and plan makes you more successful.'
+          content: 'Discover how a week of introspection during finals changed the author\'s life in "Monk Week." Explore the benefits of taking time for self-reflection, reading influential books, and setting personal values. Learn how this experience inspired a life of freedom and thoughtful decision-making.'
         },
         {
           name: 'keywords',
-          content: 'think week, meditation, reflection, monk week, life calibration'
+          content: 'Monk Week, self-reflection, introspection, life-changing experience, finals week, personal values, life goals, self-discovery, reading for self-improvement, How to Win Friends and Influence People, The 4-Hour Workweek, Bill Gates Think Week, Carl Jung The Tower, setting life goals, personal development, avoiding stress, deep thinking, career planning, life efficiency, soul searching, setting priorities, deep reflection.'
         },
         {
           name: 'robots',
@@ -225,7 +225,29 @@ const routes = [
       ]
     },
   },
-
+  {
+    path: '/articles/relative-sacrifice',
+    name: 'RelativeSacrifice',
+    component: () => import('../views/articles/RelativeSacrifice.vue'),
+    meta: {
+      title: 'Mastery',
+      canonical: 'https://www.stefanauvache.com/articles/relative-sacrifice',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Explore the concept of relative sacrifice in relationships and life, delving into how the value of a sacrifice varies between individuals. This thought-provoking article, inspired by a quote from Gabby Reece and a biblical parable, examines the impact of sacrifices in different contexts—from financial donations to everyday gestures like cooking dinner. Learn how understanding the relative weight of sacrifices can improve your relationships and show appreciation for the efforts of those around you.'
+        },
+        {
+          name: 'keywords',
+          content: 'Relative sacrifice, Sacrifice meaning, Gabby Reece quote, Sacrifice in relationships, Understanding sacrifice, Marriage sacrifices, Value of sacrifice, Biblical parables on sacrifice, Luke 21:1-4 meaning, Sacrifice comparison, Acts of sacrifice, Importance of sacrifice, Emotional sacrifices, Relationship dynamics, Identifying sacrifices in relationships'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
 ]
 
 const router = createRouter({
