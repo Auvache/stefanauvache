@@ -23,7 +23,7 @@
 
         <h2>Do</h2>
         <p>You should now have a shortened list of tasks that you have to accomplish. Now, do your work.</p>
-        <p>Block out a chunk of time, shut out distractions, and do your work. Do similar tasks at the same time. Answer emails in one session. Don’t answer work messages while you are making a presentation, fixing a chunk of code, or designing a new company logo. For the love of all that is holy, don’t watch YouTube while you are working. Focus on the task at hand.</p>
+        <p>Block out a chunk of time, shut out distractions, and do your work. Do similar tasks at the same time. Answer emails in one session. Don't answer work messages while you are making a presentation, fixing a chunk of code, or designing a new company logo. For the love of all that is holy, don't watch YouTube while you are working. Focus on the task at hand.</p>
 
         <br>
         <p>This mantra applies to work, school, household chores, sports, training, building relationships, and just about any situation in which you have something to accomplish.</p>

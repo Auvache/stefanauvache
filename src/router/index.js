@@ -248,6 +248,29 @@ const routes = [
       ]
     },
   },
+  {
+    path: '/articles/weaving-baskets-and-better-essays',
+    name: 'WeavingBasketsAndBetterEssays',
+    component: () => import('../views/articles/WeavingBasketsAndBetterEssays.vue'),
+    meta: {
+      title: 'Weaving Baskets and Better Essays',
+      canonical: 'https://www.stefanauvache.com/articles/weaving-baskets-and-better-essays',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Write better essays with the \"Basket Weaving\" method. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this innovative approach, inspired by anthropology studies, can streamline your writing process and improve your academic performance.'
+        },
+        {
+          name: 'keywords',
+          content: 'better essays, essay writing tips, cohesive writing, organize thoughts, writing method, academic writing, anthropology class, colorful writing technique, essay organization, main ideas in writing, writing process, improve writing skills, college essays, efficient writing, writing strategy, study tips.'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
 ]
 
 const router = createRouter({

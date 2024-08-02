@@ -14,25 +14,25 @@
         <p>Without further blabbing, here are the books that have changed my life. I cannot recommend them more highly to anyone.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.theAlchemist" target="_blank">The Alchemist by Paulo Coelho</a></h2>
-        <p>The beauty of life isn’t where we are headed; it is that we are alive. Follow what drives you. In the end, it is easier to do the hard thing than to live with yourself when you take the easy road.</p>
+        <p>The beauty of life isn't where we are headed; it is that we are alive. Follow what drives you. In the end, it is easier to do the hard thing than to live with yourself when you take the easy road.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.mansSearchForMeaning" target="_blank">Man's Search for Meaning by Viktor Frankl</a></h2>
-        <p>We don’t ask ourselves what the meaning of life is. Life asks us that question when we face trials. We answer by how we respond to those trials. We give life meaning by responding honorably to hardship.</p>
+        <p>We don't ask ourselves what the meaning of life is. Life asks us that question when we face trials. We answer by how we respond to those trials. We give life meaning by responding honorably to hardship.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></h2>
         <p>Our desire to do anything worthwhile is met by Resistance with a capital R. Resistance is the personification of the force that keeps us from doing our work. As a human being with work to do, your main goal each day is this: overcome Resistance.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></h2>
-        <p>The key to satisfying work isn’t the task at hand, it is the depth of focus that you achieve in completing the task. Multitasking is for people who don’t care about what they are doing. Focus on one thing at a time.</p>
+        <p>The key to satisfying work isn't the task at hand, it is the depth of focus that you achieve in completing the task. Multitasking is for people who don't care about what they are doing. Focus on one thing at a time.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.littlePrinces" target="_blank">Little Princes by Connor Grennan</a></h2>
         <p>This is a true story about how selfless service changes who you are. It reminds me over and over again that happiness and meaning are found in serving others. You may not be able to change the world, but you can change the world for someone.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven D. Levitt and Stephen J. Dubner</a></h2>
-        <p>Thinking can be endlessly entertaining. Things aren’t always as they seem. Don’t be afraid to ask questions.</p>
+        <p>Thinking can be endlessly entertaining. Things aren't always as they seem. Don't be afraid to ask questions.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a></h2>
-        <p>Mastery isn’t just something that everyone is capable of; it is our duty as members of society to find and follow our path to mastery. Search your soul for passion, and then to pursue it with everything you have.</p>
+        <p>Mastery isn't just something that everyone is capable of; it is our duty as members of society to find and follow our path to mastery. Search your soul for passion, and then to pursue it with everything you have.</p>
 
         <h2 class="t3"><a class="blue" :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius</a></h2>
         <p>Write about who you are and who you want to be. Strive to be excellent. This is how you change your life.</p>
