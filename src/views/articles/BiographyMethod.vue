@@ -5,7 +5,7 @@
         <h1 class="mb-3">The Biography Method: Enhancing Social Interactions Through Curiosity</h1>
         <p class="tagline fst-italic blue mb-5">August 16, 2024</p>
 
-        <p class="quote">“Practice really hearing what people say. Do your best to get inside their minds.”<br> - Marcus Aurelius</p>
+        <p class="quote">“Practice really hearing what people say. Do your best to get inside their minds.”<br> - Meditations, Marcus Aurelius</p>
         <p>Fred Rogers, aka the Mr. Rogers you may have watched on PBS as a kid, had a unique way of interacting with people. He believed in the importance of listening to others and understanding their life experiences. This can be seen in his longtime friendship with François Clemmons, who played Officer Clemmons on the show.</p>
         <p>Clemmons was one of the first African-American actors to have a recurring role on a children's TV show, and his inclusion was groundbreaking at the time. Rogers took the time to get to know Clemmons personally, understanding his struggles as a black, gay man. Clemmons has shared that Rogers didn’t just see him as an actor or a colleague—he saw him as a whole person, with a complex life story. "Fred Rogers saw me for who I am and loved me anyway." Rogers created a space where Clemmons felt safe to express himself and discuss the challenges he faced, both personally and professionally.</p>
         <p>Clemmons wasn’t the only subject of Fred Rogers’ kindness. By treating everyone he met with deep empathy and a genuine interest in their life stories, he built strong, lasting connections. His ability to see and understand people for who they truly were allowed him to touch the hearts of millions of people around the world.</p>
@@ -27,6 +27,18 @@
         <p>So, next time you find yourself at a ball game with a friend, on a first date, at family dinner, or on a park bench with a stranger, be a little more like Mr. Rogers and try to connect with people. Ask them where they are from. Ask how they ended up here, of all places, and where they want to go next.</p>
         <p>Give the Biography Method a try.</p>
         <p>Everyone has a story to tell. Your job is to get them to tell it.</p>
+
+        <div class="sources">
+          <p>Sources</p>
+          <ol>
+            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
+              <em>Meditations (G. Hays, Trans.)</em>. Modern Library.</li>
+            <li><a :href="affiliateLinks.books.officerClemmons" target="_blank">Officer Clemmons: A Memoir</a>: Clemmons, François (2019).
+              <em>Officer Clemmons: A Memoir</em>. HarperOne.</li>
+            <li><a :href="affiliateLinks.books.howToWinFriendsAndInfluencePeople" target="_blank">How to Win Friends and Influence People</a>: Carnegie, D. (1936).
+              <em>How to win friends and influence people</em>. Simon & Schuster.</li>
+          </ol>
+        </div>
       </div>
     </div>
   </section>

@@ -115,16 +115,16 @@ const routes = [
     name: 'BiographyMethod',
     component: () => import('../views/articles/BiographyMethod.vue'),
     meta: {
-      title: 'Better Business Writing',
+      title: 'The Biography Method: Enhancing Social Interactions Through Curiosity',
       canonical: 'https://www.stefanauvache.com/articles/biography-method',
       metaTags: [
         {
           name: 'description',
-          content: 'Writing should be as easy to understand and as meaningful as possible. Make your work entertaining, but not at the expense of simplicity.'
+          content: 'Discover the Biography Method, inspired by Fred Rogers\' empathetic approach to connecting with others. Learn how to build deeper relationships by actively listening, asking thoughtful questions, and showing genuine curiosity about people\'s life stories.'
         },
         {
           name: 'keywords',
-          content: 'writing, better writing, business writing, meaningful writing, improve writing, write better articles, war of art, scott adams, steven pressfield, dilbert'
+          content: 'Fred Rogers, Biography Method, active listening, empathy in communication, deep connections, François Clemmons, Mr. Rogers\' Neighborhood, Marcus Aurelius quote, building relationships, Dale Carnegie, effective communication, personal storytelling, understanding others.'
         },
         {
           name: 'robots',
@@ -248,6 +248,29 @@ const routes = [
       ]
     },
   },
+  // {
+  //   path: '/articles/premature-optimization',
+  //   name: 'PrematureOptimization',
+  //   component: () => import('../views/articles/PrematureOptimization.vue'),
+  //   meta: {
+  //     title: 'Premature Optimization',
+  //     canonical: 'https://www.stefanauvache.com/articles/premature-optimization',
+  //     metaTags: [
+  //       {
+  //         name: 'description',
+  //         content: 'Explore how Shaun White, the world\'s most famous snowboarder, transitioned into music with his band, Bad Things, and the powerful lesson he learned about the dangers of premature optimization. Discover why over-preparation can hinder success and how embracing challenges leads to greatness.'
+  //       },
+  //       {
+  //         name: 'keywords',
+  //         content: 'Shaun White, professional snowboarder, Bad Things band, Lollapalooza performance, premature optimization, over-preparation, productivity tips, Donald Knuth quote, Steven Pressfield, success strategies, overcoming resistance.'
+  //       },
+  //       {
+  //         name: 'robots',
+  //         content: 'index, follow'
+  //       }
+  //     ]
+  //   },
+  // },
   {
     path: '/articles/relative-sacrifice',
     name: 'RelativeSacrifice',
