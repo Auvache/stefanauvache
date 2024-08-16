@@ -4,7 +4,7 @@
       <div class="fade-in-up-slow">
         <h1 class="intro-heading">In Pursuit of Lifelong Learning</h1>
         <hr class="mt-0 mb-3">
-        <p>My name is <span class="blue fw-normal">Stefan</span>. I am a software engineer, avid reader, a lover of music, and a lifelong learner. When I graduated from university in 2021, I realized that my education was far from over.</p>
+        <p>My name is <span class="blue fw-normal">Stefan</span>. I am a software engineer, avid reader, and a lover of music.</p>
         <p>I am a believer that education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.</p>
         <p class="fw-normal blue">My goal is to find and learn these lessons, and then to share them with you.</p>
       </div>

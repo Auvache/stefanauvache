@@ -111,6 +111,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/biography-method',
+    name: 'BiographyMethod',
+    component: () => import('../views/articles/BiographyMethod.vue'),
+    meta: {
+      title: 'Better Business Writing',
+      canonical: 'https://www.stefanauvache.com/articles/biography-method',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Writing should be as easy to understand and as meaningful as possible. Make your work entertaining, but not at the expense of simplicity.'
+        },
+        {
+          name: 'keywords',
+          content: 'writing, better writing, business writing, meaningful writing, improve writing, write better articles, war of art, scott adams, steven pressfield, dilbert'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/books-that-have-changed-my-life',
     name: 'BooksThatHaveChangedMyLife',
     component: () => import('../views/articles/BooksThatHaveChangedMyLife.vue'),
