@@ -180,6 +180,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/world-class-feedback-loops',
+    name: 'WorldClassFeedbackLoops',
+    component: () => import('../views/articles/WorldClassFeedbackLoops.vue'),
+    meta: {
+      title: 'Creating World-Class Feedback Loops',
+      canonical: 'https://www.stefanauvache.com/articles/world-class-feedback-loops',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Learn how to create world-class feedback loops that drive continuous improvement in any area of life or business. Discover strategies used by successful entrepreneurs like Paul Graham and Gordon Ramsay to enhance performance and achieve excellence through effective feedback systems.'
+        },
+        {
+          name: 'keywords',
+          content: 'feedback loops, world-class feedback, continuous improvement, growth mindset, effective feedback, Paul Graham feedback strategy, Gordon Ramsay success tips, iterative improvement, objective feedback sources, professional feedback loop'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/grow-your-focus',
     name: 'GrowYourFocus',
     component: () => import('../views/articles/GrowYourFocus.vue'),
@@ -248,29 +271,29 @@ const routes = [
       ]
     },
   },
-  // {
-  //   path: '/articles/premature-optimization',
-  //   name: 'PrematureOptimization',
-  //   component: () => import('../views/articles/PrematureOptimization.vue'),
-  //   meta: {
-  //     title: 'Premature Optimization',
-  //     canonical: 'https://www.stefanauvache.com/articles/premature-optimization',
-  //     metaTags: [
-  //       {
-  //         name: 'description',
-  //         content: 'Explore how Shaun White, the world\'s most famous snowboarder, transitioned into music with his band, Bad Things, and the powerful lesson he learned about the dangers of premature optimization. Discover why over-preparation can hinder success and how embracing challenges leads to greatness.'
-  //       },
-  //       {
-  //         name: 'keywords',
-  //         content: 'Shaun White, professional snowboarder, Bad Things band, Lollapalooza performance, premature optimization, over-preparation, productivity tips, Donald Knuth quote, Steven Pressfield, success strategies, overcoming resistance.'
-  //       },
-  //       {
-  //         name: 'robots',
-  //         content: 'index, follow'
-  //       }
-  //     ]
-  //   },
-  // },
+  {
+    path: '/articles/premature-optimization',
+    name: 'PrematureOptimization',
+    component: () => import('../views/articles/PrematureOptimization.vue'),
+    meta: {
+      title: 'Premature Optimization',
+      canonical: 'https://www.stefanauvache.com/articles/premature-optimization',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Explore how Shaun White, the world\'s most famous snowboarder, transitioned into music with his band, Bad Things, and the powerful lesson he learned about the dangers of premature optimization. Discover why over-preparation can hinder success and how embracing challenges leads to greatness.'
+        },
+        {
+          name: 'keywords',
+          content: 'Shaun White, professional snowboarder, Bad Things band, Lollapalooza performance, premature optimization, over-preparation, productivity tips, Donald Knuth quote, Steven Pressfield, success strategies, overcoming resistance.'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
   {
     path: '/articles/relative-sacrifice',
     name: 'RelativeSacrifice',
