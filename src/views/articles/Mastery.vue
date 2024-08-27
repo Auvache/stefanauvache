@@ -7,7 +7,7 @@
 
         <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.</p>
         <p>I recently read <a :href="affiliateLinks.books.onWriting" target="_blank">Stephen King's memoir, On Writing.</a> He talks about the hour-after-hour, story-after-story grind that led him to writeCarrie,his first successful book. I also recently relistened to
-          <a href="https://www.google.com/search?q=the+heist+macklemore&rlz=1C1GCEU_enUS983US983&oq=the+heist+mack&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIKCAMQLhiABBjlBDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0NjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" target="_blank">The Heist by Macklemore and Ryan Lewis.</a> In the songTen Thousand Hours,Macklemore says, “the greats weren't great because at birth they could paint. The greats were great because they paint a lot.”</p>
+          <a href="https://www.google.com/search?q=the+heist+macklemore&rlz=1C1GCEU_enUS983US983&oq=the+heist+mack&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIKCAMQLhiABBjlBDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0NjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" target="_blank">The Heist by Macklemore and Ryan Lewis.</a> In the songTen Thousand Hours,Macklemore says, "the greats weren't great because at birth they could paint. The greats were great because they paint a lot."</p>
         <p>No one is great at the start of something creative. Stephen King wrote for years before he published his first book. His books have sold over 400 million copies! Several of his books have been made into blockbuster films, such as
           It, Shawshank Redemption,
           and
@@ -18,13 +18,13 @@
         <p>In his book, Greene lays out the path to mastery; follow what you are passionate about, prioritize learning over making money when you are applying for jobs, become an apprentice to a mentor, then strike out on your own and create something new. This path leads to the intuitive, finger-tip-feel competence of craft we call mastery.</p>
         <p>You cannot master what you do not love to do. The reason I have gained any depth in my skills as a guitarist and a software developer is because I enjoy the practice of both disciplines.</p>
         <p class="quote">
-          “In order to master a field, you must love the subject and feel a profound connection to it. Your interest must transcend the field itself and border on the religious”
+          "In order to master a field, you must love the subject and feel a profound connection to it. Your interest must transcend the field itself and border on the religious"
         </p>
         <p>The second book I think of is <a :href="affiliateLinks.books.chronicles" target="_blank">Chronicles: Volume One by Bob Dylan</a></p>
         <p class="quote">
-          “I can't say when it occurred to me to write my own songs. I couldn't have come up with anything comparable or halfway close to the folk songs lyrics I was singing to define the way I felt about the world. I guess it happens to you by degrees. You just don't wake up one day and decide that you need to write songs.”
+          "I can't say when it occurred to me to write my own songs. I couldn't have come up with anything comparable or halfway close to the folk songs lyrics I was singing to define the way I felt about the world. I guess it happens to you by degrees. You just don't wake up one day and decide that you need to write songs."
         </p>
-        <p>You aren't born a master songwriter or a master salesman; it “happens to you by degrees.” The reason that Bob Dylan's songs are relevant 60+ years after he wrote them isn't because he is a great singer or guitarist. It's his capacity as a writer to describe the world around him that makes his work so special. He is a master storyteller, and the writing in
+        <p>You aren't born a master songwriter or a master salesman; it "happens to you by degrees." The reason that Bob Dylan's songs are relevant 60+ years after he wrote them isn't because he is a great singer or guitarist. It's his capacity as a writer to describe the world around him that makes his work so special. He is a master storyteller, and the writing in
           Chronicles
           is proof enough.</p>
         <p>To master a craft is to choose work that you enjoy. The quality of your work and your life will undoubtedly improve as you focus on mastery of the subject matter.</p>
@@ -40,18 +40,15 @@
         <p>Don't be afraid to pursue something challenging.</p>
         <p>Don't be afraid to suck at something.</p>
         <p>Find something that engages you. Work to master it. That will bring you satisfaction.</p>
-        <div class="sources">
-          <p>Sources</p>
-          <ol>
-            <li><a :href="affiliateLinks.books.onWriting" target="_blank">On Writing by Stephen King</a>: King, S. (2000).
-              <em>On writing: A memoir of the craft</em>. Scribner.</li>
-            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a>: Greene, R. (2012).
-              <em>Mastery</em>. Viking Adult.</li>
-            <li><a :href="affiliateLinks.books.chronicles" target="_blank">Chronicles: Volume One by Bob Dylan</a>: Dylan, B. (2004).
-              <em>Chronicles: Volume one</em>. Simon &amp; Schuster.</li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
-              <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
-          </ol>
+
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a :href="affiliateLinks.books.onWriting" target="_blank">On Writing by Stephen King</a></li>
+            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a></li>
+            <li><a :href="affiliateLinks.books.chronicles" target="_blank">Chronicles: Volume One by Bob Dylan</a></li>
+            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
+          </ul>
         </div>
       </div>
     </div>

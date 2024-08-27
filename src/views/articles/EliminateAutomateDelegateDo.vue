@@ -28,6 +28,13 @@
         <br>
         <p>This mantra applies to work, school, household chores, sports, training, building relationships, and just about any situation in which you have something to accomplish.</p>
         <p>Eliminate, automate, delegate, do.</p>
+
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Timothy Ferriss</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </section>

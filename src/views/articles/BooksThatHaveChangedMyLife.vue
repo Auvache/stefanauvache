@@ -5,8 +5,8 @@
         <h1 class="mb-3">Books that have changed my life</h1>
         <p class="tagline fst-italic blue mb-5">June 15, 2024</p>
 
-        <p class="quote">“If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.”<br> - Jim Mattis</p>
-        <p class="quote">“You dropped a hundred and fifty grand on a f@#%*^' education you coulda' got for a dollar fifty in late charges at the public library.”<br> - Will, Good Will Hunting</p>
+        <p class="quote">"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you."<br> - Jim Mattis</p>
+        <p class="quote">"You dropped a hundred and fifty grand on a f@#%*^' education you coulda' got for a dollar fifty in late charges at the public library."<br> - Will, Good Will Hunting</p>
         <p>Many are blessed with the opportunity to gain a structured education. Many are not. Whether you have a masters degree in mathematics or started working at 16 years old, there comes a point in life when education is no longer thrust upon you as part of the system. There are no more teachers. No assignments, deadlines, or grades. We are free to study the things that we find engaging at our own pace.</p>
         <p>Often, we choose to study nothing. We allow our learning to stagnate and erode away.</p>
         <p>Lack of structure is a daunting educational hurdle to overcome. There is, however, a surefire way to be a lifelong student:</p>
@@ -38,36 +38,19 @@
         <p>Write about who you are and who you want to be. Strive to be excellent. This is how you change your life.</p>
 
 
-        <div class="sources">
-          <p>Sources</p>
-          <ol>
-            <li>
-              <a target="_blank" href="https://www.goodreads.com/quotes/9949532-if-you-haven-t-read-hundreds-of-books-you-are-functionally">
-                https://www.goodreads.com
-              </a>
-            </li>
-            <li>
-              <a target="_blank" href="https://www.americanrhetoric.com/MovieSpeeches/specialengagements/moviespeechgoodwillhunting.html#:~:text=And%20two%3A%20You%20dropped%20a,charges%20at%20the%20public%20library">
-                https://www.americanrhetoric.com
-              </a>
-            </li>
-            <li><a :href="affiliateLinks.books.theAlchemist" target="_blank">The Alchemist by Paulo Coelho</a>: Coelho, P. (1993).
-              <em>The alchemist</em>. HarperCollins.</li>
-            <li><a :href="affiliateLinks.books.mansSearchForMeaning" target="_blank">Man's Search for Meaning by Viktor Frankl</a>: Frankl, V. E. (2006).
-              <em>Man's search for meaning</em>. Beacon Press.</li>
-            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
-              <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
-              <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing.</li>
-            <li><a :href="affiliateLinks.books.littlePrinces" target="_blank">Little Princes by Connor Grennan</a>: Grennan, C. (2011).
-              <em>Little princes: One man's promise to bring home the lost children of Nepal</em>. William Morrow.</li>
-            <li><a :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven D. Levitt and Stephen J. Dubner</a>: Levitt, S. D., &amp; Dubner, S. J. (2005).
-              <em>Freakonomics: A rogue economist explores the hidden side of everything</em>. William Morrow.</li>
-            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a>: Greene, R. (2012).
-              <em>Mastery</em>. Viking Adult.</li>
-            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
-              <em>Meditations (G. Hays, Trans.)</em>. Modern Library.</li>
-          </ol>
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a target="_blank" href="https://www.imdb.com/title/tt0119217/">Good Will Hunting</a></li>
+            <li><a :href="affiliateLinks.books.theAlchemist" target="_blank">The Alchemist by Paulo Coelho</a></li>
+            <li><a :href="affiliateLinks.books.mansSearchForMeaning" target="_blank">Man's Search for Meaning by Viktor Frankl</a></li>
+            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></li>
+            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
+            <li><a :href="affiliateLinks.books.littlePrinces" target="_blank">Little Princes by Connor Grennan</a></li>
+            <li><a :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven D. Levitt and Stephen J. Dubner</a></li>
+            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a></li>
+            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a></li>
+          </ul>
         </div>
       </div>
     </div>

@@ -88,6 +88,29 @@ const routes = [
   },
   // articles
   {
+    path: '/articles/be-curious-not-opinionated',
+    name: 'BeCuriousNotOpinionated',
+    component: () => import('../views/articles/BeCuriousNotOpinionated.vue'),
+    meta: {
+      title: 'Be Curious, Not Opinionated',
+      canonical: 'https://www.stefanauvache.com/articles/be-curious-not-opinionated',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Explore the power of curiosity over opinion in shaping perspectives and fostering learning. Discover how curiosity leads to deeper understanding and innovation, with insights on how to navigate conversations and debates with an open mind.'
+        },
+        {
+          name: 'keywords',
+          content: 'Curiosity over opinion, curiosity, Benefits of being curious, How to foster curiosity, Opinion vs. curiosity, Ultracrepidarian, Humility in learning, Innovation through curiosity, Effective communication tips, How to approach debates'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/better-business-writing',
     name: 'BetterBusinessWriting',
     component: () => import('../views/articles/BetterBusinessWriting.vue'),
@@ -332,6 +355,29 @@ const routes = [
         {
           name: 'keywords',
           content: 'better essays, essay writing tips, cohesive writing, organize thoughts, writing method, academic writing, anthropology class, colorful writing technique, essay organization, main ideas in writing, writing process, improve writing skills, college essays, efficient writing, writing strategy, study tips.'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/work-deeply',
+    name: 'WorkDeeply',
+    component: () => import('../views/articles/WorkDeeply.vue'),
+    meta: {
+      title: 'Work Deeply',
+      canonical: 'https://www.stefanauvache.com/articles/work-deeply',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Discover the transformative power of deep work with insights from Cal Newport. Learn how focusing on singular tasks can enhance productivity and quality of work.'
+        },
+        {
+          name: 'keywords',
+          content: 'deep work, productivity tips, Cal Newport, focus at work, deep work strategy, concentration techniques, work-life balance, eliminate distractions, boost productivity'
         },
         {
           name: 'robots',

@@ -5,13 +5,13 @@
         <h1 class="mb-3">Grow Your Focus</h1>
         <p class="tagline fst-italic blue mb-5">July 23, 2024</p>
 
-        <p class="quote">“Concentrate every minute like a Roman on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”<br> - Marcus Araelius</p>
-        <p class="quote">“Resistance is like a telemarketer; if you so much as say hello, you're finished. The pro doesn't even pick up the phone. He stays at work.”<br> - Steven Pressfield</p>
+        <p class="quote">"Concentrate every minute like a Roman on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions."<br> - Marcus Araelius</p>
+        <p class="quote">"Resistance is like a telemarketer; if you so much as say hello, you're finished. The pro doesn't even pick up the phone. He stays at work."<br> - Steven Pressfield</p>
         <p>Without focus, life is wasted.</p>
         <p>It doesn't matter if you are a student, working a day job, or on a date. Lack of focus inhibits connection, productivity, and enjoyment. And far too many people accept that they cannot focus.</p>
-        <p>“I have ADHD. I can't make myself read more than a page.”</p>
-        <p>“This class is too hard. I can't finish all of the homework.”</p>
-        <p>“No matter how many dates I go on, I never seem to connect with anyone.”</p>
+        <p>"I have ADHD. I can't make myself read more than a page."</p>
+        <p>"This class is too hard. I can't finish all of the homework."</p>
+        <p>"No matter how many dates I go on, I never seem to connect with anyone."</p>
         <p>Concerns are often legitimate. Maybe you suffer from a disorder that inhibits your ability to pay attention. Maybe you have never learned how to focus. In the end, reasons and excuses (however valid they may be) don't change the result. Not focusing on the task at hand will negatively impact your life.</p>
         <p>Luckily, everyone has the ability to grow their focus.</p>
         <p>Focus is not an inherited trait like hair color or height. It can be widened and deepened. It can be trained and strengthened.</p>
@@ -42,7 +42,7 @@
         <p>This exercise is applicable to working, reading, writing, doing laundry, cleaning dishes, and working out. It will be discouraging at first, and you will often not finish the task at hand in the allotted time. However, your natural ability to focus will engage during your dash to complete your task.</p>
         <p>As you consistently push the limits of your focus with this exercise, your ability to focus will grow.</p>
         <h2>Let yourself be bored</h2>
-        <p class="quote">“You'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slightest hint of boredom.”<br> - Cal Newport</p>
+        <p class="quote">"You'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slightest hint of boredom."<br> - Cal Newport</p>
         <p>This may be the biggest secret to focus.</p>
         <p>Boredom means having nothing for your brain to do. Our brains are constantly assaulted with stimuli. If no time is taken to disengage your mind, engagement becomes a burden. How can you ever expect your mind to focus if it never has a break?</p>
         <p>When boredom sets in, don't chase it away. Welcome it with open arms. When a moment of nothing arises between tasks and scheduled events, don't reach for your phone. Don't go grab a snack to fill the void. Just be bored.</p>
@@ -50,18 +50,14 @@
         <p>Even if your ability to focus sucks, your capacity to focus is greater than you think. You can do your work. You can do it well. You can focus.</p>
 
 
-        <div class="sources">
-          <p>Sources</p>
-          <ol>
-            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a>: Pressfield, S. (2002).
-              <em>The war of art: Break through the blocks and win your inner creative battles</em>. Black Irish Entertainment LLC.</li>
-            <li>The 48 Laws of Power by Robert Greene: Greene, R. (1998).
-              <em>The 48 laws of power</em>. Viking Press.</li>
-            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a>: Aurelius, M. (2002).
-              <em>Meditations (G. Hays, Trans.)</em>. Modern Library.</li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a>: Newport, C. (2016).
-              <em>Deep work: Rules for focused success in a distracted world</em>. Grand Central Publishing..</li>
-          </ol>
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></li>
+            <li><a :href="affiliateLinks.books.the48LawsOfPower" target="_blank">The 48 Laws of Power by Robert Greene</a></li>
+            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a></li>
+            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
+          </ul>
         </div>
       </div>
     </div>

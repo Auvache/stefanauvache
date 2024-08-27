@@ -17,7 +17,7 @@
             <p>Write the paper like it is due in 20 minutes and you will be executed if you don’t finish it.</p>
           </li>
           <li>
-            <p>Go through your first draft and highlight each idea with its assigned color. Each idea is now a colorful “thread” in your paper.</p>
+            <p>Go through your first draft and highlight each idea with its assigned color. Each idea is now a colorful "thread" in your paper.</p>
           </li>
           <li>
             <p>Look to see which colors are the most prevalent, which are lacking, which ones are out of order, etc. Edit and rewrite with the original draft as a reference. Write it well this time.</p>
@@ -123,7 +123,3 @@
     </div>
   </section>
 </template>
-
-<script setup>
-import affiliateLinks from "@/assets/affiliateLinks.json";
-</script>

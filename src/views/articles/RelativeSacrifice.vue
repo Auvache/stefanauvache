@@ -7,14 +7,14 @@
 
         <p>The relative in question does not refer to the group of people you share kinship with (sister, cousin, uncle), but to the comparative (he is tall relative to his friend). Don't be alarmed.</p>
         <p>A quote from <a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tim Ferriss's Tools of Titans</a> book grabbed my attention the other day.</p>
-        <p class="quote">“For a man to say, ‘I'm going to really try to be with one woman,' they're giving you… most of what they've got. They're giving you like 80%. For a woman, maybe she's giving you 35% [to be monogamous]... Or let's say I was very shy and I came out and was having a very nice conversation with you. Maybe I'm giving you 200% because of my nature.”<br> - Gabby Reece</p>
+        <p class="quote">"For a man to say, ‘I'm going to really try to be with one woman,' they're giving you… most of what they've got. They're giving you like 80%. For a woman, maybe she's giving you 35% [to be monogamous]... Or let's say I was very shy and I came out and was having a very nice conversation with you. Maybe I'm giving you 200% because of my nature."<br> - Gabby Reece</p>
         <p>I brought this quote up with my (then pregnant) wife to show her that our marriage is probably a greater sacrifice for me than it is for her. We quickly agreed that growing and birthing a child is a much greater sacrifice, and that I am an idiot.</p>
         <p>The underlying principle of the quote, however, still intrigued me.</p>
         <p>Is a sacrifice of objective value worth the same to different people? </p>
         <p>A $20 donation to the Salvation Army Santa at Walmart in December can come from someone who makes $10,000 a year or $100,000 a year. However, A 10% annual donation from either of those people would total to, respectively, $1,000 and $10,000.</p>
         <p>Which sacrifice is greater? Does it matter?</p>
         <p>The Bible has something to say about this.</p>
-        <p class="quote">“And He [Jesus] looked up and saw the rich putting their gifts into the treasury, and He saw also a certain poor widow putting in two mites. So He said, ‘Truly I say to you that this poor widow has put in more than all; for all these out of their abundance have put in offerings for God, but she out of her poverty put in all the livelihood that she had.'” - Luke 21:1-4</p>
+        <p class="quote">"And He [Jesus] looked up and saw the rich putting their gifts into the treasury, and He saw also a certain poor widow putting in two mites. So He said, ‘Truly I say to you that this poor widow has put in more than all; for all these out of their abundance have put in offerings for God, but she out of her poverty put in all the livelihood that she had.'" - Luke 21:1-4</p>
         <p>Let's say a big shot actor donates $1,000,000 to charity. Then let's say a woman living in her car charitably donates half of her remaining $100 to that Salvation Army Santa ringing the bell at Walmart. </p>
         <p>Which donation does more good?</p>
         <p>Clearly, the $1,000,000 donation has more potential to do good for others than a meager $50. </p>
@@ -28,13 +28,12 @@
         <p>I won't play Icky Thump in the car anymore when we are together (sorry Jack and Meg). </p>
         <p>Thank goodness she likes <a href="https://www.google.com/search?q=the+raconteurs&sca_esv=06f86e98f1702d92&rlz=1C1GCEU_enUS983US983&sxsrf=ADLYWIJmInZ3FcjFXAjb8AF-fEl08bQU6w%3A1722524031144&ei=f6GrZtnICPqrur8PloqhiA8&ved=0ahUKEwiZhPmHhtSHAxX6le4BHRZFCPEQ4dUDCBA&uact=5&oq=the+raconteurs&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnRoZSByYWNvbnRldXJzMhAQLhiABBixAxhDGIMBGIoFMg0QLhiABBhDGNQCGIoFMgUQABiABDIKEC4YgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgoQLhiABBhDGIoFMgoQLhiABBhDGIoFMgoQLhiABBhDGIoFMgUQLhiABDIxEC4YgAQYsQMYQxiDARiKBRiXBRjcBBjeBBjgBBj0AxjxAxj1Axj2Axj3Axj4A9gBA0jfHlDqBljOFHADeACQAQCYAcsBoAHbDKoBBTYuOC4xuAEDyAEA-AEBmAIRoALDDMICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhMQLhiABBiwAxhDGMgDGIoF2AECwgIKECMYgAQYJxiKBcICChAAGIAEGEMYigXCAhMQLhiABBixAxhDGIMBGNQCGIoFwgINEC4YgAQYsQMYQxiKBcICCBAuGIAEGLEDwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBA8ICDhAuGIAEGMcBGI4FGK8BwgIIEC4YgAQY1ALCAggQABiABBixA8ICMRAuGIAEGLEDGEMYgwEYigUYlwUY3AQY3gQY4AQY9AMY8QMY9QMY9gMY9wMY-APYAQOYAwCIBgGQBhO6BgYIARABGAm6BgYIAhABGAi6BgYIAxABGBSSBwU3LjkuMaAH5bgD&sclient=gws-wiz-serp" target="_blank">The Raconteurs</a>.</p>
 
-        <div class="sources">
-          <p>Sources</p>
-          <ol>
-            <li><a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tools of Titans</a>: Ferriss, T. (2016).
-              <em>Tools of titans: The tactics, routines, and habits of billionaires, icons, and world-class performers</em>. Houghton Mifflin Harcourt.</li>
-            <li>The Holy Bible, King James Version. (n.d.). <em>Luke 21:1-4</em>. Cambridge University Press. (Original work published 1769)</li>
-          </ol>
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tools of Titans by Timothy Ferriss</a></li>
+            <li><a href="https://www.kingjamesbibleonline.org/Luke-21-1_21-4/">The Widow's Mite</a></li>
+          </ul>
         </div>
       </div>
     </div>

@@ -19,7 +19,7 @@
           <li><a :href="affiliateLinks.books.focalPoint" target="_blank">Focal Point by Brain Tracy</a></li>
           <li><a :href="affiliateLinks.books.influence" target="_blank">Influence by Robert Cialdini</a></li>
           <li><a :href="affiliateLinks.books.theRichestManInBabylon" target="_blank">The Richest Man in Babylon by George Clason</a></li>
-          <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Tim Ferriss</a></li>
+          <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Timothy Ferriss</a></li>
           <li><a :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven Levitt and Stephen Dubner</a></li>
         </ul>
         <p>After stewing on what other people had to say about life, efficiency, and success, I started to write down the big questions that were on my mind.</p>
@@ -36,7 +36,18 @@
         <p>The next time you have a week off, or a vacation, or a free weekend, take one day, disconnect from the internet, and think about who you want to be. Then write about it.</p>
         <p>Be a monk, not a punk.</p>
 
-
+        <div class="resources">
+          <p>Resources</p>
+          <ul>
+            <li><a :href="affiliateLinks.books.howToWinFriendsAndInfluencePeople" target="_blank">How to Win Friends and Influence People by Dale Carnegie</a></li>
+            <li><a :href="affiliateLinks.books.focalPoint" target="_blank">Focal Point by Brain Tracy</a></li>
+            <li><a :href="affiliateLinks.books.influence" target="_blank">Influence by Robert Cialdini</a></li>
+            <li><a :href="affiliateLinks.books.theRichestManInBabylon" target="_blank">The Richest Man in Babylon by George Clason</a></li>
+            <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Timothy Ferriss</a></li>
+            <li><a :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven Levitt and Stephen Dubner</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Bollingen_Tower" target="_blank">Carl Jung's Tower</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </section>
