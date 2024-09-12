@@ -341,6 +341,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/unplanned-work',
+    name: 'The9090Principle',
+    component: () => import('../views/articles/The9090Principle.vue'),
+    meta: {
+      title: 'Mastery',
+      canonical: 'https://www.stefanauvache.com/articles/mastery',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Find something that engages you. Work to master it. That will bring you satisfaction. Don\'t be afraid to pursue something challenging. Don\'t be afraid to suck at something.'
+        },
+        {
+          name: 'keywords',
+          content: 'mastery, craft, engaging work, self improvement, robert greene, bob dylan, masters, improve skills, master skills'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/weaving-baskets-and-better-essays',
     name: 'WeavingBasketsAndBetterEssays',
     component: () => import('../views/articles/WeavingBasketsAndBetterEssays.vue'),

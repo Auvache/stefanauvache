@@ -1,5 +1,19 @@
 [
   {
+    "slug" : "unplanned-work",
+    "title" : "The 90/90 Principle: Overcoming unplanned work",
+    "datePublished" : "9/13/2024",
+    "categories" : ["Productivity"],
+    "summary" : "Problems arise. Setbacks occur. If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for you and other affected parties."
+  },
+  {
+    "slug" : "work-deeply",
+    "title" : "Work Deeply",
+    "datePublished" : "9/07/2024",
+    "categories" : ["Productivity"],
+    "summary" : "Don’t suffocate your productive potential by splitting your focus. Focus on the task at hand. It may be hard, but it gets easier."
+  },
+  {
     "slug" : "be-curious-not-opinionated",
     "title" : "Be Curious, Not Opinionated",
     "datePublished" : "8/30/2024",
@@ -10,7 +24,7 @@
     "slug" : "world-class-feedback-loops",
     "title" : "Creating World-Class Feedback Loops",
     "datePublished" : "8/23/2024",
-    "categories" : ["Tools", "Productivity"],
+    "categories" : ["Productivity"],
     "summary" : "You don’t have to be a professional to build a world-class feedback loop. In fact, the opposite is true; creating a world-class feedback loop will make you a professional."
   },
   {
@@ -24,14 +38,14 @@
     "slug" : "biography-method",
     "title" : "The Biography Method: Enhancing Social Interactions Through Curiosity",
     "datePublished" : "8/16/2024",
-    "categories" : ["Tools"],
+    "categories" : ["Productivity"],
     "summary" : "It is often difficult to know how to connect with people. Navigating social interactions can be challenging. You can overcome this with the Biography Method, a way of interacting with others by imagining that you are getting ready to write their life story."
   },
   {
     "slug" : "weaving-baskets-and-better-essays",
     "title" : "Weaving Baskets and Better Essays",
     "datePublished" : "8/02/2024",
-    "categories" : ["Tools", "Productivity"],
+    "categories" : ["Productivity"],
     "summary" : "In college, I created a method for writing cohesive essays more quickly. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this colorful approach to writing, inspired by anthropology studies, can streamline your writing process and improve your academic performance."
   },
   {
@@ -52,7 +66,7 @@
     "slug" : "grow-your-focus",
     "title" : "Grow Your Focus",
     "datePublished" : "7/23/2024",
-    "categories" : ["Tools", "Productivity"],
+    "categories" : ["Productivity"],
     "summary" : "It doesn't matter who you are. Lack of focus inhibits connection, productivity, and enjoyment. Too many people think that they can't focus. Trust me, you can."
   },
   {
@@ -73,14 +87,14 @@
     "slug" : "better-business-writing",
     "title" : "Better Business Writing",
     "datePublished" : "6/17/2024",
-    "categories" : ["Tools"],
+    "categories" : ["Productivity"],
     "summary" : "Writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity."
   },
   {
     "slug" : "books-that-have-changed-my-life",
     "title" : "Books That Have Changed My Life",
     "datePublished" : "6/15/2024",
-    "categories" : ["Tools", "Insights"],
+    "categories" : ["Productivity", "Insights"],
     "summary" : "\"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.\" - Jim Mattis"
   }
 ]
