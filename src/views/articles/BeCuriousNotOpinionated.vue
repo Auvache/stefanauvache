@@ -6,11 +6,11 @@
         <p class="tagline fst-italic blue mb-5">August 30, 2024</p>
 
         <p class="quote">
-          “When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.”<br> - Steven Levitt and Stephen Dubner
+          "When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is."<br> - Steven Levitt and Stephen Dubner
         </p>
 
         <p class="quote">
-          “It is the mark of an educated mind to be able to entertain a thought without accepting it.”<br> - Lowell Benion
+          "It is the mark of an educated mind to be able to entertain a thought without accepting it."<br> - Lowell Benion
         </p>
 
         <p>I have a mantra to remind me that I don’t know everything, and that I have a lot to learn:</p>

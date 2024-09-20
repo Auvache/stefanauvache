@@ -5,7 +5,7 @@
         <h1 class="mb-3">The 90/90 Principle: Overcoming unplanned work</h1>
         <p class="tagline fst-italic blue mb-5">September 13, 2024</p>
 
-        <p class="quote">“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.”<br/> - Tom Cargill</p>
+        <p class="quote">"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."<br/> - Tom Cargill</p>
 
         <p>Creative projects take an immense amount of work. Whether you are coding new software, writing a book, building muscle, or raising children, there is more work to do than you plan and prepare for. In software, this is jokingly called the 90/90 principle; once you code the first 90%, you need to code the second 90%.</p>
 
@@ -41,7 +41,7 @@
 
         <p>If everything goes well and you finish all of your work, great! Look at what is going on next week. If something pops up that takes time and/or resources away from your work (you get sick, there is a surprise assignment, your kid throws up all over the car, etc.), you will be prepared, or at least more prepared.</p>
 
-        <p>If I look at my 40-hour workweek, I can reasonably schedule activities that I think will take 30 hours to accomplish. When something “small” or “quick” pops up, I often have time to take care of it without having to drop other things I am working on.</p>
+        <p>If I look at my 40-hour workweek, I can reasonably schedule activities that I think will take 30 hours to accomplish. When something "small" or "quick" pops up, I often have time to take care of it without having to drop other things I am working on.</p>
 
         <br/>
         <p>Problems arise. Setbacks occur. Additional changes are needed and the end product ends up being not quite what you need. If you don’t account for inevitable, necessary unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for you and other affected parties.</p>

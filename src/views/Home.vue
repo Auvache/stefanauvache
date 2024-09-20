@@ -1,15 +1,4 @@
 <template>
-  <section class="section-padding">
-    <div class="container thin-content">
-      <div class="fade-in-up-slow">
-        <h1 class="intro-heading">In Pursuit of Lifelong Learning</h1>
-        <hr class="mt-0 mb-3">
-        <p>My name is <span class="blue fw-normal">Stefan</span>. I am a software engineer, avid reader, and a lover of music.</p>
-        <p>I am a believer that education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.</p>
-        <p class="fw-normal blue">My goal is to find and learn these lessons, and then to share them with you.</p>
-      </div>
-    </div>
-  </section>
   <SubscribeBar />
   <section class="section-padding">
     <div class="container thin-content">
@@ -32,5 +21,5 @@ import Articles from "@/assets/articlesList.json"
 import formatDate from "@/functions/formatDate";
 import sortByKey from "@/functions/sortByKey";
 let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
-sortedArticles = sortedArticles.slice(0,5)
+sortedArticles = sortedArticles.slice(0,10)
 </script>
