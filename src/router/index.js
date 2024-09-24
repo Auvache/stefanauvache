@@ -318,6 +318,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/netflix-chaos-monkey-and-preparing-for-the-worst',
+    name: 'NetflixChaosMonkeyAndPreparingForTheWorst',
+    component: () => import('../views/articles/NetflixChaosMonkeyAndPreparingForTheWorst.vue'),
+    meta: {
+      title: 'Netflix, Chaos Monkey, and Preparing for the Worst',
+      canonical: 'https://www.stefanauvache.com/articles/netflix-chaos-monkey-and-preparing-for-the-worst',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Find something that engages you. Work to master it. That will bring you satisfaction. Don\'t be afraid to pursue something challenging. Don\'t be afraid to suck at something.'
+        },
+        {
+          name: 'keywords',
+          content: 'mastery, craft, engaging work, self improvement, robert greene, bob dylan, masters, improve skills, master skills'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/premature-optimization',
     name: 'PrematureOptimization',
     component: () => import('../views/articles/PrematureOptimization.vue'),

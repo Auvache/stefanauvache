@@ -31,7 +31,6 @@ sortedArticles.forEach((item) => {
   let month = months[date.getMonth()].toString()
   if (!articlesByYear[year]) {
     articlesByYear[year] = {}
-    console.log(articlesByYear)
   }
   if (!articlesByYear[year][month]) {
     articlesByYear[year][month] = {}
