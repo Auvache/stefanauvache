@@ -22,14 +22,14 @@ import formatDate from "@/functions/formatDate";
 import sortByKey from "@/functions/sortByKey";
 
 // featured articles
-let sortedArticles = []
-for (let i in Articles) {
-  if (Articles[i].featured) {
-    sortedArticles.push(Articles[i])
-  }
-}
+// let sortedArticles = []
+// for (let i in Articles) {
+//   if (Articles[i].featured) {
+//     sortedArticles.push(Articles[i])
+//   }
+// }
 
 // latest articles
-// let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
-// sortedArticles = sortedArticles.slice(0,10)
+let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
+sortedArticles = sortedArticles.slice(0,15)
 </script>
