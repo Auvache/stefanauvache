@@ -1,8 +1,16 @@
 [
   {
+    "slug" : "why-you-should-read",
+    "title" : "Why You Should Read",
+    "datePublished" : "2024/10/04",
+    "categories" : ["Insights"],
+    "featured" : false,
+    "summary" : "A reading habit will do more for your personal education level than earning a university degree. Here are three reasons why."
+  },
+  {
     "slug" : "netflix-chaos-monkey-and-preparing-for-the-worst",
     "title" : "Netflix, Chaos Monkey, and Preparing for the Worst",
-    "datePublished" : "9/27/2024",
+    "datePublished" : "2024/09/27",
     "categories" : ["Insights", "Productivity"],
     "featured" : true,
     "summary" : "While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
@@ -10,7 +18,7 @@
   {
     "slug" : "have-you-considered-the-cost",
     "title" : "Have You Considered the Cost?",
-    "datePublished" : "9/20/2024",
+    "datePublished" : "2024/09/20",
     "categories" : ["Insights"],
     "featured" : false,
     "summary" : "\"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind.\" - Robert Green"
@@ -18,7 +26,7 @@
   {
     "slug" : "unplanned-work",
     "title" : "The 90/90 Principle: Overcoming unplanned work",
-    "datePublished" : "9/13/2024",
+    "datePublished" : "2024/09/13",
     "categories" : ["Productivity"],
     "featured" : true,
     "summary" : "Problems arise. Setbacks occur. If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for you and other affected parties."
@@ -26,7 +34,7 @@
   {
     "slug" : "work-deeply",
     "title" : "Work Deeply",
-    "datePublished" : "9/07/2024",
+    "datePublished" : "2024/09/07",
     "categories" : ["Productivity"],
     "featured" : false,
     "summary" : "Don’t suffocate your productive potential by splitting your focus. Focus on the task at hand. It may be hard, but it gets easier."
@@ -34,7 +42,7 @@
   {
     "slug" : "be-curious-not-opinionated",
     "title" : "Be Curious, Not Opinionated",
-    "datePublished" : "8/30/2024",
+    "datePublished" : "2024/08/30",
     "categories" : ["Insights"],
     "featured" : true,
     "summary" : "\"When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.\" - Steven Levitt and Stephen Dubner"
@@ -42,7 +50,7 @@
   {
     "slug" : "world-class-feedback-loops",
     "title" : "Creating World-Class Feedback Loops",
-    "datePublished" : "8/23/2024",
+    "datePublished" : "2024/08/23",
     "categories" : ["Productivity"],
     "featured" : true,
     "summary" : "You don’t have to be a professional to build a world-class feedback loop. In fact, the opposite is true; creating a world-class feedback loop will make you a professional."
@@ -50,7 +58,7 @@
   {
     "slug" : "premature-optimization",
     "title" : "Premature Optimization",
-    "datePublished" : "8/23/2024",
+    "datePublished" : "2024/08/23",
     "categories" : ["Insights"],
     "featured" : false,
     "summary" : "You will never be perfectly prepared to do something great. You can spend all of the time in the world practicing, rehearsing, and studying. You will never feel totally prepared to take opportunities that are truly worthwhile. Over preparation is the death of productivity and success."
@@ -58,7 +66,7 @@
   {
     "slug" : "biography-method",
     "title" : "The Biography Method: Enhancing Social Interactions Through Curiosity",
-    "datePublished" : "8/16/2024",
+    "datePublished" : "2024/08/16",
     "categories" : ["Productivity"],
     "featured" : false,
     "summary" : "It is often difficult to know how to connect with people. Navigating social interactions can be challenging. You can overcome this with the Biography Method, a way of interacting with others by imagining that you are getting ready to write their life story."
@@ -66,7 +74,7 @@
   {
     "slug" : "weaving-baskets-and-better-essays",
     "title" : "Weaving Baskets and Better Essays",
-    "datePublished" : "8/02/2024",
+    "datePublished" : "2024/08/02",
     "categories" : ["Productivity"],
     "featured" : false,
     "summary" : "In college, I created a method for writing cohesive essays more quickly. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this colorful approach to writing, inspired by anthropology studies, can streamline your writing process and improve your academic performance."
@@ -74,7 +82,7 @@
   {
     "slug" : "relative-sacrifice",
     "title" : "Relative Sacrifice",
-    "datePublished" : "8/01/2024",
+    "datePublished" : "2024/08/01",
     "categories" : ["Insights"],
     "featured" : false,
     "summary" : "You can improve your relationships with others by finding the relative weight of the sacrifices others make for you and respond accordingly."
@@ -82,7 +90,7 @@
   {
     "slug" : "monk-week",
     "title" : "Monk Week - How Taking Exams Early Changed My Life",
-    "datePublished" : "7/30/2024",
+    "datePublished" : "2024/07/30",
     "categories" : ["Insights", "Productivity"],
     "featured" : false,
     "summary" : "You don't have to be successful to set aside time for deep reflection. Setting aside time to read, think, and plan makes you more successful."
@@ -90,7 +98,7 @@
   {
     "slug" : "grow-your-focus",
     "title" : "Grow Your Focus",
-    "datePublished" : "7/23/2024",
+    "datePublished" : "2024/07/23",
     "categories" : ["Productivity"],
     "featured" : true,
     "summary" : "It doesn't matter who you are. Lack of focus inhibits connection, productivity, and enjoyment. Too many people think that they can't focus. Trust me, you can."
@@ -98,7 +106,7 @@
   {
     "slug" : "eliminate-automate-delegate-do",
     "title" : "Eliminate Automate Delegate Do",
-    "datePublished" : "7/22/2024",
+    "datePublished" : "2024/07/22",
     "categories" : ["Productivity"],
     "featured" : true,
     "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate."
@@ -106,7 +114,7 @@
   {
     "slug" : "mastery",
     "title" : "Mastery",
-    "datePublished" : "7/17/2024",
+    "datePublished" : "2024/07/17",
     "categories" : ["Insights"],
     "featured" : false,
     "summary" : "No one is great at the start of something creative. Don't be afraid to pursue something challenging. Find something that engages you. Work to master it. That will bring you satisfaction."
@@ -114,7 +122,7 @@
   {
     "slug" : "better-business-writing",
     "title" : "Better Business Writing",
-    "datePublished" : "6/17/2024",
+    "datePublished" : "2024/06/17",
     "categories" : ["Productivity"],
     "featured" : false,
     "summary" : "Writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity."
@@ -122,7 +130,7 @@
   {
     "slug" : "books-that-have-changed-my-life",
     "title" : "Books That Have Changed My Life",
-    "datePublished" : "6/15/2024",
+    "datePublished" : "2024/06/15",
     "categories" : ["Productivity", "Insights"],
     "featured" : true,
     "summary" : "\"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.\" - Jim Mattis"

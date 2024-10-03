@@ -2,7 +2,7 @@
   <SubscribeBar />
   <section class="section-padding">
     <div class="container thin-content">
-      <h2 class="text-black text-center mt-3 mb-4">Featured Articles</h2>
+      <h2 class="text-black text-center mt-3 mb-4">Latest Articles</h2>
       <hr class="mb-4">
       <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
         <router-link class="intro-heading" :to="'/articles/'+article.slug">{{article.title}}</router-link>
@@ -31,5 +31,5 @@ import sortByKey from "@/functions/sortByKey";
 
 // latest articles
 let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
-sortedArticles = sortedArticles.slice(0,15)
+sortedArticles = Articles.slice(0,10)
 </script>

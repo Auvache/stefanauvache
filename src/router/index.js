@@ -433,6 +433,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/why-you-should-read',
+    name: 'WhyYouShouldRead',
+    component: () => import('../views/articles/WhyYouShouldRead.vue'),
+    meta: {
+      title: 'Why You Should Read',
+      canonical: 'https://www.stefanauvache.com/articles/why-you-should-read',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Discover the inspiring story of George Yeomans Pocock, a master-craftsman, and learn why building a reading habit can be more valuable than earning a university degree. Explore how lifelong reading sharpens competence, is cost-effective, and surpasses temporary academic studies.'
+        },
+        {
+          name: 'keywords',
+          content: 'George Yeomans Pocock, rowing, racing shells, handcrafting boats, University of Washington, reading habit, education, lifelong learning, university alternatives, personal competence, affordable education, book recommendations'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/work-deeply',
     name: 'WorkDeeply',
     component: () => import('../views/articles/WorkDeeply.vue'),
