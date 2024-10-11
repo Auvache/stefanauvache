@@ -203,6 +203,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/excellent-advice-for-living',
+    name: 'ExcellentAdviceForLiving',
+    component: () => import('../views/articles/ExcellentAdviceForLiving.vue'),
+    meta: {
+      title: 'Excellent Advice for Living',
+      canonical: 'https://www.stefanauvache.com/articles/excellent-advice-for-living',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Discover valuable life advice from Kevin Kelly\'s book "Excellent Advice for Living: Wisdom I Wish I’d Known Earlier." Explore 20 insightful quotes that inspire personal growth, goal setting, and living a fulfilling life.'
+        },
+        {
+          name: 'keywords',
+          content: 'Kevin Kelly, Excellent Advice for Living, wisdom quotes, life advice, personal growth, goal setting, inspirational quotes, life lessons, self-improvement, personal development, motivation, good habits, meaningful life, living well, Kevin Kelly book.'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/world-class-feedback-loops',
     name: 'WorldClassFeedbackLoops',
     component: () => import('../views/articles/WorldClassFeedbackLoops.vue'),

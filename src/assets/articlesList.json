@@ -1,5 +1,13 @@
 [
   {
+    "slug" : "excellent-advice-for-living",
+    "title" : "Excellent Advice for Living",
+    "datePublished" : "2024/10/11",
+    "categories" : ["Insights"],
+    "featured" : false,
+    "summary" : "\"We tend to overestimate what we can do in a day, and underestimate what we can achieve in a decade.\" - Kevin Kelly"
+  },
+  {
     "slug" : "why-you-should-read",
     "title" : "Why You Should Read",
     "datePublished" : "2024/10/04",
