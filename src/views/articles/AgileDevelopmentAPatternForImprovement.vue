@@ -28,17 +28,7 @@
 
         <p>Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move. Your life will start moving in the direction you really want it to go.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tools of Titans by Timothy Ferriss</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>
 </template>
-
-<script setup>
-import affiliateLinks from "@/assets/affiliateLinks.json";
-</script>
