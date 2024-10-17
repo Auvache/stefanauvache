@@ -10,7 +10,11 @@
         <p>{{article.summary}}</p>
         <router-link class="tp blue" :to="'/articles/'+article.slug" :aria-label="'read ' + article.title">Learn more</router-link>
       </div>
-      <p class="text-center"><router-link class="btn" to="/articles">See all articles</router-link></p>
+
+      <div class="d-flex flex-column flex-sm-row justify-content-center">
+        <router-link class="btn me-0 mb-3 me-sm-3 mb-sm-0" to="/articles">Keep Reading</router-link>
+      </div>
+
     </div>
   </section>
 </template>
@@ -31,5 +35,6 @@ import sortByKey from "@/functions/sortByKey";
 
 // latest articles
 let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
-sortedArticles = Articles.slice(0,10)
+
+sortedArticles = sortedArticles.slice(0,5)
 </script>

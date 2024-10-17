@@ -64,6 +64,29 @@ const routes = [
     },
   },
   {
+    path: '/archive',
+    name: 'Archive',
+    component: () => import('../views/Archive.vue'),
+    meta: {
+      title: 'Archive',
+      canonical: 'https://www.stefanauvache.com/archive',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
+        },
+        {
+          name: 'keywords',
+          content: 'articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/music',
     name: 'Music',
     component: () => import('../views/Music.vue'),
@@ -78,6 +101,29 @@ const routes = [
         {
           name: 'keywords',
           content: 'music, share music, love music'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/subscribe',
+    name: 'Subscribe',
+    component: () => import('../views/Subscribe.vue'),
+    meta: {
+      title: 'Subscribe to Food For Thought',
+      canonical: 'https://www.stefanauvache.com/subscribe',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Subscribe to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join our community today!'
+        },
+        {
+          name: 'keywords',
+          content: 'subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache'
         },
         {
           name: 'robots',
