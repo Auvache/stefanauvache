@@ -134,6 +134,29 @@ const routes = [
   },
   // articles
   {
+    path: '/articles/agile-development-a-pattern-for-improvement',
+    name: 'AgileDevelopmentAPatternForImprovement',
+    component: () => import('../views/articles/AgileDevelopmentAPatternForImprovement.vue'),
+    meta: {
+      title: 'Agile Development: A Pattern for Improvement',
+      canonical: 'https://www.stefanauvache.com/articles/agile-development-a-pattern-for-improvement',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move. Your life will start moving in the direction you really want it to go.'
+        },
+        {
+          name: 'keywords',
+          content: 'agile development, the agile life, agile, business principles applied to life, personal development, project management'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/be-curious-not-opinionated',
     name: 'BeCuriousNotOpinionated',
     component: () => import('../views/articles/BeCuriousNotOpinionated.vue'),
