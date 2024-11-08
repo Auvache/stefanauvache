@@ -32,15 +32,13 @@
 import {ref} from "vue";
 import Articles from "@/assets/articlesList.json"
 
-const categories = ["Technology", "Business", "Philosophy", "Books", "Productivity", "Tools"]
-const articlesList = ref({
-  "Books" : [],
-  "Business" : [],
-  "Philosophy" : [],
-  "Productivity" : [],
-  "Technology" : [],
-  "Tools" : []
+const categories = ["Books","Business","Creativity","Philosophy","Productivity","Technology","Tools"]
+const articlesList = ref({})
+categories.forEach(category => {
+  articlesList.value[category] = []
 })
+console.log(articlesList.value)
+
 categories.forEach(category => {
   for (let article in Articles) {
     if (Articles[article].categories.includes(category)) {
@@ -48,6 +46,5 @@ categories.forEach(category => {
     }
   }
 })
-console.log(articlesList.value)
 
 </script>

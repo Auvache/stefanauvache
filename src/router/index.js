@@ -479,12 +479,35 @@ const routes = [
     },
   },
   {
+    path: '/articles/starting-successful-creative-projects',
+    name: 'StartingSuccessfulCreativeProjects',
+    component: () => import('../views/articles/StartingSuccessfulCreativeProjects.vue'),
+    meta: {
+      title: 'Starting Successful Creative Projects',
+      canonical: 'https://www.stefanauvache.com/articles/starting-successful-creative-projects',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Success comes from an unrefined idea that you work on long enough until it becomes something good, then something better, then something great.'
+        },
+        {
+          name: 'keywords',
+          content: 'creativity, craft, ryan holiday, long term success'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/unplanned-work',
     name: 'The9090Principle',
     component: () => import('../views/articles/The9090Principle.vue'),
     meta: {
       title: 'Mastery',
-      canonical: 'https://www.stefanauvache.com/articles/mastery',
+      canonical: 'https://www.stefanauvache.com/articles/unplanned-work',
       metaTags: [
         {
           name: 'description',
