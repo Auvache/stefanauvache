@@ -1,5 +1,45 @@
 [
   {
+    "slug" : "what-song-are-you-working-on",
+    "title" : "What Song Are You Working On?",
+    "datePublished" : "2024/11/29",
+    "categories" : ["Creativity"],
+    "featured" : false,
+    "summary" : "Scrambled eggs... Everybody calls me scrambled eggs. Sir Paul McCartney has written over a thousand songs. His song Yesterday sounded a lot different a year before it was released."
+  },
+  {
+    "slug" : "hiring-new-people",
+    "title" : "What I Learned From Ray Dalio and Hiring New People",
+    "datePublished" : "2024/11/22",
+    "categories" : ["Philosophy", "Business"],
+    "featured" : false,
+    "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about “fit.” Is the candidate capable of performing job responsibilities competently? Will the candidate work well with and balance out the attributes of others in the company? Will they enjoy the job down the road?"
+  },
+  {
+    "slug" : "meaningful-research",
+    "title" : "Establishing Context for Meaningful Research",
+    "datePublished" : "2024/11/15",
+    "categories" : ["Philosophy", "Business"],
+    "featured" : false,
+    "summary" : "The benefits of asking useful questions are realized by doing meaningful research. For research to be meaningful, it must have a specific context."
+  },
+  {
+    "slug" : "asking-useful-questions",
+    "title" : "Asking Useful Questions",
+    "datePublished" : "2024/11/08",
+    "categories" : ["Productivity", "Business"],
+    "featured" : false,
+    "summary" : "When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke."
+  },
+  {
+    "slug" : "dont-make-beggars",
+    "title" : "Don't Make Beggars",
+    "datePublished" : "2024/11/01",
+    "categories" : ["Philosophy"],
+    "featured" : false,
+    "summary" : "After a collective recognition of personal excess and lots of discussion, the Salwens decided it was time to act. They could live on a lot less. Half, in fact. They sold their $1.5 million home, bought something down the street for roughly half the price, and devoted the next year to researching how they could use the remaining money to make the world a better place."
+  },
+  {
     "slug" : "starting-successful-creative-projects",
     "title" : "Starting Successful Creative Projects",
     "datePublished" : "2024/10/25",

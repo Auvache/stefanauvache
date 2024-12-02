@@ -460,7 +460,7 @@ const routes = [
     name: 'RelativeSacrifice',
     component: () => import('../views/articles/RelativeSacrifice.vue'),
     meta: {
-      title: 'Mastery',
+      title: 'Relative Sacrifice',
       canonical: 'https://www.stefanauvache.com/articles/relative-sacrifice',
       metaTags: [
         {
@@ -593,6 +593,121 @@ const routes = [
       ]
     },
   },
+  {
+    path: '/articles/what-song-are-you-working-on',
+    name: 'WhatSongAreYouWorkingOn',
+    component: () => import('../views/articles/WhatSongAreYouWorkingOn.vue'),
+    meta: {
+      title: 'What Song Are You Working On?',
+      canonical: 'https://www.stefanauvache.com/articles/what-song-are-you-working-on',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Explore the songwriting genius of Sir Paul McCartney, who has written over a thousand songs, including the most covered song of all time, \'Yesterday.\' Discover how the combination of generating numerous ideas and refining them leads to creating timeless music and solving problems.'
+        },
+        {
+          name: 'keywords',
+          content: 'Paul McCartney, songwriting, Yesterday, Beatles, prolific songwriter, creativity, idea refinement, music history, Eric Clapton, songwriting process'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/hiring-new-people',
+    name: 'HiringNewPeople',
+    component: () => import('../views/articles/HiringNewPeople.vue'),
+    meta: {
+      title: 'What I Learned From Ray Dalio and Hiring New People',
+      canonical: 'https://www.stefanauvache.com/articles/hiring-new-people',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Ray Dalio\'s hiring principles focus on fit, values, and systematic decision-making, guiding successful recruitment and personal relationships.'
+        },
+        {
+          name: 'keywords',
+          content: 'Ray Dalio, Bridgewater, Principles, hiring, fit, decision-making, values, skills'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/meaningful-research',
+    name: 'MeaningfulResearch',
+    component: () => import('../views/articles/MeaningfulResearch.vue'),
+    meta: {
+      title: 'Establishing Context for Meaningful Research',
+      canonical: 'https://www.stefanauvache.com/articles/meaningful-research',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Discover how Pixar\'s dedicated research process, from Harvard to Paris, creates authentic storytelling and inspires meaningful questions.'
+        },
+        {
+          name: 'keywords',
+          content: 'Pixar, research, Monsters University, authenticity, storytelling, meaningful questions, Harvard, MIT'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/asking-useful-questions',
+    name: 'AskingUsefulQuestions',
+    component: () => import('../views/articles/AskingUsefulQuestions.vue'),
+    meta: {
+      title: 'Asking Useful Questions',
+      canonical: 'https://www.stefanauvache.com/articles/asking-useful-questions',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Learn from Cal Newport\'s journey balancing a PhD at MIT with writing, using strategic questions to set goals and achieve productive progress.'
+        },
+        {
+          name: 'keywords',
+          content: 'Cal Newport, goal setting, MIT, productivity, writing, useful questions, career success'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/dont-make-beggars',
+    name: 'DontMakeBeggars',
+    component: () => import('../views/articles/DontMakeBeggars.vue'),
+    meta: {
+      title: 'Don\'t Make Beggars',
+      canonical: 'https://www.stefanauvache.com/articles/dont-make-beggars',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'The Salwen family\'s journey to Ghana teaches the power of empowering others over providing aid, fostering self-sufficiency and leadership.'
+        },
+        {
+          name: 'keywords',
+          content: 'Salwen family, empowerment, Ghana, Hunger Project, self-sufficiency, leadership, aid effectiveness'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  }
 ]
 
 const router = createRouter({
