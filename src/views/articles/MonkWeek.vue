@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Monk Week - How Taking Exams Early Changed My Life</h1>
-        <p class="tagline fst-italic blue mb-5">July 30, 2024</p>
+        <p class="tagline fst-italic blue mb-3">July 30, 2024</p>
 
         <p>I never wait in line if I can avoid it. Placing myself unnecessarily in a line is a conscious admonition to myself that I don't care about my time, and therefore don't care about my life.</p>
         <p>This quality of mine manifested in college. On the last day of exam week, a quarter-mile-long line of students cut the campus in half, stretching from the testing center to the cafeteria. I watched kids stand in line for hours, nervously waiting to take an exam. </p>

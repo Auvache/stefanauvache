@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Eliminate Automate Delegate Do</h1>
-        <p class="tagline fst-italic blue mb-5">July 22, 2024</p>
+        <p class="tagline fst-italic blue mb-3">July 22, 2024</p>
 
         <p>There are some tasks that call to us. There are things we long to do. Unfortunately, those tasks are typically suffocated by other things we wish we didn't have to do, but must, to keep the ship afloat.</p>
         <p>Here is a mantra for when you find yourself overwhelmed by the ocean of work sitting in front of you.</p>

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">What Song Are You Working On?</h1>
-        <p class="tagline fst-italic blue mb-5">November 29, 2024</p>
+        <p class="tagline fst-italic blue mb-3">November 29, 2024</p>
 
         <p class="quote">“How is an idea created? Maybe sometimes it strikes like lightning, but mostly it will develop slowly through intensive search under numerous mistakes.” - Rudolph Diesel</p>
 

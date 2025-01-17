@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Creating World-Class Feedback Loops</h1>
-        <p class="tagline fst-italic blue mb-5">August 23, 2024</p>
+        <p class="tagline fst-italic blue mb-3">August 23, 2024</p>
 
         <p>In the summer of 1995, hackers Paul Graham and Robert Morris decided to start an online business. They wanted to write software that anyone could use to generate an online store. In just weeks, they had a viable product ready for testing. Instead of making a downloadable application, the two entrepreneurs opted to create a web-based software (a revolutionary idea at the time). This would allow them to quickly release new, updated versions of their software without forcing their clients to download clunky applications over and over again.</p>
 

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Work Deeply</h1>
-        <p class="tagline fst-italic blue mb-5">September 7, 2024</p>
+        <p class="tagline fst-italic blue mb-3">September 7, 2024</p>
 
         <p class="quote">
           "Few people think more than two or three times a year. I have made an international reputation for myself by thinking once or twice a week." - George Bernard Shaw

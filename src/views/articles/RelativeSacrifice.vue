@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Relative Sacrifice</h1>
-        <p class="tagline fst-italic blue mb-5">August 1, 2024</p>
+        <p class="tagline fst-italic blue mb-3">August 1, 2024</p>
 
         <p>The relative in question does not refer to the group of people you share kinship with (sister, cousin, uncle), but to the comparative (he is tall relative to his friend). Don't be alarmed.</p>
         <p>A quote from <a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tim Ferriss's Tools of Titans</a> book grabbed my attention the other day.</p>

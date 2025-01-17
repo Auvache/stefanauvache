@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Be Curious, Not Opinionated</h1>
-        <p class="tagline fst-italic blue mb-5">August 30, 2024</p>
+        <p class="tagline fst-italic blue mb-3">August 30, 2024</p>
 
         <p class="quote">
           "When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is."<br> - Steven Levitt and Stephen Dubner

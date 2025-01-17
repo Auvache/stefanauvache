@@ -4,7 +4,6 @@
       <div>
         <h1 class="text-sm-center">Music</h1>
         <p>Simply stated, I have learned to spend my time doing what I love. I have played the guitar since I was 11 years old and have no intention of stopping anytime soon.</p>
-        <p>I have no agenda here than to share music that I love and music that I create.</p>
 
         <h2>My music</h2>
         <h3>Acoustic demos</h3>

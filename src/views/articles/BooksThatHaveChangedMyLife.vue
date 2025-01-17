@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Books that have changed my life</h1>
-        <p class="tagline fst-italic blue mb-5">June 15, 2024</p>
+        <p class="tagline fst-italic blue mb-3">June 15, 2024</p>
 
         <p class="quote">"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you."<br> - Jim Mattis</p>
         <p class="quote">"You dropped a hundred and fifty grand on a f@#%*^' education you coulda' got for a dollar fifty in late charges at the public library."<br> - Will, Good Will Hunting</p>

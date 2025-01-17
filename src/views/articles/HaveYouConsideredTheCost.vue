@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Have You Considered the Cost?</h1>
-        <p class="tagline fst-italic blue mb-5">September 20, 2024</p>
+        <p class="tagline fst-italic blue mb-3">September 20, 2024</p>
 
         <p class="quote">"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind."<br /> - Robert Greene</p>
         <p>In Christopher Nolan’s <em>The Prestige</em>, Mr. Angier (played by Hugh Jackman) wants to buy a mystical machine with the power to clone its subjects from the inventor Nikola Tesla (played by David Bowie). The following conversation occurs, starting with Tesla:</p>

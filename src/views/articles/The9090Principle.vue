@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">The 90/90 Principle: Overcoming unplanned work</h1>
-        <p class="tagline fst-italic blue mb-5">September 13, 2024</p>
+        <p class="tagline fst-italic blue mb-3">September 13, 2024</p>
 
         <p class="quote">"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."<br/> - Tom Cargill</p>
 

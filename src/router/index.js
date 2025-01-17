@@ -318,6 +318,29 @@ const routes = [
     },
   },
   {
+    path: '/articles/giving-life-less-meaning',
+    name: 'GivingLifeLessMeaning',
+    component: () => import('../views/articles/GivingLifeLessMeaning.vue'),
+    meta: {
+      title: 'Rewards, Punishments, and Giving Life Less Meaning',
+      canonical: 'https://www.stefanauvache.com/articles/giving-life-less-meaning',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Discover the surprising results of Gneezy and Rustichini\'s study on fines and human behavior, exploring the impacts of transactional vs. intrinsic motivation. Learn how incentives can reshape our decisions, punishments can backfire, and rewards can diminish natural motivation.'
+        },
+        {
+          name: 'keywords',
+          content: 'human motivation, Gneezy and Rustichini study, intrinsic vs transactional motivation, behavior study, psychology of fines, economics of behavior, intrinsic rewards, parenting lessons, motivation and punishment, Mark Twain quotes'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles/grow-your-focus',
     name: 'GrowYourFocus',
     component: () => import('../views/articles/GrowYourFocus.vue'),
@@ -355,6 +378,29 @@ const routes = [
         {
           name: 'keywords',
           content: 'mastery, craft, engaging work, self improvement, robert greene, bob dylan, masters, improve skills, master skills'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
+    path: '/articles/on-living-a-fulfilling-life',
+    name: 'LivingAFulfillingLife',
+    component: () => import('../views/articles/LivingAFulfillingLife.vue'),
+    meta: {
+      title: 'On Living a Fulfilling Life...',
+      canonical: 'https://www.stefanauvache.com/articles/on-living-a-fulfilling-life',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Journey through the life-changing insights from the miracle landing of US Airways Flight 1549. Learn Ric Elias\' three key lessons on living fully, prioritizing happiness, and aging with a forward-looking mindset for a more fulfilling life.'
+        },
+        {
+          name: 'keywords',
+          content: 'US Airways Flight 1549, Miracle on the Hudson, Ric Elias life lessons, Chesley Sullenberger, focus on happiness, enjoy life now, parenting advice, aging gracefully, future-focused mindset, personal growth'
         },
         {
           name: 'robots',

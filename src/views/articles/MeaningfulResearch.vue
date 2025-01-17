@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Establishing Context for Meaningful Research</h1>
-        <p class="tagline fst-italic blue mb-5">November 15, 2024</p>
+        <p class="tagline fst-italic blue mb-3">November 15, 2024</p>
 
         <p>In December 2009, a dozen Pixar employees flew from San Francisco to Boston to spend time with students and faculty on the Harvard and MIT campuses. They visited everything from research labs to frat houses, taking detailed notes about how the students interacted with each other, how the teachers inspired and intimidated the new students, and what it feels like to eat cheap pizza in front of a 350-year-old library.</p>
 
