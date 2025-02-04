@@ -1,8 +1,7 @@
 <template>
   <Navbar />
   <div id="mainContent" class="loading">
-    <router-view class="fade-in-up"/>
-<!--    <EmailListUpsell />-->
+    <router-view/>
   </div>
   <Footer />
 </template>
@@ -11,5 +10,4 @@
 import '@/scss/_global.scss'
 import Navbar from '@/components/Navbar.vue'
 import Footer from '@/components/Footer.vue'
-// import EmailListUpsell from '@/components/EmailListUpsell.vue'
 </script>

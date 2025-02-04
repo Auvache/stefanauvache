@@ -3,9 +3,7 @@
     <div class="upsellContent">
       <button @click="closeModal" type="button" class="btn-close btn-close-white" aria-label="Close"></button>
       <p class="white mb-0">Subscribe to the <span class="fw-bold fst-italic">Food For Thought</span> email list for weekly articles on practical life lessons from the worlds of technology, business, literature, and music.</p>
-      <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center">
-        <component is="script" async data-uid="0396ab84d5" src="https://stefan-bradley.ck.page/0396ab84d5/index.js"></component>
-      </div>
+      <router-link class="btn btn-white mt-5" to="/subscribe">Subscribe</router-link>
     </div>
   </div>
 </template>

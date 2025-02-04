@@ -15,7 +15,7 @@ a.btn {
   &:focus,
   &:active {
     background-color: $site-blue;
-    color: $white !important;
+    color: $white;
   }
 
   &:focus-visible {
