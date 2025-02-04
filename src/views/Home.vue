@@ -1,8 +1,7 @@
 <template>
-  <SubscribeBar />
   <section class="section-padding">
     <div class="container thin-content">
-      <h2 class="text-black text-center mt-3 mb-4">Latest Articles</h2>
+      <h2 class="text-black text-center mt-3 mb-4">Featured Articles</h2>
       <hr class="mb-4">
       <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
         <router-link class="intro-heading" :to="'/articles/'+article.slug">{{article.title}}</router-link>
@@ -12,7 +11,7 @@
       </div>
 
       <div class="d-flex flex-column flex-sm-row justify-content-center">
-        <router-link class="btn me-0 mb-3 me-sm-3 mb-sm-0" to="/articles">Keep Reading</router-link>
+        <router-link class="btn me-0 mb-3 me-sm-3 mb-sm-0" to="/articles">More articles</router-link>
       </div>
 
     </div>
@@ -20,21 +19,20 @@
 </template>
 
 <script setup>
-import SubscribeBar from "@/components/SubscribeBar.vue";
 import Articles from "@/assets/articlesList.json"
 import formatDate from "@/functions/formatDate";
 import sortByKey from "@/functions/sortByKey";
 
 // featured articles
-// let sortedArticles = []
-// for (let i in Articles) {
-//   if (Articles[i].featured) {
-//     sortedArticles.push(Articles[i])
-//   }
-// }
+let sortedArticles = []
+for (let i in Articles) {
+  if (Articles[i].featured) {
+    sortedArticles.push(Articles[i])
+  }
+}
 
 // latest articles
-let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
+// let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
 
-sortedArticles = sortedArticles.slice(0,5)
+// sortedArticles = sortedArticles.slice(0,5)
 </script>

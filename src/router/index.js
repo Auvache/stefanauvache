@@ -41,6 +41,29 @@ const routes = [
 
   // pages
   {
+    path: '/about',
+    name: 'About',
+    component: () => import('../views/About.vue'),
+    meta: {
+      title: 'About Stefan Auvache',
+      canonical: 'https://www.stefanauvache.com/about',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
+        },
+        {
+          name: 'keywords',
+          content: 'about, articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/articles',
     name: 'Articles',
     component: () => import('../views/Articles.vue'),
