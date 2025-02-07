@@ -1,17 +1,16 @@
 <template>
   <section class="section-padding">
     <div class="container thin-content">
-      <h2 class="text-black text-center mt-3 mb-4">Featured Articles</h2>
+      <h1 class="t2 text-center text-black mt-3 mb-4">Featured Articles</h1>
       <hr class="mb-4">
       <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
         <router-link class="intro-heading" :to="'/articles/'+article.slug">{{article.title}}</router-link>
         <p class="fst-italic">{{formatDate(article.datePublished)}}</p>
         <p>{{article.summary}}</p>
-        <router-link class="tp blue" :to="'/articles/'+article.slug" :aria-label="'read ' + article.title">Learn more</router-link>
       </div>
 
       <div class="d-flex flex-column flex-sm-row justify-content-center">
-        <router-link class="btn me-0 mb-3 me-sm-3 mb-sm-0" to="/articles">More articles</router-link>
+        <router-link to="/articles">Keep reading...</router-link>
       </div>
 
     </div>
@@ -25,8 +24,12 @@ import sortByKey from "@/functions/sortByKey";
 
 // featured articles
 let sortedArticles = []
+let evergreenArticles = []
 for (let i in Articles) {
   if (Articles[i].featured) {
+    if (Articles[i].image) {
+      Articles[i].imagePath = require("@/assets/img/" + Articles[i].image)
+    }
     sortedArticles.push(Articles[i])
   }
 }

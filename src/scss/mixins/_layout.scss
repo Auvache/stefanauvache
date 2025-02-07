@@ -7,19 +7,19 @@
     max-width: 100%;
   } @else if $point == smallest {
     width: $body-content-thinnest;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
   } @else if $point == small {
     width: $body-content-thin;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
   } @else if $point == medium {
     width: $body-content-medium;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
   } @else {
     width: $body-content-width;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
   }
 }
@@ -284,5 +284,84 @@ nav {
   &:hover {
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
   }
-
 }
+
+.evergreen-articles {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  grid-gap: 1rem;
+
+  .evergreen-article {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1rem;
+    text-align: center;
+    transition: all 500ms;
+
+    img {
+      object-fit: cover;
+      width: 200px;
+      height: 200px;
+      margin-bottom: 1rem;
+      transition: all 500ms;
+    }
+
+    &:hover {
+      img {
+        transform: scale(1.05);
+      }
+    }
+  }
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+  }
+}
+
+.menu-links {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  .hamburger-menu {
+    position: absolute;
+    right: 0;
+    background: $white;
+    border: 1px solid $site-blue;
+    list-style: none;
+    padding: 0.5rem 1.5rem;
+    color: $site-text;
+    width: 200px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    transition: all 500ms;
+  }
+}
+
+.hamburger-icon {
+  display: inline-block;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  opacity: 0.8;
+  transition: all 500ms;
+
+  .bar1, .bar2, .bar3 {
+    width: 20px;
+    height: 2px;
+    background-color: #fff;
+    display: block;
+  }
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+

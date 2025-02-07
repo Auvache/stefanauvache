@@ -1,7 +1,7 @@
 <template>
   <section id="subscribe" class="section-padding bg-dark-blue">
     <div class="container thinnest-content text-center">
-      <h1 class="white fst-italic">Subscribe</h1>
+      <h1 class="white fst-italic">Subscribe to Food for Thought</h1>
       <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center mb-3">
         <component is="script" async data-uid="0396ab84d5" src="https://stefan-bradley.ck.page/0396ab84d5/index.js"></component>
       </div>

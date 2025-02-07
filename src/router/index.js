@@ -133,6 +133,29 @@ const routes = [
     },
   },
   {
+    path: '/sitemap',
+    name: 'Sitemap',
+    component: () => import('../views/Sitemap.vue'),
+    meta: {
+      title: 'Stefan Auvache Sitemap',
+      canonical: 'https://www.stefanauvache.com/sitemap',
+      metaTags: [
+        {
+          name: 'description',
+          content: 'Sitemap for Stefan Auvache'
+        },
+        {
+          name: 'keywords',
+          content: 'sitemap, Stefan Auvache'
+        },
+        {
+          name: 'robots',
+          content: 'index, follow'
+        }
+      ]
+    },
+  },
+  {
     path: '/subscribe',
     name: 'Subscribe',
     component: () => import('../views/Subscribe.vue'),
@@ -830,6 +853,12 @@ router.beforeEach((to, from, next) => {
     let modalName = modals[i].id.replace('Modal','')
     closeModal(modalName)
   }
+
+  let menu = document.getElementById("dropdown");
+  if (menu)
+    if (!menu.classList.contains("d-none")) {
+      menu.classList.toggle("d-none");
+    }
 });
 
 export default router
