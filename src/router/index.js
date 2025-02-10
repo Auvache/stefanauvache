@@ -34,6 +34,10 @@ const routes = [
         {
           name: 'description',
           content: 'Requested Page Not Found on'
+        },
+        {
+          name: 'robots',
+          content: 'noindex, nofollow'
         }
       ]
     },
@@ -127,7 +131,7 @@ const routes = [
         },
         {
           name: 'robots',
-          content: 'index, follow'
+          content: 'noindex, nofollow'
         }
       ]
     },
