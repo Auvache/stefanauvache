@@ -6,7 +6,6 @@
           STEFAN AUVACHE
         </router-link>
         <div class="menu-links">
-          <router-link class="white" to="/subscribe">Subscribe</router-link>
           <div>
             <button class="hamburger-icon" type="button" @click="openMenu">
                 <span class="bar1 mb-1"></span>
@@ -24,10 +23,21 @@
     </div>
   </nav>
   <div class="nav-buffer"></div>
+  <div id="subscribeBanner">
+    <div class="position-relative">
+      <router-link class="white" to="/subscribe">Subscribe to <span class="d-none d-sm-inline">the </span><span class="fst-italic fw-bold">Food for Thought</span><span class="d-none d-sm-inline"> email list</span></router-link>
+      <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>
+    </div>
+  </div>
 </template>
 <script setup>
 const openMenu = () => {
   let menu = document.getElementById("dropdown");
   menu.classList.toggle("d-none");
+}
+
+const closeSubscribeBanner = () => {
+  let banner = document.getElementById("subscribeBanner");
+  banner.classList.add("d-none");
 }
 </script>

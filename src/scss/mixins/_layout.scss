@@ -201,7 +201,7 @@ section {
 nav {
   position: fixed;
   width: 100%;
-  z-index: 1000;
+  z-index: 10000;
 }
 
 .nav-buffer {
@@ -361,6 +361,24 @@ nav {
 
   &:hover {
     opacity: 1;
+  }
+}
+
+#subscribeBanner {
+  border-top: 1px solid $white;
+  padding: 0.25rem 0;
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  background-color: $site-blue;
+  font-size: 0.8rem;
+  text-align: center;
+
+  button {
+    font-size: 0.7rem;
+    position: absolute;
+    right: 0.5rem;
+    margin-top: 1px;
   }
 }
 

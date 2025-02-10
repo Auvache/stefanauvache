@@ -9,7 +9,7 @@
         <p>My goal is to take the tools, principles, and philosophies that have most benefited my character, and to share them with everyone I can.</p>
         <ul class="list-unstyled">
           <li><router-link to="/articles">Read my articles</router-link></li>
-          <li><router-link to="/music">Listen to my music</router-link></li>
+<!--          <li><router-link to="/music">Listen to my music</router-link></li>-->
         </ul>
       </div>
     </div>
