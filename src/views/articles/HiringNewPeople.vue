@@ -4,6 +4,7 @@
       <div>
         <h1 class="mb-3">What I Learned From Ray Dalio and Hiring New People</h1>
         <p class="tagline fst-italic blue mb-3">November 22, 2024</p>
+        <img src="@/assets/img/articles/hiring-new-people.jpg" alt="" class="mb-3">
 
         <p>Ray Dalio is the founder of <a href="https://www.bridgewater.com" target="_blank">Bridgewater</a>, one of the most successful investment firms on the planet. His life has largely been a quest to systematize and optimize decision making by learning the principles and laws that govern how things work. His book <a :href="affiliateLinks.books.principles" target="_blank">Principles</a> is broken up into three major sections; a biography of his career, his systems for life, and his systems for work. In the section about his work systems, he talks about his principles for hiring new people.</p>
 
@@ -36,13 +37,6 @@
         <p>You have “hired” and will continue to “hire” people for all sorts of positions in your life. You will spend your evenings, weekends, holiday seasons, and years on friends, family, and various other relationships. Unlike money spent on paying employees, the time you spend with people is time that you cannot earn back.</p>
 
         <p>How do you choose who you give your time to? What does your interview process look like? Do you focus on values, abilities, and skills in that order? Do you know what you are looking for? Do you spend your time on people because they are who you want to spend time with, or because they were the best people around when you were hiring?</p>
-
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.principles" target="_blank">Principles by Ray Dalio</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

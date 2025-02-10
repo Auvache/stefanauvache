@@ -28,15 +28,10 @@ const getCookies = function(){
 
 const setCookie = (name, value, daysUntilExpiration) => {
   const date  = new Date();
-  console.log(date)
   let timestamp = date.getTime();
-  console.log(timestamp)
   let newTimestamp = timestamp + (daysUntilExpiration * 24 * 60 * 60 * 1000);
-  console.log(newTimestamp)
   date.setTime(newTimestamp);
-  console.log(date)
   let expires = "expires="+ date.toUTCString();
-  console.log(expires)
   document.cookie = name + "=" + value + ";" + expires + ";path=/";
 }
 

@@ -4,6 +4,7 @@
       <div>
         <h1 class="mb-3">Be Curious, Not Opinionated</h1>
         <p class="tagline fst-italic blue mb-3">August 30, 2024</p>
+        <img src="@/assets/img/articles/curious-not-opinionated.jpg" alt="" class="mb-3">
 
         <p class="quote">
           "When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is."<br> - Steven Levitt and Stephen Dubner

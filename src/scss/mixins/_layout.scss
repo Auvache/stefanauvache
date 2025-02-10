@@ -7,19 +7,19 @@
     max-width: 100%;
   } @else if $point == smallest {
     width: $body-content-thinnest;
-    max-width: 95%;
+    max-width: 100%;
     margin: 0 auto;
   } @else if $point == small {
     width: $body-content-thin;
-    max-width: 95%;
+    max-width: 100%;
     margin: 0 auto;
   } @else if $point == medium {
     width: $body-content-medium;
-    max-width: 95%;
+    max-width: 100%;
     margin: 0 auto;
   } @else {
     width: $body-content-width;
-    max-width: 95%;
+    max-width: 100%;
     margin: 0 auto;
   }
 }
@@ -73,7 +73,7 @@ section {
   }
 }
 .container {
-  max-width: 90%;
+  max-width: 100%;
 }
 .hero {
   padding-top: 160px;
@@ -194,8 +194,7 @@ section {
 }
 
 .article-card {
-  padding: 0 0 4rem;
-
+  display: block;
 }
 
 nav {

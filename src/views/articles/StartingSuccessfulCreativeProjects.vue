@@ -4,6 +4,7 @@
       <div>
         <h1 class="mb-3">Starting Successful Creative Projects</h1>
         <p class="tagline fst-italic blue mb-3">October 25, 2024</p>
+        <img src="@/assets/img/articles/creative-projects.jpg" alt="" class="mb-3">
 
         <p>Ryan Holiday has written 15 books, sold six million copies of those books, and spent more than 200 weeks on bestseller lists for his work. The secret to his creative success doesn't come from the goal to write loads of books, or even to sell a certain number of copies. His success comes from a daily reading and writing practice. Process over product, as it were.</p>
 

@@ -7,15 +7,15 @@
         </router-link>
         <div class="menu-links">
           <div>
-            <button class="hamburger-icon" type="button" @click="openMenu">
+            <button class="hamburger-icon" type="button" @click="toggleMenu">
                 <span class="bar1 mb-1"></span>
                 <span class="bar2 mb-1"></span>
                 <span class="bar3"></span>
             </button>
             <ul id="dropdown" class="hamburger-menu d-none">
-              <li><router-link to="/articles">Read more articles</router-link></li>
-              <li><router-link to="/archive">Visit the archive</router-link></li>
-              <li><router-link to="/about">Learn more</router-link></li>
+              <li><router-link @click="toggleMenu" to="/articles">Read more articles</router-link></li>
+              <li><router-link @click="toggleMenu" to="/archive">Visit the archive</router-link></li>
+              <li><router-link @click="toggleMenu" to="/about">Learn more</router-link></li>
             </ul>
           </div>
         </div>
@@ -31,7 +31,9 @@
   </div>
 </template>
 <script setup>
-const openMenu = () => {
+import {ref} from "vue";
+
+const toggleMenu = () => {
   let menu = document.getElementById("dropdown");
   menu.classList.toggle("d-none");
 }
@@ -40,4 +42,6 @@ const closeSubscribeBanner = () => {
   let banner = document.getElementById("subscribeBanner");
   banner.classList.add("d-none");
 }
+
+const path = ref(window.location.pathname)
 </script>

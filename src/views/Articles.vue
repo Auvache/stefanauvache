@@ -31,7 +31,6 @@ const articlesList = ref({})
 categories.forEach(category => {
   articlesList.value[category] = []
 })
-console.log(articlesList.value)
 
 categories.forEach(category => {
   for (let article in Articles) {
