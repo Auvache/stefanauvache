@@ -2,5 +2,6 @@
 
 User-agent: *
 Disallow: /include/
+Disallow: /article/Template
 
 Sitemap: https://www.stefanauvache.com/sitemap.xml
