@@ -15,7 +15,7 @@
 
 <script setup>
 // meta tags
-let metaTitle = 'Music | Stefan Auvache'
+let metaTitle = 'Stefan Auvache | Music'
 let metaDescription = 'Music I love, music I make'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, music, share music, love music, Stefan Auvache music'
 let metaCanonical = 'www.stefanauvache.com/music'

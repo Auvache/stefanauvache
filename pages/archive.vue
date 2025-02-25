@@ -19,7 +19,7 @@
         </div>
 
         <div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-          <NuxtLink class="btn" to="/articles">Articles By Category</NuxtLink>
+          <NuxtLink to="/articles">Articles By Category</NuxtLink>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ sortedArticles.forEach((item) => {
 })
 
 // meta tags
-let metaTitle = 'Article Archive | Stefan Auvache'
+let metaTitle = 'Stefan Auvache | Article Archive'
 let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, archive, article archive, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
 let metaCanonical = 'www.stefanauvache.com/archive'

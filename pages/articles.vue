@@ -14,7 +14,7 @@
         </div>
 
         <div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-          <NuxtLink class="btn" to="/archive">Articles By Date</NuxtLink>
+          <NuxtLink to="/archive">Articles By Date</NuxtLink>
         </div>
 
       </div>
@@ -42,7 +42,7 @@ categories.forEach(category => {
 
 
 // meta tags
-let metaTitle = 'Articles | Stefan Auvache'
+let metaTitle = 'Stefan Auvache | Articles'
 let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
 let metaCanonical = 'www.stefanauvache.com/articles'

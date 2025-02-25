@@ -42,7 +42,7 @@ for (let i in Articles) {
 // sortedArticles = sortedArticles.slice(0,5)
 
 // meta tags
-let metaTitle = 'Welcome | Stefan Auvache'
+let metaTitle = 'Articles by Stefan Auvache'
 let metaDescription = 'Education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, technology, tech, books, lifelong learning, food for thought'
 let metaCanonical = 'www.stefanauvache.com'

@@ -1,11 +1,12 @@
 [
   {
     "slug" : "on-living-a-fulfilling-life",
-    "title" : "On Living a Fulfilling Life...",
+    "title" : "On Living a Fulfilling Life",
     "datePublished" : "2024/12/20",
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "on living a fulfilling life, Ric Elias, life lessons, near death experience, looking to the future",
     "summary" : "\"I think people get old when they stop thinking about the future. If you want to find someone's true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they've gotten old.\" - Ric Elias"
   },
   {
@@ -15,6 +16,7 @@
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "rewards, punishments, faulty incentive structures, bad incentives, incentives, losing meaning",
     "summary" : "\"There are wealthy gentlemen in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line, in the summer, because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work and then they would resign.\" - Mark Twain"
   },
   {
@@ -24,6 +26,7 @@
     "categories" : ["Creativity"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "payul mccartney, yesterday song, beatles, creative process, creativity",
     "summary" : "Scrambled eggs... Everybody calls me scrambled eggs. Sir Paul McCartney has written over a thousand songs. His song Yesterday sounded a lot different a year before it was released."
   },
   {
@@ -33,6 +36,7 @@
     "categories" : ["Philosophy", "Business"],
     "featured" : true,
     "image" : "hiring-new-people.jpg",
+    "keywords" : "hiring people, hiring new people, ray dalio, lessons from ray dalio, job fit",
     "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about “fit.” Is the candidate capable of performing job responsibilities competently? Will they enjoy the job down the road?"
   },
   {
@@ -42,6 +46,7 @@
     "categories" : ["Philosophy", "Business"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "meaningful research, useful questions, context for research",
     "summary" : "The benefits of asking useful questions are realized by doing meaningful research. For research to be meaningful, it must have a specific context."
   },
   {
@@ -51,6 +56,7 @@
     "categories" : ["Productivity", "Business"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "asking questions, asking useful questions, questions lead to solutions, ask the right questions",
     "summary" : "When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke."
   },
   {
@@ -60,6 +66,7 @@
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "charity, wasted charity, don't make beggars, help others to help themselves",
     "summary" : "After a collective recognition of personal excess and lots of discussion, the Salwens decided it was time to act. They could live on a lot less. Half, in fact. They sold their $1.5 million home, bought something down the street for roughly half the price, and devoted the next year to researching how they could use the remaining money to make the world a better place."
   },
   {
@@ -69,6 +76,7 @@
     "categories" : ["Creativity"],
     "featured" : true,
     "image" : "creative-projects.jpg",
+    "keywords" : "creative projects, starting creative projects, better with time, investing in creativity",
     "summary" : "\"If there is any magic in creative expression, it's how small, even silly ideas can become big, important, aw-inspiring works if a person invests enough time in them.\" - Ryan Holiday"
   },
   {
@@ -78,6 +86,7 @@
     "categories" : ["Technology"],
     "featured" : true,
     "image" : "agile.jpg",
+    "keywords" : "agile, agile development, agile life, pattern for improvement",
     "summary" : "Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move."
   },
   {
@@ -87,6 +96,7 @@
     "categories" : ["Books"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "kevin kelly, excellent advice for living, lessons from kevin kelly, lessons from excellent advice for living",
     "summary" : "\"We tend to overestimate what we can do in a day, and underestimate what we can achieve in a decade.\" - Kevin Kelly"
   },
   {
@@ -96,6 +106,7 @@
     "categories" : ["Books"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "reading, why you should read, read more, importance of reading",
     "summary" : "A reading habit will do more for your personal education level than earning a university degree. Here are three reasons why."
   },
   {
@@ -105,6 +116,7 @@
     "categories" : ["Technology", "Business"],
     "featured" : true,
     "image" : "netflix.jpg",
+    "keywords" : "netflix, chaos monkey, preparing for the worst, planning to handle disaster",
     "summary" : "While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
   },
   {
@@ -114,6 +126,7 @@
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "have you considered the cost, true cost, opportunity cost, opportunity cost of our actions",
     "summary" : "\"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind.\" - Robert Green"
   },
   {
@@ -123,6 +136,7 @@
     "categories" : ["Productivity", "Technology", "Business"],
     "featured" : true,
     "image" : "unplanned-work.jpg",
+    "keywords" : "unplanned work, 80/20 principle, eighty twenty, 80-20 principle, plan for unplanned work",
     "summary" : "If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for all parties involved."
   },
   {
@@ -132,6 +146,7 @@
     "categories" : ["Productivity"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "deep work, cal newport, work deeply, focus, improving focus",
     "summary" : "Don’t suffocate your productive potential by splitting your focus. Focus on the task at hand. It may be hard, but it gets easier."
   },
   {
@@ -141,6 +156,7 @@
     "categories" : ["Philosophy"],
     "featured" : true,
     "image" : "curious-not-opinionated.jpg",
+    "keywords" : "curiosity, strong opinions, curiosity over opinions, don't be too opinionated",
     "summary" : "\"When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.\" - Steven Levitt and Stephen Dubner"
   },
   {
@@ -150,6 +166,7 @@
     "categories" : ["Productivity"],
     "featured" : true,
     "image" : "feedback.jpg",
+    "keywords" : "feedback, feedback loops, world class feedback, getting better, learning through feedback",
     "summary" : "You don’t have to be a professional to build a world-class feedback loop. In fact, the opposite is true; creating a world-class feedback loop will make you a professional."
   },
   {
@@ -159,6 +176,7 @@
     "categories" : ["Productivity", "Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "premature optimization, perfectionism, overcoming perfectionism",
     "summary" : "You will never be perfectly prepared to do something great. You can spend all of the time in the world practicing, rehearsing, and studying. You will never feel totally prepared to take opportunities that are truly worthwhile. Over preparation is the death of productivity and success."
   },
   {
@@ -168,6 +186,7 @@
     "categories" : ["Tools"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "biography method, social skills, easier conversations",
     "summary" : "It is often difficult to know how to connect with people. Navigating social interactions can be challenging. You can overcome this with the Biography Method, a way of interacting with others by imagining that you are getting ready to write their life story."
   },
   {
@@ -177,6 +196,7 @@
     "categories" : ["Productivity"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "writing better college essays, method for improving college essays, how to write better essays, weaving essays",
     "summary" : "In college, I created a method for writing cohesive essays more quickly. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this colorful approach to writing, inspired by anthropology studies, can streamline your writing process and improve your academic performance."
   },
   {
@@ -186,6 +206,7 @@
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "relative sacrifice, relative weight of sacrifice, improving relationships by making efficient sacrifices",
     "summary" : "You can improve your relationships with others by finding the relative weight of the sacrifices others make for you and respond accordingly."
   },
   {
@@ -195,6 +216,7 @@
     "categories" : ["Philosophy", "Productivity"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "monk week, Bill Gates, think week, deep reflection",
     "summary" : "You don't have to be successful to set aside time for deep reflection. Setting aside time to read, think, and plan makes you more successful."
   },
   {
@@ -204,6 +226,7 @@
     "categories" : ["Productivity"],
     "featured" : true,
     "image" : "grow-your-focus.jpg",
+    "keywords" : "grow your focus, improve focus, cal newport, deep work, work deeply, focus is a skill, focus is a habit",
     "summary" : "It doesn't matter who you are. Lack of focus inhibits connection, productivity, and enjoyment. Too many people think that they can't focus. Trust me, you can."
   },
   {
@@ -213,6 +236,7 @@
     "categories" : ["Productivity"],
     "featured" : true,
     "image" : "eliminate-automate-delegate-do.jpg",
+    "keywords" : "eliminate automate delegate do, reduce task list, automate tasks, delegate tasks, Tim Ferriss, 4-hour work week, efficient work",
     "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate."
   },
   {
@@ -222,6 +246,7 @@
     "categories" : ["Philosophy"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "mastery, Robert Greene, Bob Dylan, master your craft, engaging work",
     "summary" : "No one is great at the start of something creative. Don't be afraid to pursue something challenging. Find something that engages you. Work to master it. That will bring you satisfaction."
   },
   {
@@ -231,6 +256,7 @@
     "categories" : ["Productivity"],
     "featured" : false,
     "image" : "title.jpg",
+    "keywords" : "Better business writing, keep writing simple, tips for better writing, Scott Adams, Steven Pressfiled, writing with substance",
     "summary" : "Writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity."
   },
   {
@@ -240,6 +266,7 @@
     "categories" : ["Books", "Philosophy"],
     "featured" : true,
     "image" : "books-2.jpg",
+    "keywords" : "books, life changing books, Stefan's favorite books, best books, life altering books, books that change perspective",
     "summary" : "\"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.\" - Jim Mattis"
   }
 ]

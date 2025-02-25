@@ -17,7 +17,7 @@
 
 <script setup>
 // meta tags
-let metaTitle = 'Sitemap | Stefan Auvache'
+let metaTitle = 'Stefan Auvache | Sitemap'
 let metaDescription = 'Sitemap for Stefan Auvache'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, sitemap'
 let metaCanonical = 'www.stefanauvache.com/sitemap'

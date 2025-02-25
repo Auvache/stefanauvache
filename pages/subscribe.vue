@@ -20,7 +20,7 @@ definePageMeta({
 })
 
 // meta tags
-let metaTitle = 'Subscribe to Food for Thought | Stefan Auvache'
+let metaTitle = 'Stefan Auvache | Subscribe to Food for Thought'
 let metaDescription = 'Subscribe to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
 let metaCanonical = 'www.stefanauvache.com/subscribe'

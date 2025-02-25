@@ -8,11 +8,11 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import '@/scss/_global.scss'
 
 // meta tags
-let title = 'Welcome | Stefan Auvache'
+let title = 'Welcome'
 let description = 'This Site Belongs to Stefan Auvache.'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, technology, tech, books, lifelong learning, food for thought'
 useSeoMeta({
