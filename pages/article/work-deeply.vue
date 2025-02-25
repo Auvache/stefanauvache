@@ -117,7 +117,6 @@ import formatDate from "~/functions/formatDate";
 const router = useRouter()
 const { currentRoute } = router
 const articleInfo = articlesList.find(article => article.slug === currentRoute.value.fullPath.replace('/article/',''))
-console.log(articleInfo)
 // meta tags
 let metaTitle = `${articleInfo.title}`
 let metaDescription = `${articleInfo.summary}`
