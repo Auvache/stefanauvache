@@ -10,7 +10,7 @@
 
         <p>Creative projects take an immense amount of work. Whether you are coding new software, writing a book, building muscle, or raising children, there is more work to do than you plan and prepare for. In software, this is jokingly called the 90/90 principle; once you code the first 90%, you need to code the second 90%.</p>
 
-        <p>In <a :href="affiliateLinks.books.thePhoenixProject" target="_blank">Gene Kim’s novelization of a chaotic business on the verge of collapse</a> Gene Kim’s novelization of a chaotic business on the verge of collapse, Bill, the protagonist, is forced to take a job as the VP of an IT department that never gets anything done on time and is spiraling out of control. Among other things, he identifies one major source of the problem as unplanned work.</p>
+        <p>In <a :href="affiliateLinks.books.thePhoenixProject" target="_blank">Gene Kim’s novelization of a chaotic business on the verge of collapse,</a> Bill, the protagonist, is forced to take a job as the VP of an IT department that never gets anything done on time and is spiraling out of control. Among other things, he identifies one major source of the problem as unplanned work.</p>
 
         <p>Unplanned work is a nigh universal experience. It is the firefighting and damage control and unforeseen consequences that prevent planned work from getting done. Luckily for us (and Bill), there are ways to prevent and minimize the damage caused by unplanned work.</p>
 
