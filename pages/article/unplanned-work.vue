@@ -2,13 +2,13 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">The 90/90 Principle: Overcoming unplanned work</h1>
+        <h1 class="mb-3">The Ninety-Ninety Rule and Overcoming Unplanned Work</h1>
         <p class="tagline fst-italic blue mb-3">September 13, 2024</p>
         <img src="/img/articles/unplanned-work.jpg" alt="" class="mb-3">
 
         <p class="quote">"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."<br/> - Tom Cargill</p>
 
-        <p>Creative projects take an immense amount of work. Whether you are coding new software, writing a book, building muscle, or raising children, there is more work to do than you plan and prepare for. In software, this is jokingly called the 90/90 principle; once you code the first 90%, you need to code the second 90%.</p>
+        <p>Creative projects take an immense amount of work. Whether you are coding new software, writing a book, building muscle, or raising children, there is more work to do than you plan and prepare for. In software, this is jokingly called the ninety-ninety rule; once you code the first 90%, you need to code the second 90%.</p>
 
         <p>In <a :href="affiliateLinks.books.thePhoenixProject" target="_blank">Gene Kim’s novelization of a chaotic business on the verge of collapse,</a> Bill, the protagonist, is forced to take a job as the VP of an IT department that never gets anything done on time and is spiraling out of control. Among other things, he identifies one major source of the problem as unplanned work.</p>
 
@@ -38,7 +38,7 @@
 
         <h2>Account for unplanned work</h2>
 
-        <p>Here is the secret to avoiding the overwork and failure caused by the 90/90 principle; account for unplanned work. Double the amount of time you think it will take you to complete each task. Don’t make commitments that you can only accomplish if all of your work goes as smoothly as possible and nothing blows up in your face.</p>
+        <p>Here is the secret to avoiding the overwork and failure caused by the ninety-ninety rule; account for unplanned work. Double the amount of time you think it will take you to complete each task. Don’t make commitments that you can only accomplish if all of your work goes as smoothly as possible and nothing blows up in your face.</p>
 
         <p>If everything goes well and you finish all of your work, great! Look at what is going on next week. If something pops up that takes time and/or resources away from your work (you get sick, there is a surprise assignment, your kid throws up all over the car, etc.), you will be prepared, or at least more prepared.</p>
 
