@@ -1,5 +1,45 @@
 [
   {
+    "slug" : "to-be-a-champion",
+    "title" : "To Be a Champion - 100,000 Little Moments",
+    "datePublished" : "2025/03/28",
+    "categories" : ["Personal Betterment"],
+    "featured" : false,
+    "image" : "title.jpg",
+    "keywords" : "Nick Saban, champion mindset, focus on the moment, lagging indicator, to be a champion",
+    "summary" : "Trophies aren’t won in the fourth quarter. They aren’t even won in the first half. They are won at practice."
+  },
+  {
+    "slug" : "to-whom-it-may-inspire",
+    "title" : "To Whom It May Inspire",
+    "datePublished" : "2025/03/21",
+    "categories" : ["Living the Good Life","Personal Betterment"],
+    "featured" : false,
+    "image" : "title.jpg",
+    "keywords" : "to whom it may inspire, pixar, Austin Madison, overestimate what we can do in a day, underestimate what we can do in a decade, no overnight success, Steven Pressfield, Stephen King, keep working hard, persist",
+    "summary" : "\"How many pages have I produced?\" asks Steven Pressfield of himself. \"I don’t care. Are they any good? I don’t even think about it. All that matters is I’ve put in my time and hit it with all I’ve got… The most important thing about art is to work. Nothing else matters except sitting down every day and trying.\""
+  },
+  {
+    "slug" : "software-bugs-and-rabbit-holes",
+    "title" : "Software Bugs and Rabbit Holes",
+    "datePublished" : "2025/03/14",
+    "categories" : ["Improving Productivity"],
+    "featured" : false,
+    "image" : "title.jpg",
+    "keywords" : "software bugs, bugs, rabbit holes, going down a rabbit hole, opportunity cost, broken windows, y2k, don't lose focus, don't go down rabbit holes",
+    "summary" : "Every action you take has a price associated with it. This is called opportunity cost—when you choose to do one thing, you are choosing to not do other things."
+  },
+  {
+    "slug" : "why-you-should-read-part-II",
+    "title" : "Why You Should Read (Part II) - Overcoming Frustration Distraction",
+    "datePublished" : "2025/03/07",
+    "categories" : ["Personal Betterment"],
+    "featured" : false,
+    "image" : "title.jpg",
+    "keywords" : "Frans Rosen, Frans Rosén, ethical hacking, why you should read, reading, read to unstick, fill the gaps in your knowledge, problem solving through reading",
+    "summary" : "When you get stuck, read. Go back to the basics. Fill the gaps in your knowledge and use your newfound wisdom to better solve problems."
+  },
+  {
     "slug" : "what-can-you-eliminate",
     "title" : "What can you eliminate?",
     "datePublished" : "2025/02/28",
@@ -127,7 +167,7 @@
     "featured" : true,
     "image" : "hiring-new-people.jpg",
     "keywords" : "hiring people, hiring new people, ray dalio, lessons from ray dalio, job fit",
-    "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about “fit.” Is the candidate capable of performing job responsibilities competently? Will they enjoy the job down the road?"
+    "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about \"fit.\" Is the candidate capable of performing job responsibilities competently? Will they enjoy the job down the road?"
   },
   {
     "slug" : "meaningful-research",
