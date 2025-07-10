@@ -45,8 +45,18 @@ useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, 
 </script>
 
 <style lang="scss">
+body,html {
+	margin: 0;
+	padding: 0;
+	border: none;
+	scroll-padding-top: 0;
+	background-color: #000;
+}
+* {
+	box-sizing: border-box;
+}
 #musicPage {
-	min-height: 100vh;
+	height: 100%;
 }
 ul {
 	img {
