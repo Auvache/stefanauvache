@@ -1,19 +1,41 @@
 <template>
-  <section class="section-padding">
+  <section id="musicPage" class="section-padding bg-black">
     <div class="container thinnest-content">
-      <div>
-        <h1 class="text-sm-center">Music</h1>
-        <p>Simply stated, I have learned to spend my time doing what I love. I have played the guitar since I was 11 years old and have no intention of stopping anytime soon.</p>
+      <div class="text-center">
+	      <img style="width: 500px; max-width: 90%" class="mb-5" src="@/assets/img/album.jpg" alt="">
+	      <ul class="list-unstyled d-flex justify-content-center gap-4">
+		      <li>
+			      <a href="https://open.spotify.com/album/5eKwmWSEEHLnJ8vkiuajYi?si=HCP8CVs0QnmP-Kg63nbWWw" target="_blank">
+				      <img src="@/assets/img/spotify.png" alt="">
+			      </a>
+		      </li>
+		      <li>
+			      <a href="https://music.apple.com/us/album/i-want-to-be-yours-and-other-songs/1825329218" target="_blank">
+				      <img src="@/assets/img/apple-music.png" alt="">
+			      </a>
+		      </li>
+		      <li>
+			      <a href="https://music.youtube.com/playlist?list=OLAK5uy_nUM_0UgLmueqyFZWiRh4DhLUf3POgcAK0&si=XPkbV5cmMaHIrQhf" target="_blank">
+				      <img src="@/assets/img/youtube-music.png" alt="">
+			      </a>
+		      </li>
+		      <li>
+			      <a href="https://music.amazon.com/albums/B0FH1WG69X?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_Zp0S2gvnHLBS3elfrvMslWb3J" target="_blank">
+				      <img src="@/assets/img/amazon-music.png" alt="">
+			      </a>
+		      </li>
+	      </ul>
 
-        <h2>My music</h2>
-        <h3>Acoustic demos</h3>
-        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1836998508&color=%23407aaa&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/stefan-bradley-935634534" title="Havre De Grace" target="_blank" style="color: #cccccc; text-decoration: none;">Havre De Grace</a> · <a href="https://soundcloud.com/stefan-bradley-935634534/sets/demos" title="Demos" target="_blank" style="color: #cccccc; text-decoration: none;">Demos</a></div>
       </div>
     </div>
   </section>
 </template>
 
 <script setup>
+definePageMeta({
+	layout: 'clean'
+})
+
 // meta tags
 let metaTitle = 'Stefan Auvache | Music'
 let metaDescription = 'Music I love, music I make'
@@ -21,3 +43,14 @@ let metaKeywords = 'Stefan, Stefan Auvache, Auvache, music, share music, love mu
 let metaCanonical = 'www.stefanauvache.com/music'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>
+
+<style lang="scss">
+#musicPage {
+	min-height: 100vh;
+}
+ul {
+	img {
+		width: 60px;
+	}
+}
+</style>
