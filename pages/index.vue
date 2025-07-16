@@ -31,9 +31,9 @@ const tabs = [
 ]
 
 // meta tags
-let metaTitle = 'Articles by Stefan Auvache'
-let metaDescription = 'Education, both formal and personal, always changes lives for the better. Universal, practical life lessons lie waiting to be discovered in literature, business, technology, and even music.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, technology, tech, books, lifelong learning, food for thought'
+let metaTitle = 'Stefan Auvache'
+let metaDescription = 'Stefan Auvache is a musician and writer'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, songs, technology, tech, books, lifelong learning, food for thought, music, I Want to Be Yours and Other Songs, I Want to Be Yours, Stefan Auvache artist'
 let metaCanonical = 'www.stefanauvache.com'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>

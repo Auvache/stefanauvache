@@ -55,9 +55,9 @@ sortedArticles.forEach((item) => {
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | All Article'
+let metaTitle = 'Stefan Auvache | All Articles'
 let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, article archive, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, all articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
 let metaCanonical = 'www.stefanauvache.com/all-articles'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>
