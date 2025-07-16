@@ -1,8 +1,9 @@
 <template>
-  <section id="musicPage" class="section-padding bg-black">
+  <section id="musicPage" class="section-padding bg-off-black-2">
     <div class="container thinnest-content">
       <div class="text-center">
-	      <img style="width: 500px; max-width: 90%" class="mb-5" src="@/assets/img/album.jpg" alt="">
+	      <img style="width: 500px; max-width: 90%" src="@/assets/img/album.jpg" alt="">
+	      <h1 class="t2 text-white mt-4 mb-4"><i>I Want to Be Yours and Other Songs</i></h1>
 	      <ul class="list-unstyled d-flex justify-content-center gap-4">
 		      <li>
 			      <a href="https://open.spotify.com/album/5eKwmWSEEHLnJ8vkiuajYi?si=HCP8CVs0QnmP-Kg63nbWWw" target="_blank">
@@ -25,6 +26,7 @@
 			      </a>
 		      </li>
 	      </ul>
+	      <p class="text-white mb-5"><i>Listen wherever you stream music</i></p>
 
       </div>
     </div>
@@ -44,7 +46,7 @@ let metaCanonical = 'www.stefanauvache.com/music'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 body,html {
 	margin: 0;
 	padding: 0;

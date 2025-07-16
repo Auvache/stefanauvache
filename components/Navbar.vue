@@ -2,7 +2,7 @@
   <nav class="bg-dark-blue">
     <div class="container medium-content py-2">
       <div class="d-flex justify-content-between align-items-center">
-        <NuxtLink class="logo" to="/">
+        <NuxtLink class="logo" to="/articles">
           STEFAN AUVACHE
         </NuxtLink>
         <div class="menu-links">
@@ -14,9 +14,8 @@
             </button>
             <ul id="dropdown" class="hamburger-menu d-none">
               <li><NuxtLink @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/articles">Read more articles</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/archive">Visit the archive</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/about">In pursuit of personal betterment</NuxtLink></li>
+              <li><NuxtLink @click="toggleMenu" to="/articles">Featured Articles</NuxtLink></li>
+              <li><NuxtLink @click="toggleMenu" to="/all-articles">All Articles</NuxtLink></li>
             </ul>
           </div>
         </div>

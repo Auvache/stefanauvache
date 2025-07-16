@@ -40,6 +40,27 @@
   background-color: $light-blue;
 }
 
+.bg-off-black {
+  background-color: $off-black;
+}
+
+.bg-off-black-2 {
+  background-color: $off-black-2;
+}
+
+.bg-white-black-white-gradient {
+  background: $off-black-2;
+  @include breakpoint(sm) {
+    background: linear-gradient(
+                    to right,
+                    #414a4c 0,
+                    $off-black-2 100px,
+                    $off-black-2 calc(100% - 100px),
+                    #414a4c 100%
+    );
+  }
+}
+
 .bg-yellow {
   background-color: $yellow;
 }
@@ -129,6 +150,28 @@ section {
         max-width: 180px;
       }
     }
+  }
+}
+
+.text-white,
+.text-white p,
+.text-white h1,
+.text-white h2,
+.text-white h3,
+.text-white h4,
+.text-white h5,
+.text-white h6,
+.text-white a,
+.text-white a:hover,
+.text-white a:focus,
+.text-white a:active,
+.text-white p,
+.text-white p,
+{
+  color: $white;
+
+  a {
+    text-decoration: underline;
   }
 }
 

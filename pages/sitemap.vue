@@ -5,7 +5,7 @@
         <h1 class="text-sm-center mb-4">Sitemap</h1>
         <ul class="list-unstyled d-inline-block">
           <li><NuxtLink to="/about">About Stefan Auvache</NuxtLink></li>
-          <li><NuxtLink to="/archive">Article archive (all articles by date)</NuxtLink></li>
+          <li><NuxtLink to="/all-articles">All articles</NuxtLink></li>
           <li><NuxtLink to="/articles">Featured articles</NuxtLink></li>
           <li><NuxtLink to="/music">Music</NuxtLink></li>
           <li><NuxtLink to="/subscribe">Subscribe</NuxtLink></li>

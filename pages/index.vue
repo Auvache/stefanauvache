@@ -1,45 +1,34 @@
 <template>
-  <section class="section-padding">
+  <section class="section-padding bg-off-black-2 vh-100 d-flex align-items-center">
     <div class="container thin-content">
-      <h1 class="t2 text-center text-black mt-3 mb-4">Featured Articles</h1>
-      <div id="featuredArticles">
-        <div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
-          <NuxtLink :to="article.articlePath" >
-            <img :src="`/img/articles/${article.imagePath}`" alt="">
-            <h2 class="intro-heading">{{article.title}}</h2>
-          </NuxtLink>
-          <p>{{article.summary}}</p>
-        </div>
-
-      </div>
-      <div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-        <NuxtLink to="/articles">Keep reading...</NuxtLink>
-      </div>
-
+      <h1 class="text-center text-white mt-3 mb-4">Stefan Auvache</h1>
+	    <div class="d-flex flex-wrap justify-content-center mb-4 button-bar gap-3">
+		    <NuxtLink
+				    v-for="tab in tabs"
+				    :key="tab.id"
+				    :to="tab.route"
+				    class="btn btn-outline-primary text-center"
+		    >
+			    {{ tab.label }}
+		    </NuxtLink>
+	    </div>
     </div>
   </section>
 </template>
 
 <script setup>
-import Articles from "@/assets/articlesList.json"
-import sortByKey from "@/functions/sortByKey";
+definePageMeta({
+	layout: 'main'
+})
 
-// featured articles
-let sortedArticles = []
-for (let i in Articles) {
-  if (Articles[i].featured) {
-    Articles[i].articlePath = '/article/' + Articles[i].slug
-    if (Articles[i].image) {
-      Articles[i].imagePath = Articles[i].image
-    }
-    sortedArticles.push(Articles[i])
-  }
-}
+import { useRoute } from 'vue-router'
 
-// latest articles
-// let sortedArticles = sortByKey(Articles, "datePublished", "ztoa")
+const route = useRoute()
 
-// sortedArticles = sortedArticles.slice(0,5)
+const tabs = [
+	{ id: 'section1', label: 'I Want to Be Yours and Other Songs', route: '/music' },
+	{ id: 'section2', label: 'Featured Articles', route: '/articles' },
+]
 
 // meta tags
 let metaTitle = 'Articles by Stefan Auvache'
@@ -50,15 +39,23 @@ useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, 
 </script>
 
 <style scoped lang="scss">
-#featuredArticles {
-  display: grid;
-  grid-column-gap: 2rem;
-  grid-row-gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-
-  img {
-    width: 100%;
-  }
+body,html {
+	margin: 0;
+	padding: 0;
+	border: none;
+	scroll-padding-top: 0;
+	background-color: #000;
 }
+.button-bar .btn {
+	background: transparent;
+	color: #fff;
+	border: 1px solid white;
+	border-radius: 0.5rem;
 
+	&:hover {
+		text-decoration: none;
+		background: #fff;
+		color: #000;
+	}
+}
 </style>

@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="text-sm-center">Archive</h1>
+        <h1 class="text-sm-center">All Articles</h1>
 
 <!--        <div v-for="(articles, month) in articlesByYear[2026]">-->
 <!--          <h2 class="text-black mt-4">{{month}} 2026</h2>-->
@@ -17,7 +17,7 @@
             <li v-for="article in articles" :key="article.slug"><NuxtLink class="blue" :to="'/article/' + article.slug">{{ article.title }}</NuxtLink></li>
           </ul>
         </div>
-        
+
         <div v-for="(articles, month) in articlesByYear[2024]">
           <h2 class="text-black mt-4">{{month}} 2024</h2>
           <ul class="list-unstyled">
@@ -26,7 +26,7 @@
         </div>
 
         <div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-          <NuxtLink to="/articles">Articles By Category</NuxtLink>
+          <NuxtLink to="/articles">Featured Articles</NuxtLink>
         </div>
       </div>
     </div>
@@ -55,9 +55,9 @@ sortedArticles.forEach((item) => {
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | Article Archive'
+let metaTitle = 'Stefan Auvache | All Article'
 let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, archive, article archive, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
-let metaCanonical = 'www.stefanauvache.com/archive'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, article archive, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
+let metaCanonical = 'www.stefanauvache.com/all-articles'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>
