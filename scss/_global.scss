@@ -42,6 +42,19 @@ html body *:focus {
   outline: none;
 }
 
+//preload images
+body::after{
+  position:absolute; width:0; height:0; overflow:hidden; z-index:-1; // hide images
+  content:
+          // load images
+          url('@/assets/img/black-denim.webp')
+          url('@/assets/img/album.jpg')
+          url('@/assets/img/spotify.png')
+          url('@/assets/img/apple-music.png')
+          url('@/assets/img/youtube-music.png')
+          url('@/assets/img/amazon-music.png')
+}
+
 html body *:focus-visible {
   outline: $outline;
   border-radius: 4px;

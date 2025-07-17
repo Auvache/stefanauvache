@@ -1,5 +1,5 @@
 <template>
-  <section class="py-4 bg-dark-blue">
+  <section class="py-4 bg-black-denim">
     <div class="container thinnest-content text-center fade-in">
       <div>
         <p class="white mb-0">Subscribe to the <span class="fw-bold fst-italic">Food For Thought</span> email list for weekly articles on practical life lessons from the worlds of technology, business, literature, and music.</p>

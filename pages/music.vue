@@ -1,5 +1,5 @@
 <template>
-  <section id="musicPage" class="section-padding bg-off-black-2">
+  <section id="musicPage" class="section-padding bg-black-denim">
     <div class="container thinnest-content">
       <div class="text-center">
 	      <img style="width: 500px; max-width: 90%" src="@/assets/img/album.jpg" alt="">

@@ -1,5 +1,5 @@
 <template>
-  <section class="section-padding bg-off-black-2 vh-100 d-flex align-items-center">
+  <section class="section-padding bg-black-denim vh-100 d-flex align-items-center">
     <div class="container thin-content">
       <h1 class="text-center text-white mt-3 mb-4">Stefan Auvache</h1>
 	    <div class="d-flex flex-wrap justify-content-center mb-4 button-bar gap-3">

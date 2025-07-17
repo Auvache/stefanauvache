@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-dark-blue">
+  <nav class="bg-black-denim">
     <div class="container medium-content py-2">
       <div class="d-flex justify-content-between align-items-center">
         <NuxtLink class="logo" to="/articles">
@@ -15,6 +15,7 @@
             <ul id="dropdown" class="hamburger-menu d-none">
               <li><NuxtLink @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
               <li><NuxtLink @click="toggleMenu" to="/articles">Featured Articles</NuxtLink></li>
+              <li><NuxtLink @click="toggleMenu" to="/categories">Categories</NuxtLink></li>
               <li><NuxtLink @click="toggleMenu" to="/all-articles">All Articles</NuxtLink></li>
             </ul>
           </div>
@@ -23,7 +24,7 @@
     </div>
   </nav>
   <div class="nav-buffer"></div>
-  <div v-if="showSubscribeBanner" id="subscribeBanner">
+  <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim">
     <div class="position-relative">
       <NuxtLink class="white" to="/subscribe">Subscribe to <span class="d-none d-sm-inline">the </span><span class="fst-italic fw-bold">Food for Thought</span><span class="d-none d-sm-inline"> email list</span></NuxtLink>
       <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>

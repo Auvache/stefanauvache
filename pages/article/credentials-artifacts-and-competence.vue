@@ -4,6 +4,8 @@
       <div>
         <h1 class="mb-3">Credentials, Artifacts, and Competence</h1>
         <p class="tagline fst-italic blue mb-3">April 18, 2025</p>
+	      <img src="/img/articles/graduation.jpg" alt="" class="mb-3">
+
 	      <p>As a young man, Nelson Mandela worked as a law clerk in Johannesburg, South Africa. Among his coworkers were lawyers and clerks with formal degrees—some of them from Fort Hare, the same university he had been expelled from for protesting against discrimination. Out of all of his well-educated coworkers, there was one standout. Gaur Radebe was sharp, confident, and had a deep understanding of both the laws that governed the land and how they were used to mistreat native South Africans. He was more capable than most of their other colleagues, and very well spoken. But what struck Nelson Mandela most was that Radebe, like himself, had no university degree.</p>
 
 	      <p>This was a turning point in Mandela’s life. Education, it turned out, was about more than attending lectures and taking exams. It was curiosity, practice, experience, and application in the real world. Education was about competence, not credential. Radebe was living proof that you didn’t need a university degree to be an educated person.</p>

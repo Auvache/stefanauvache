@@ -1,5 +1,5 @@
 <template>
-  <section id="subscribe" class="section-padding bg-dark-blue">
+  <section id="subscribe" class="section-padding bg-black-denim">
     <div class="container thinnest-content text-center">
       <h1 class="white fst-italic">Subscribe to Food for Thought</h1>
       <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center mb-3">

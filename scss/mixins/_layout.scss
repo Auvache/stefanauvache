@@ -48,6 +48,14 @@
   background-color: $off-black-2;
 }
 
+.bg-black-denim {
+  background-image: url('/assets/img/black-denim.webp'); /* or .jpg, .svg, etc. */
+  background-repeat: repeat;
+  background-size: auto; /* or use a specific size like 100px 100px */
+  background-position: top left; /* optional, default */
+  background-attachment: scroll; /* or fixed */
+}
+
 .bg-white-black-white-gradient {
   background: $off-black-2;
   @include breakpoint(sm) {
@@ -412,7 +420,6 @@ nav {
   position: fixed;
   z-index: 1000;
   width: 100%;
-  background-color: $site-blue;
   font-size: 0.8rem;
   text-align: center;
 
