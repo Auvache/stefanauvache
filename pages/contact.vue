@@ -6,7 +6,7 @@
 	      <p>I’d love to hear from you—whether you’re interested in collaborating, publishing, republishing an article, or just want to ask a question. I will do my best to respond promptly.</p>
 
 	      <div class="email">
-		      <a href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a>
+		      <p>You can reach me at <a class="bold" href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a></p>
 	      </div>
 
       </div>
