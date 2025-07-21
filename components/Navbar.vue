@@ -13,11 +13,11 @@
                 <span class="bar3"></span>
             </button>
             <ul id="dropdown" class="hamburger-menu d-none">
-              <li><NuxtLink @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/articles">Featured Articles</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/categories">Categories</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/all-articles">All Articles</NuxtLink></li>
-              <li><NuxtLink @click="toggleMenu" to="/contact">Contact Information</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/subscribe">Subscribe for weekly articles</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/articles">See featured articles</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/categories">Browse articles by category</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/all-articles">Browse all articles</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/contact">Reach out</NuxtLink></li>
             </ul>
           </div>
         </div>
@@ -27,7 +27,7 @@
   <div class="nav-buffer"></div>
   <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim">
     <div class="position-relative">
-      <NuxtLink class="white" to="/subscribe">Subscribe to <span class="d-none d-sm-inline">the </span><span class="fst-italic fw-bold">Food for Thought</span><span class="d-none d-sm-inline"> email list</span></NuxtLink>
+      <NuxtLink class="white text-decoration-none" to="/subscribe">Subscribe to <span class="d-none d-sm-inline">the </span><span class="fst-italic fw-bold">Food for Thought</span><span class="d-none d-sm-inline"> email list</span></NuxtLink>
       <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>
     </div>
   </div>

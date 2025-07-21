@@ -72,7 +72,6 @@
   }
 
   @if $point == a {
-    color: $site-blue;
     text-decoration: underline;
 
     &:hover {

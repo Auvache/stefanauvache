@@ -2,14 +2,16 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="text-sm-center mb-4">In pursuit of personal betterment</h1>
-        <p>When I found out that I was going to be a dad, my life changed forever.</p>
-        <p>I realized that a little person was going to watch my every move, and that I needed to start acting with more intention. We influence those around us with our actions. If we are to influence the world for good, we must start by being good ourselves.</p>
-        <p>In my pursuit of personal betterment, I have found universal, practical principles that catalyze improvement across disciplines. Principles of software engineering can strengthen relationships. Business management philosophies can help improve your abilities as an athlete, writer, or parent.</p>
-        <p>My goal is to take the tools, principles, and philosophies that have most benefited my character, and to share them with everyone I can.</p>
+        <h1 class="text-sm-center mb-4">Modern Times and Timeless Principles</h1>
+	      <p>What happens when you work hard to achieve something only to realize that you didn’t want that thing in the first place? How can you possibly know if you truly want something if you’ve never experienced it before?</p>
+	      <p>We can find the answers to these questions by studying how timeless principles are used by successful people in modern times.</p>
+        <p>Principles from technology, business, and project management can be applied directly to our daily lives to help us orient ourselves and move forward.</p>
+	      <p>By exploring these universal patterns&mdash;iterative development, systems for productivity, taking action&mdash;I help readers develop their own systems for personal improvement.</p>
         <ul class="list-unstyled">
-          <li><NuxtLink to="/articles">Read my articles</NuxtLink></li>
-<!--          <li><NuxtLink to="/music">Listen to my music</NuxtLink></li>-->
+	        <li><NuxtLink class="link" to="/subscribe">Subscribe for weekly articles, directly to your inbox</NuxtLink></li>
+	        <li><NuxtLink to="/articles">See the articles most helpful for you today</NuxtLink></li>
+	        <li><NuxtLink to="/categories">Browse articles by category</NuxtLink></li>
+	        <li><NuxtLink to="/contact">Get in touch with me directly</NuxtLink></li>
         </ul>
       </div>
     </div>

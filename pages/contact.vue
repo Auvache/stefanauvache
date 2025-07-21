@@ -2,11 +2,12 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="text-sm-center mb-4">Contact me</h1>
-	      <p>I’d love to hear from you—whether you’re interested in collaborating, publishing, republishing an article, or just want to ask a question. I will do my best to respond promptly.</p>
+        <h1 class="text-sm-center mb-4">Reach Out</h1>
+	      <p>I’d love to hear from you—whether you’re interested in collaborating, publishing, republishing an article, or just want to ask a question.</p>
+	      <p>I will do my best to respond promptly.</p>
 
 	      <div class="email">
-		      <p>You can reach me at <a class="fw-bold" href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a></p>
+		      <p>You can reach me at <a href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a></p>
 	      </div>
 
       </div>

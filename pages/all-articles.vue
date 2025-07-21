@@ -7,21 +7,21 @@
 <!--        <div v-for="(articles, month) in articlesByYear[2026]">-->
 <!--          <h2 class="text-black mt-4">{{month}} 2026</h2>-->
 <!--          <ul class="list-unstyled">-->
-<!--            <li v-for="article in articles" :key="article.slug"><NuxtLink class="blue" :to="'/article/' + article.slug">{{ article.title }}</NuxtLink></li>-->
+<!--            <li v-for="article in articles" :key="article.slug"><NuxtLink class="blue" :to="'/articles/' + article.slug">{{ article.title }}</NuxtLink></li>-->
 <!--          </ul>-->
 <!--        </div>-->
 
         <div v-for="(articles, month) in articlesByYear[2025]">
           <h2 class="text-black mt-4">{{month}} 2025</h2>
           <ul class="list-unstyled">
-            <li v-for="article in articles" :key="article.slug"><NuxtLink class="blue" :to="'/article/' + article.slug">{{ article.title }}</NuxtLink></li>
+            <li v-for="article in articles" :key="article.slug"><NuxtLink :to="'/articles/' + article.slug">{{ article.title }}</NuxtLink></li>
           </ul>
         </div>
 
         <div v-for="(articles, month) in articlesByYear[2024]">
           <h2 class="text-black mt-4">{{month}} 2024</h2>
           <ul class="list-unstyled">
-            <li v-for="article in articles" :key="article.slug"><NuxtLink class="blue" :to="'/article/' + article.slug">{{ article.title }}</NuxtLink></li>
+            <li v-for="article in articles" :key="article.slug"><NuxtLink :to="'/articles/' + article.slug">{{ article.title }}</NuxtLink></li>
           </ul>
         </div>
 

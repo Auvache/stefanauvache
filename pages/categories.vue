@@ -9,7 +9,7 @@
 						<h2 class="text-black">{{category}}</h2>
 						<ul :id="`${category.toLowerCase().replaceAll(' ','-')}-list`" class="list-unstyled">
 							<li v-for="article in articles">
-								<NuxtLink :to="'/article/' + article.slug">{{article.title}}</NuxtLink>
+								<NuxtLink :to="'/articles/' + article.slug">{{article.title}}</NuxtLink>
 							</li>
 						</ul>
 					</div>
@@ -30,13 +30,10 @@ import Articles from "@/assets/articlesList.json"
 
 // const categories = ["Books","Business","Creativity","Philosophy","Productivity","Technology","Tools"]
 const categories = [
-	"Living the Good Life",
-	"Personal Betterment",
-	"Becoming More Creative",
-	"Interesting Ideas",
-	"Improving Productivity",
-	"Tools & Strategies",
-	"Books"
+	"Agile Living & Iterative Development",
+	"Systems & Habits",
+	"Taking Action",
+	"Timeless Principles in Modern Disciplines"
 ]
 const articlesList = ref({})
 categories.forEach(category => {
