@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Be Curious, Not Opinionated</h1>
-        <p class="tagline fst-italic blue mb-3">August 30, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/curious-not-opinionated.jpg" alt="" class="mb-3">
 
         <p class="quote">
@@ -34,14 +34,6 @@
 
         <p>Be curious, not opinionated.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.thinkLikeAFreak" target="_blank">Think Like A Freak by Steven Levitt and Stephen Dubner</a></li>
-            <li><a :href="affiliateLinks.books.leonardoDaVinci" target="_blank">Leonardo Da Vinci by Walter Isaacson</a></li>
-            <li><a :href="affiliateLinks.books.theCodeBreaker" target="_blank">The Code Breaker by Walter Isaacson</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

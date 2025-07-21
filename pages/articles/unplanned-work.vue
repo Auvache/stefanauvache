@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">The Ninety-Ninety Rule and Overcoming Unplanned Work</h1>
-        <p class="tagline fst-italic blue mb-3">September 13, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/unplanned-work.jpg" alt="" class="mb-3">
 
         <p class="quote">"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."<br/> - Tom Cargill</p>
@@ -51,13 +51,6 @@
 
         <p>Sometimes, we are even early.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.thePhoenixProject" target="_blank">The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford</a></li>
-            <li><a :href="affiliateLinks.books.theDevOpsHandbook" target="_blank">The DevOps Handbook (2nd Edition) by Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

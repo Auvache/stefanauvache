@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Where are your 4,344 miles?</h1>
-        <p class="tagline fst-italic blue mb-3">January 17, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>In 1937, the University of Washington men’s rowing crew won their second consecutive national championship. The previous year, they had won not only the national championship, but Olympic Gold in Berlin. Jim Ten Eyck, a storied collegiate rowing coach, said of the Washington varsity crew at the time, “it’s the greatest eight I ever saw, and I never expect to see another like it.”</p>
 

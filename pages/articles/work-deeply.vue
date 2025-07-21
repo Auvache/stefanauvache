@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Work Deeply</h1>
-        <p class="tagline fst-italic blue mb-3">September 7, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">
           "Few people think more than two or three times a year. I have made an international reputation for myself by thinking once or twice a week." - George Bernard Shaw
@@ -95,15 +95,6 @@
 
         <p>And, it is worth it.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
-            <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Timothy Ferriss</a></li>
-            <li><a :href="affiliateLinks.books.freakonomics" target="_blank">Freakonomics by Steven D. Levitt and Stephen J. Dubner</a></li>
-            <li><a href="https://calnewport.com/" target="_blank">CalNewport.com</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

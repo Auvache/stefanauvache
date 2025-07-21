@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Asking Useful Questions</h1>
-        <p class="tagline fst-italic blue mb-3">November 8, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke. The time commitment would undoubtedly hinder his writing progress over the next five years. Undaunted, Cal made a long-term vision. He would find a way to keep writing while attending MIT and graduate as an established author.</p>
 
@@ -51,13 +51,6 @@
 
         <p>These questions can be used as a base for generating more questions. As you focus on asking useful questions, you will find useful answers. Those answers inform planning, spur more useful questions, and lead to more directed, useful action.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.slowProductivity" target="_blank">Slow Productivity by Cal Newport</a></li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

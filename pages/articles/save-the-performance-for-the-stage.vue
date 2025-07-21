@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Save the Performance for the Stage</h1>
-        <p class="tagline fst-italic blue mb-3">April 4, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 	      <img src="/img/articles/performance.jpg" alt="" class="mb-3">
 
 	      <p>John Mayer is one of the best guitarists alive today. His passion for his craft has brought him incredible success in the music industry. He has played the blues, written pop and rock hits, played with everyone from Keith Urban to Jay-Z and Eric Clapton to Alicia Keys, won Grammys and accolades, sold tens of millions of records, and cemented his place as a perennial guitar hero.</p>

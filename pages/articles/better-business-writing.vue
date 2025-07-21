@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Better Business Writing</h1>
-        <p class="tagline fst-italic blue mb-3">June 17, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>
         <p>Adams is the mastermind behind
@@ -43,14 +43,6 @@
         </p>
         <p>Write simply. Keep it lean. Convey ideas to your audience as clearly as possible. And, for the love of Scott and Steven, write about something meaningful.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a target="_blank" href="https://dilbert.com/">Dilbert.com</a></li>
-            <li><a target="_blank" href="https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html">The Day You Become A Better Writer by Scott Adams</a></li>
-            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

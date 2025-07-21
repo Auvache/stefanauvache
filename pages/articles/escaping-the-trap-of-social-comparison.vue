@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Escaping the Trap of Social Comparison</h1>
-        <p class="tagline fst-italic blue mb-3">June 20, 2025</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>At the end of the 19th century, two inventors found themselves locked in what is now called the War of the Currents: Thomas Edison and Nikola Tesla. Edison had built his empire on direct current (DC) electricity, while Tesla championed alternating current (AC) as the future of electric energy.</p>
 

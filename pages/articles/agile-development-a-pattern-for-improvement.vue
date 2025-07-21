@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-        <p class="tagline fst-italic blue mb-3">{{formatDate(articleInfo.datePublished)}}</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/agile.jpg" alt="" class="mb-3">
 
         <p>Long ago, two tribes lived in the same valley. One of the tribes was called The Dreamers. This tribe was filled with people who constantly came up with all sorts of ideas. The other tribe was filled with people who loved to make things. They called themselves the Builders.</p>

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">A Career Worth Pursuing</h1>
-        <p class="tagline fst-italic blue mb-3">June 6, 2025</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>Ned Johnson has been helping kids with school since the early 90s. He is a professional tutor who has spent more than 40,000 one-on-one hours helping students overcome their fear of standardized testing, college applications, and learning in general.</p>
 

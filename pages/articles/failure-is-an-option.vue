@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Failure Is an Option</h1>
-        <p class="tagline fst-italic blue mb-3">July 4, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p class="quote">“It’s only a mistake if you don’t learn from it.” —Cary Elwes</p>
 

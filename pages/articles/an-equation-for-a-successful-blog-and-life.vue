@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">An equation for a success blog (and life)</h1>
-        <p class="tagline fst-italic blue mb-3">February 21, 2025</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>If you wanted to start a blog today and you googled “how to start a blog,” you would see step-by-step tutorials, strategies, pro tips, and practices; design a website, optimize for search engines (SEO), promote your content on social media, find a niche, etc.</p>
 

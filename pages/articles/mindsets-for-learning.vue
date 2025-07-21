@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Mindsets for Learning</h1>
-        <p class="tagline fst-italic blue mb-3">June 13, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>In the 1970s, Carol Dweck began a career-defining study of how kids respond to failure. In some of her earliest experiments, children were given a relatively easy puzzle to solve. When they completed the first puzzle, they were given a much more difficult one to solve. She observed how the children responded to the second puzzle.</p>
 

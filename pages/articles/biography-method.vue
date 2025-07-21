@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">The Biography Method: Enhancing Social Interactions Through Curiosity</h1>
-        <p class="tagline fst-italic blue mb-3">August 16, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">"Practice really hearing what people say. Do your best to get inside their minds."<br> - Meditations, Marcus Aurelius</p>
         <p>Fred Rogers, aka the Mr. Rogers you may have watched on PBS as a kid, had a unique way of interacting with people. He believed in the importance of listening to others and understanding their life experiences. This can be seen in his longtime friendship with François Clemmons, who played Officer Clemmons on the show.</p>
@@ -28,14 +28,6 @@
         <p>Give the Biography Method a try.</p>
         <p>Everyone has a story to tell. Your job is to get them to tell it.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a></li>
-            <li><a :href="affiliateLinks.books.officerClemmons" target="_blank">Officer Clemmons: A Memoir</a></li>
-            <li><a :href="affiliateLinks.books.howToWinFriendsAndInfluencePeople" target="_blank">How to Win Friends and Influence People</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

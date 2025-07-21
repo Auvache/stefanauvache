@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">To Whom It May Inspire</h1>
-        <p class="tagline fst-italic blue mb-3">March 21, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>We often overestimate what we can do in a day and underestimate what we can do in a decade. On the day-to-day, progress can seem painstakingly slow, and it can be incredibly disheartening to compare ourselves to the people we wish we were. Whether you’ve been writing a book, working on a bachelor’s degree, or learning to play an instrument, it is easy to feel like the task at hand is insurmountable. Widen your lens, lengthen your timeline. Stick with it. All experts in the world were once beginners. Provided you are open to feedback and are doing your work, you will improve, and improvement is compounded over time.</p>
 

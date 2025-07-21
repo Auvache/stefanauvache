@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">To Do Truly Great Work</h1>
-        <p class="tagline fst-italic blue mb-3">July 11, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>Most people never do truly great work because they never give their full attention to anything.</p>
 

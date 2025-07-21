@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Weaving Baskets and Better Essays</h1>
-        <p class="tagline fst-italic blue mb-3">August 2, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>I once took an anthropology class. Three times a week, my classmates and I were assigned to read a hundred or so pages about stuff that people around the world do. We talked about polyandry in Nepal, genital mutilation in various African tribes, Hmong spirit healings, and Mexican basket weaving.</p>
         <p>In writing a book’s worth of reports on why people do the things they do, I stumbled upon a method for making my writing more cohesive. I would make some threads out of main ideas and weave them together to create something useful and easy on the eye, kind of like Mexican basket weaving.</p>

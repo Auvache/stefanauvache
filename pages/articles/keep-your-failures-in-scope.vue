@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Keep Your Failures in Scope</h1>
-        <p class="tagline fst-italic blue mb-3">May 2, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>In their book <em>The Self-Driven Child</em>, William Stixrud and Ned Johnson say the following about success and failure:</p>
 

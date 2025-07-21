@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">What I Learned From Ray Dalio and Hiring New People</h1>
-        <p class="tagline fst-italic blue mb-3">November 22, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/hiring-new-people.jpg" alt="" class="mb-3">
 
         <p>Ray Dalio is the founder of <a href="https://www.bridgewater.com" target="_blank">Bridgewater</a>, one of the most successful investment firms on the planet. His life has largely been a quest to systematize and optimize decision making by learning the principles and laws that govern how things work. His book <a :href="affiliateLinks.books.principles" target="_blank">Principles</a> is broken up into three major sections; a biography of his career, his systems for life, and his systems for work. In the section about his work systems, he talks about his principles for hiring new people.</p>

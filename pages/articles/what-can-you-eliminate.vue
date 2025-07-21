@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">What can you eliminate?</h1>
-        <p class="tagline fst-italic blue mb-3">February 28, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>When Steve Jobs returned to Apple after over a decade of absence, he found a company bogged down by an unsustainable number of products and projects that profited the company basically nothing. His first order of business was to cut 70% of Apple’s product line (and fired 30% of its employees). By eliminating projects that weren’t making money, Apple’s engineers were now free to work on the projects that had potential. Four years after Jobs' return, Apple released the iPod.</p>
 

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Premature Optimization</h1>
-        <p class="tagline fst-italic blue mb-3">August 23, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">"Premature optimization is the root of all evil" - Donald Knuth</p>
         <p>Shaun White has dedicated his life to snowboarding. As a result, he is the most well known professional snowboarder of all time. He is less known as the guitarist of his band,
@@ -13,13 +13,6 @@
         <p>You will never be perfectly prepared to do something great. You can spend all of the time in the world practicing, rehearsing, and studying. You will never feel totally prepared to take opportunities that are truly worthwhile. Over preparation is the death of productivity and success. Premature optimization - making things better than they need to be before moving on - prevents you and me from producing our best work.</p>
         <p class="quote">"How many pages have I produced? I don’t care. Are they any good? I don’t even think about it. All that matters is I’ve put in my time and hit it with all I’ve got. All that counts is that, for this day, for this session, I have overcome Resistance."<br> - Steven Pressfield</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tools of Titans by Timothy Ferriss</a></li>
-            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

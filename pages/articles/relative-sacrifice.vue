@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Relative Sacrifice</h1>
-        <p class="tagline fst-italic blue mb-3">August 1, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>The relative in question does not refer to the group of people you share kinship with (sister, cousin, uncle), but to the comparative (he is tall relative to his friend). Don't be alarmed.</p>
         <p>A quote from <a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tim Ferriss's Tools of Titans</a> book grabbed my attention the other day.</p>
@@ -28,13 +28,6 @@
         <p>I won't play Icky Thump in the car anymore when we are together (sorry Jack and Meg). </p>
         <p>Thank goodness she likes <a href="https://www.google.com/search?q=the+raconteurs&sca_esv=06f86e98f1702d92&rlz=1C1GCEU_enUS983US983&sxsrf=ADLYWIJmInZ3FcjFXAjb8AF-fEl08bQU6w%3A1722524031144&ei=f6GrZtnICPqrur8PloqhiA8&ved=0ahUKEwiZhPmHhtSHAxX6le4BHRZFCPEQ4dUDCBA&uact=5&oq=the+raconteurs&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnRoZSByYWNvbnRldXJzMhAQLhiABBixAxhDGIMBGIoFMg0QLhiABBhDGNQCGIoFMgUQABiABDIKEC4YgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgoQLhiABBhDGIoFMgoQLhiABBhDGIoFMgoQLhiABBhDGIoFMgUQLhiABDIxEC4YgAQYsQMYQxiDARiKBRiXBRjcBBjeBBjgBBj0AxjxAxj1Axj2Axj3Axj4A9gBA0jfHlDqBljOFHADeACQAQCYAcsBoAHbDKoBBTYuOC4xuAEDyAEA-AEBmAIRoALDDMICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhMQLhiABBiwAxhDGMgDGIoF2AECwgIKECMYgAQYJxiKBcICChAAGIAEGEMYigXCAhMQLhiABBixAxhDGIMBGNQCGIoFwgINEC4YgAQYsQMYQxiKBcICCBAuGIAEGLEDwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBA8ICDhAuGIAEGMcBGI4FGK8BwgIIEC4YgAQY1ALCAggQABiABBixA8ICMRAuGIAEGLEDGEMYgwEYigUYlwUY3AQY3gQY4AQY9AMY8QMY9QMY9gMY9wMY-APYAQOYAwCIBgGQBhO6BgYIARABGAm6BgYIAhABGAi6BgYIAxABGBSSBwU3LjkuMaAH5bgD&sclient=gws-wiz-serp" target="_blank">The Raconteurs</a>.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tools of Titans by Timothy Ferriss</a></li>
-            <li><a href="https://www.kingjamesbibleonline.org/Luke-21-1_21-4/">The Widow's Mite</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

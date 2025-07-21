@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Creating World-Class Feedback Loops</h1>
-        <p class="tagline fst-italic blue mb-3">August 23, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/feedback.jpg" alt="" class="mb-3">
 
         <p>In the summer of 1995, hackers Paul Graham and Robert Morris decided to start an online business. They wanted to write software that anyone could use to generate an online store. In just weeks, they had a viable product ready for testing. Instead of making a downloadable application, the two entrepreneurs opted to create a web-based software (a revolutionary idea at the time). This would allow them to quickly release new, updated versions of their software without forcing their clients to download clunky applications over and over again.</p>
@@ -148,16 +148,6 @@
 
         <p>It will change your life for the better.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a></li>
-            <li><a :href="affiliateLinks.books.thinkLikeAFreak" target="_blank">Think Like a Freak by Steven D. Levitt and Stephen J. Dubner</a></li>
-            <li><a :href="affiliateLinks.books.gordonRamsay" target="_blank">Gordon Ramsay by Neil Simpson:</a></li>
-            <li><a :href="affiliateLinks.books.taoTeChing" target="_blank">Tao Te Ching by Lao Tzu</a></li>
-            <li><a :href="affiliateLinks.books.philosophyOfSoftwareDesign" target="_blank">A Philosophy of Software Design by John Ousterhout</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

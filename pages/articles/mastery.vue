@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Mastery</h1>
-        <p class="tagline fst-italic blue mb-3">July 17, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.</p>
         <p>I recently read <a :href="affiliateLinks.books.onWriting" target="_blank">Stephen King's memoir, On Writing.</a> He talks about the hour-after-hour, story-after-story grind that led him to writeCarrie,his first successful book. I also recently relistened to
@@ -41,15 +41,6 @@
         <p>Don't be afraid to suck at something.</p>
         <p>Find something that engages you. Work to master it. That will bring you satisfaction.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.onWriting" target="_blank">On Writing by Stephen King</a></li>
-            <li><a :href="affiliateLinks.books.mastery" target="_blank">Mastery by Robert Greene</a></li>
-            <li><a :href="affiliateLinks.books.chronicles" target="_blank">Chronicles: Volume One by Bob Dylan</a></li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

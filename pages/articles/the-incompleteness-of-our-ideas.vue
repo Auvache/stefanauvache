@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">The incompleteness of our ideas become clear only during implementation</h1>
-        <p class="tagline fst-italic blue mb-3">January 31, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Stéphane Breitwieser always had an eye for artwork. He would become enthralled with various paintings and sculptures, and was even moved to tears by their beauty.</p>
 

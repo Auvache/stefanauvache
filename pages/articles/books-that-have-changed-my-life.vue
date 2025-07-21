@@ -3,7 +3,7 @@
     <div class="container thin-content">
       <div>
         <h1 class="mb-3">Books that have changed my life</h1>
-        <p class="tagline fst-italic blue mb-3">June 15, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/books-2.jpg" alt="" class="mb-3 w-100">
 
         <p class="quote">"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you."<br> - Jim Mattis</p>

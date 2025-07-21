@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Grow Your Focus</h1>
-        <p class="tagline fst-italic blue mb-3">July 23, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/grow-your-focus.jpg" alt="" class="mb-3">
 
         <p class="quote">"Concentrate every minute like a Roman on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions."<br> - Marcus Araelius</p>
@@ -50,16 +50,6 @@
         <p>On occasion, I draw a small dot on the whiteboard in my office and stare at it for 2 minutes. It is harder than it sounds. When the 2 minutes are up, my brain begs me to start work. Give it a try.</p>
         <p>Even if your ability to focus sucks, your capacity to focus is greater than you think. You can do your work. You can do it well. You can focus.</p>
 
-
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.theWarOfArt" target="_blank">The War of Art by Steven Pressfield</a></li>
-            <li><a :href="affiliateLinks.books.the48LawsOfPower" target="_blank">The 48 Laws of Power by Robert Greene</a></li>
-            <li><a :href="affiliateLinks.books.meditations" target="_blank">Meditations by Marcus Aurelius (translated by Gregory Hays)</a></li>
-            <li><a :href="affiliateLinks.books.deepWork" target="_blank">Deep Work by Cal Newport</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Don't Make Beggars</h1>
-        <p class="tagline fst-italic blue mb-3">November 1, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">“When you lead, your real job is to create more leaders, not more followers.” - Kevin Kelly</p>
 
@@ -34,13 +34,6 @@
 
         <p>Don’t make beggars. Empower others.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.thePowerOfHalf" target="_blank">The Power of Half by Kevin Salwen and Hannah Salwen</a></li>
-            <li><a :href="affiliateLinks.books.excellentAdviceForLiving" target="_blank">Excellent Advice for Living by Kevin Kelly</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Eliminate Automate Delegate Do</h1>
-        <p class="tagline fst-italic blue mb-3">July 22, 2024</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/eliminate-automate-delegate-do.jpg" alt="" class="mb-3">
 
         <p>There are some tasks that call to us. There are things we long to do. Unfortunately, those tasks are typically suffocated by other things we wish we didn't have to do, but must, to keep the ship afloat.</p>
@@ -30,12 +30,6 @@
         <p>This mantra applies to work, school, household chores, sports, training, building relationships, and just about any situation in which you have something to accomplish.</p>
         <p>Eliminate, automate, delegate, do.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.the4HourWorkWeek" target="_blank">The 4-Hour Workweek by Timothy Ferriss</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

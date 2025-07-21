@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Why You Should Read</h1>
-        <p class="tagline fst-italic blue mb-3">October 4, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>George Yeomans Pocock saw barely any formal education after the age of 14. His was a life dedicated to the sport of rowing, specifically the art of handcrafting racing shells; long, narrow boats fit for a small team of rowers. He was born on the banks of the Thames in London to a father who built boats for a living. After winning money in a rowing contest, he and his brother Dick emigrated from England to British Columbia, Canada. His road eventually led him to the University of Washington in Seattle where he was able to hone and perfect his craft.</p>
 
@@ -41,12 +41,6 @@
           <li><a href="https://markmanson.net/33-life-changing-books" target="_blank">Mark Manson’s nonfiction reading list</a></li>
         </ul>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.theBoysInTheBoat" target="_blank">The Boys in the Boat by Daniel James Brown</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Rewards, Punishments, and Giving Life Less Meaning</h1>
-        <p class="tagline fst-italic blue mb-3">December 6, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">“Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.” - Mark Twain</p>
 
@@ -27,12 +27,6 @@
 
         <p>Punishments can absolve you of your guilt when you do something wrong and rewards can take the fun out of whatever you are doing. People rarely learn from paying speeding tickets, and grades in school make learning less fun for children. Be careful with how you structure the incentives in your life. You can rip passion and motivation from your career, free time, and relationships if you focus too much on transactional rewards and punishments.</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.drive" target="_blank">Drive by Daniel Pink</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

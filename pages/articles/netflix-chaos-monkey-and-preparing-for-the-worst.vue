@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Netflix, Chaos Monkey, and Preparing for the Worst</h1>
-        <p class="tagline fst-italic blue mb-3">September 27, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
         <img src="/img/articles/netflix.jpg" alt="" class="mb-3">
 
         <p>On April 21, 2011, <a href="https://money.cnn.com/2011/04/21/technology/amazon_server_outage/index.htm" target="_blank">an entire Amazon AWS availability zone went down</a>, taking a large chunk of the internet down with it. Companies like Reddit, Foursquare, and Quora lost their internet presence with no idea how long it would take to get it back. For some companies, a crash of longer than an hour can cost hundreds of millions of dollars.</p>
@@ -38,15 +38,6 @@
 
         <p>Are you prepared for outages?</p>
 
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a :href="affiliateLinks.books.theDevOpsHandbook" target="_blank">The DevOps Handbook (2nd Edition) by Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren</a></li>
-            <li><a href="https://money.cnn.com/2011/04/21/technology/amazon_server_outage/index.htm" target="_blank">Amazon EC2 outage downs Reddit, Quora</a></li>
-            <li><a href="https://www.geeksforgeeks.org/what-is-netflixs-chaos-monkey/" target="_blank">Chaos Monkey</a></li>
-            <li><a href="https://www.nationalgallery.org.uk/paintings/glossary/joseph-old-testament#:~:text=He%20was%20taken%20to%20Egypt,was%20made%20governor%20of%20Egypt." target="_blank">Joseph in Egypt</a></li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>

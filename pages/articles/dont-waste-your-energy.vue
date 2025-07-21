@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Don't waste your energy</h1>
-        <p class="tagline fst-italic blue mb-3">January 3, 2025</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Joe Rantz came home from school one day to find his family packed up and headed out on the road.</p>
 

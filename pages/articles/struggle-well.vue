@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Struggle well</h1>
-        <p class="tagline fst-italic blue mb-3">February 7, 2025</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Happiness doesn’t come from achieving goals. It comes from overcoming the problems that stand in the way of us achieving our goals.</p>
 

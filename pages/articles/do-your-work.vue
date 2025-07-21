@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">Do your work</h1>
-        <p class="tagline fst-italic blue mb-3">January 24, 2025</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>“Bolt, if you can beat Ricardo in the school sports day race, I’ll give you a box lunch.”</p>
 

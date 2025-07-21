@@ -3,7 +3,6 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">title</h1>
-        <p class="tagline fst-italic blue mb-3">month 1, 2025</p>
 
 
       </div>

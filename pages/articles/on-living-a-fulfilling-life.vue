@@ -3,7 +3,7 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">On Living a Fulfilling Life...</h1>
-        <p class="tagline fst-italic blue mb-3">December 20, 2024</p>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>In 2009, US Airways Flight 1549, piloted by Captain Chesley "Sully" Sullenberger and First Officer Jeffrey Skiles, struck a flock of geese shortly after takeoff from LaGuardia Airport in New York City, causing both engines to fail. Realizing they couldn't reach the airport in time, Sullenberger decided to land the plane in the Hudson River. All 155 passengers and crew survived the water landing.</p>
 
@@ -20,12 +20,7 @@
         <p>"I think people get old when they stop thinking about the future. If you want to find someone’s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they’ve gotten old. If they think about their dreams, their aspirations, what they’re still looking forward to - they’re young.”</p>
 
         <p>If you want to live a fulfilling life, do your best to enjoy the present while looking to the future. Make plans to improve and enrich your life, regardless of your age. Take care of yourself, don’t worry about things that are outside of your control, and focus your efforts on things that will pay future dividends in the form of joy.</p>
-        <div class="resources">
-          <p>Resources</p>
-          <ul>
-            <li><a href="https://www.youtube.com/watch?v=8_zk2DpgLCs" target="_blank">Ric Elias - TedX</a></li>
-          </ul>
-        </div>
+
       </div>
     </div>
   </section>
