@@ -17,6 +17,7 @@
               <li><NuxtLink @click="toggleMenu" to="/articles">Featured Articles</NuxtLink></li>
               <li><NuxtLink @click="toggleMenu" to="/categories">Categories</NuxtLink></li>
               <li><NuxtLink @click="toggleMenu" to="/all-articles">All Articles</NuxtLink></li>
+              <li><NuxtLink @click="toggleMenu" to="/contact">Contact Information</NuxtLink></li>
             </ul>
           </div>
         </div>
