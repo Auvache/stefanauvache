@@ -7,7 +7,7 @@
 				    v-for="tab in tabs"
 				    :key="tab.id"
 				    :to="tab.route"
-				    class="btn btn-outline-primary text-center"
+				    class="btn btn-black btn-outline-primary text-center"
 		    >
 			    {{ tab.label }}
 		    </NuxtLink>
@@ -45,17 +45,5 @@ body,html {
 	border: none;
 	scroll-padding-top: 0;
 	background-color: #000;
-}
-.button-bar .btn {
-	background: transparent;
-	color: #fff;
-	border: 1px solid white;
-	border-radius: 0.5rem;
-
-	&:hover {
-		text-decoration: none;
-		background: #fff;
-		color: #000;
-	}
 }
 </style>

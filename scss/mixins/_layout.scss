@@ -431,4 +431,17 @@ nav {
   }
 }
 
+.button-bar .btn {
+  background: transparent;
+  color: #fff;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+
+  &:hover {
+    text-decoration: none;
+    background: #fff;
+    color: #000;
+  }
+}
+
 
