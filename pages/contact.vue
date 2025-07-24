@@ -1,8 +1,8 @@
 <template>
-  <section class="section-padding">
+  <section class="section-padding bg-black-denim border-bottom border-white">
     <div class="container thinnest-content">
-      <div>
-        <h1 class="text-sm-center mb-4">Reach Out</h1>
+      <div class="text-white">
+        <h1 class="text-sm-center mb-4 mt-4">Reach Out</h1>
 	      <p>I’d love to hear from you—whether you’re interested in collaborating, publishing, republishing an article, or just want to ask a question.</p>
 	      <p>I will do my best to respond promptly.</p>
 

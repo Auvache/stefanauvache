@@ -145,16 +145,10 @@ b, strong {
 }
 
 .intro-heading {
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 300;
-  margin: 0 0 0.5rem;
-
-  @include breakpoint(sm) {
-    font-size: 1.5rem;
-    line-height: 2.5rem;
-    font-weight: 200;
-  }
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  font-weight: 200;
+  margin: 1rem 0;
 }
 
 .content { @include contentWidth(div); }

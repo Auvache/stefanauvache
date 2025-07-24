@@ -5,7 +5,7 @@
         <p class="white mb-0">Get timeless principles for modern life, once a week, directly to your inbox.<br>
 	        Subscribe to <span class="fw-bold fst-italic">Food For Thought</span> today.</p>
         <div>
-          <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center">
+          <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center" style="min-height: 200px;">
             <component is="script" async data-uid="0396ab84d5" src="https://stefan-bradley.ck.page/0396ab84d5/index.js"></component>
           </div>
         </div>

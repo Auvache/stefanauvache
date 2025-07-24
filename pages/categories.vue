@@ -2,7 +2,7 @@
 	<section class="section-padding">
 		<div class="container thinnest-content">
 			<div>
-				<h1 class="text-sm-center mb-4">Articles</h1>
+				<h1 class="text-sm-center mb-4">Articles About...</h1>
 
 				<div>
 					<div v-for="(articles, category) in articlesList">
@@ -16,7 +16,7 @@
 				</div>
 
 				<div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-					<NuxtLink to="/all-articles">Articles By Date</NuxtLink>
+					<NuxtLink to="/all-articles">Article Archive</NuxtLink>
 				</div>
 
 			</div>
@@ -28,7 +28,6 @@
 import {ref} from "vue";
 import Articles from "@/assets/articlesList.json"
 
-// const categories = ["Books","Business","Creativity","Philosophy","Productivity","Technology","Tools"]
 const categories = [
 	"Agile Living & Iterative Development",
 	"Systems & Habits",
@@ -47,7 +46,6 @@ categories.forEach(category => {
 		}
 	}
 })
-
 
 // meta tags
 let metaTitle = 'Stefan Auvache | Articles'

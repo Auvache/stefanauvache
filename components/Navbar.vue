@@ -2,7 +2,7 @@
   <nav class="bg-black-denim">
     <div class="container medium-content py-2">
       <div class="d-flex justify-content-between align-items-center">
-        <NuxtLink class="logo" to="/articles">
+        <NuxtLink class="logo" to="/">
           STEFAN AUVACHE
         </NuxtLink>
         <div class="menu-links">
@@ -25,7 +25,7 @@
     </div>
   </nav>
   <div class="nav-buffer"></div>
-  <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim">
+  <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim border-white border-bottom">
     <div class="position-relative">
       <NuxtLink class="white text-decoration-none" to="/subscribe">Subscribe to <span class="d-none d-sm-inline">the </span><span class="fst-italic fw-bold">Food for Thought</span><span class="d-none d-sm-inline"> email list</span></NuxtLink>
       <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>
@@ -36,7 +36,7 @@
 <script setup>
 const router = useRouter()
 const { currentRoute } = router
-const hideBannerPageList = ['/subscribe', '/music']
+const hideBannerPageList = ['/', '/subscribe', '/music']
 const showSubscribeBanner = ref(!hideBannerPageList.includes(currentRoute.value.path))
 const toggleMenu = () => {
   let menu = document.getElementById("dropdown");

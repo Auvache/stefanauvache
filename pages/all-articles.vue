@@ -2,7 +2,10 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="text-sm-center">All Articles</h1>
+	      <div class="text-center mb-5">
+		      <h1 class="text-sm-center">Article Archive</h1>
+		      <p>All articles written by date&mdash;the good, the bad, and the ugly</p>
+	      </div>
 
 <!--        <div v-for="(articles, month) in articlesByYear[2026]">-->
 <!--          <h2 class="text-black mt-4">{{month}} 2026</h2>-->

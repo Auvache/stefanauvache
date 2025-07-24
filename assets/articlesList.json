@@ -4,7 +4,8 @@
     "title": "Measure What Is in Your Control",
     "datePublished": "2025/07/18",
     "categories": ["Systems & Habits"],
-    "featured": true,
+    "featured" : true,
+    "rank" : 1,
     "image": "measure-boy.jpg",
     "keywords": "Stephen King, lead measures, lagging indicators, goal setting, productivity systems, focus on controllables, daily habits, performance tracking",
     "summary": "Stephen King has written dozens of bestsellers, sold over 350 million books, and built a net worth north of $500 million. While impressive, these are metrics he pays little attention to. As an author, there is only one metric that King pays attention to—words written per day."
@@ -14,7 +15,8 @@
     "title": "To Do Truly Great Work",
     "datePublished": "2025/07/11",
     "categories": ["Personal Betterment","Tools & Strategies"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "deep work, focus, Cal Newport, productivity, undistracted effort, meaningful work, cognitive performance, attention management",
     "summary": "True greatness comes from deep, focused work. Avoid multitasking and distractions to unlock clarity and produce meaningful results with undivided attention."
@@ -24,7 +26,8 @@
     "title": "Failure Is an Option",
     "datePublished": "2025/07/04",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "failure, Pixar, innovation, creative process, iteration, learning from mistakes, risk-taking, success through failure",
     "summary": "Pixar’s shelved film taught the power of failure and iteration. Failure isn’t defeat—it’s a vital step toward success and improvement in creativity and life."
@@ -34,7 +37,8 @@
     "title": "Ultracrepidarianism, Imposter Syndrome, and the Fight for Humility",
     "datePublished": "2025/06/27",
     "categories": [],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "ultracrepidarianism, imposter syndrome, humility, learning, knowledge gaps, ego, vulnerability, growth mindset",
     "summary": "Ultracrepidarianism and imposter syndrome hinder learning. Fight ego with humility by admitting what you don’t know and staying open to growth and understanding."
@@ -44,7 +48,8 @@
     "title": "Escaping the Trap of Social Comparison",
     "datePublished": "2025/06/20",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "social comparison, War of the Currents, Edison vs Tesla, motivation, progress, social media, personal growth, measuring success",
     "summary": "Social comparison distracts and demotivates. Instead of chasing others’ success, focus on your own progress and set personal goals to escape this trap."
@@ -54,7 +59,8 @@
     "title": "Mindsets for Learning",
     "datePublished": "2025/06/13",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "growth mindset, fixed mindset, Carol Dweck, learning, resilience, failure, mindset psychology",
     "summary": "Carol Dweck’s research shows that a growth mindset—believing abilities can improve with effort—leads to learning and success, while a fixed mindset limits growth."
@@ -64,7 +70,8 @@
     "title": "A Career Worth Pursuing",
     "datePublished": "2025/06/06",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "career advice, natural strengths, Ned Johnson, success, talent, job fit, professional development",
     "summary": "Success comes easier when you lean into your natural strengths. Like Ned Johnson says, don’t chase what’s hardest—pursue what fits you well and has real opportunity."
@@ -74,7 +81,8 @@
     "title": "Analyze and Apply Lessons Logically",
     "datePublished": "2025/05/30",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "feedback, analysis, root cause, decision-making, Kobe Bryant, performance improvement, patterns, action",
     "summary": "Effective analysis means spotting patterns, finding root causes, and acting on insights. Like Kobe Bryant, use feedback to make smart, targeted changes—not just reflect."
@@ -84,7 +92,8 @@
     "title": "Don't Give Into Analysis Paralysis",
     "datePublished": "2025/05/23",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "analysis paralysis, decision-making, feedback loops, overthinking, fear of failure, clarity vs. certainty, productivity",
     "summary": "Overanalyzing can feel productive, but often it's just fear in disguise. You usually have enough information—what you need is action, not certainty."
@@ -94,7 +103,8 @@
     "title": "Three Notes at a Time",
     "datePublished": "2025/05/16",
     "categories": ["Systems & Habits"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "mastery, chunking, practice, Victor Wooten, learning technique, music, deliberate practice, skill-building",
     "summary": "Mastery doesn’t happen all at once. Break big skills into small chunks—like three notes at a time—and work each piece until it feels natural. Then build from there."
@@ -104,7 +114,8 @@
     "title": "Pay Attention to Externalities",
     "datePublished": "2025/05/09",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "externalities, unintended consequences, Dust Bowl, decision-making, ripple effect, responsibility, economics",
     "summary": "Your actions affect others in ways you might not see. Like the Dust Bowl, unintended consequences—externalities—can have major impacts. Think before you act."
@@ -114,7 +125,8 @@
     "title": "Keep Your Failures in Scope",
     "datePublished": "2025/05/02",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "failure, self-worth, resilience, mindset, setbacks, learning from mistakes, The Self-Driven Child",
     "summary": "Failure doesn’t define you. Learn from setbacks, adjust your strategy, and move forward without letting failure affect your self-worth or your future."
@@ -124,7 +136,8 @@
     "title": "Where Do You Go for Feedback?",
     "datePublished": "2025/04/25",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "feedback sources, Bruce Springsteen, qualified feedback, honest criticism, fast feedback, relevant input, objectivity",
     "summary": "Not all feedback is equal—valuable feedback is specific, qualified, close, fast, and honest. Where you get feedback determines how well you improve."
@@ -134,7 +147,8 @@
     "title": "Credentials, Artifacts, and Competence",
     "datePublished": "2025/04/18",
     "categories": ["Timeless Principles in Modern Disciplines"],
-    "featured": true,
+    "featured" : true,
+    "rank" : 0,
     "image": "graduation.jpg",
     "keywords": "Nelson Mandela, competence vs credentials, artifacts, education and experience, job hiring, real-world skills",
     "summary": "A college degree is an artifact. It shows that you got into a university, learned enough to not fail all of your classes, and persevered to the end to some extent. But true education is about competence and experience, not just credentials."
@@ -144,7 +158,8 @@
     "title": "The Pixar Braintrust and Candid Feedback",
     "datePublished": "2025/04/11",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": false,
+    "featured" : false,
+    "rank" : 0,
     "image": "",
     "keywords": "Pixar Braintrust, candid feedback, creative improvement, Toy Story success, honest critique, performance measurement",
     "summary": "Pixar's Braintrust shows how candid, honest feedback drives creative excellence and lasting success in storytelling."
@@ -154,7 +169,8 @@
     "title": "Save the Performance for the Stage",
     "datePublished": "2025/04/04",
     "categories": ["Agile Living & Iterative Development"],
-    "featured": true,
+    "featured" : true,
+    "rank" : 0,
     "image": "performance.jpg",
     "keywords": "John Mayer, musician success, public persona, focus on craft, humility in success, artist fulfillment",
     "summary": "Setting goals, making plans, working hard, and achieving success can lead to recognition. Recognition can lead to distraction and perceived public expectation. Those distractions and expectations can shift your priorities away from doing meaningful, fulfilling work."
@@ -165,6 +181,7 @@
     "datePublished" : "2025/03/28",
     "categories" : ["Systems & Habits"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Nick Saban, champion mindset, focus on the moment, lagging indicator, to be a champion",
     "summary" : "Trophies aren’t won in the fourth quarter. They aren’t even won in the first half. They are won at practice."
@@ -175,6 +192,7 @@
     "datePublished" : "2025/03/21",
     "categories" : ["Systems & Habits"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "to whom it may inspire, pixar, Austin Madison, overestimate what we can do in a day, underestimate what we can do in a decade, no overnight success, Steven Pressfield, Stephen King, keep working hard, persist",
     "summary" : "\"How many pages have I produced?\" asks Steven Pressfield of himself. \"I don’t care. Are they any good? I don’t even think about it. All that matters is I’ve put in my time and hit it with all I’ve got… The most important thing about art is to work. Nothing else matters except sitting down every day and trying.\""
@@ -185,6 +203,7 @@
     "datePublished" : "2025/03/14",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "software bugs, bugs, rabbit holes, going down a rabbit hole, opportunity cost, broken windows, y2k, don't lose focus, don't go down rabbit holes",
     "summary" : "Every action you take has a price associated with it. This is called opportunity cost—when you choose to do one thing, you are choosing to not do other things."
@@ -195,6 +214,7 @@
     "datePublished" : "2025/03/07",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Frans Rosen, Frans Rosén, ethical hacking, why you should read, reading, read to unstick, fill the gaps in your knowledge, problem solving through reading",
     "summary" : "When you get stuck, read. Go back to the basics. Fill the gaps in your knowledge and use your newfound wisdom to better solve problems."
@@ -205,6 +225,7 @@
     "datePublished" : "2025/02/28",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "eliminate, simplify, Matthew McConaughey, McConaughey, As in three things, Bs in five things, Steve Jobs, Apple, what can I eliminate, what can I simplify, management",
     "summary" : "Our time and resources are limited. When we use them up on things we don’t care about, we steal them away from the things we love."
@@ -215,6 +236,7 @@
     "datePublished" : "2025/02/21",
     "categories" : ["Systems & Habits"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Seth Godin, Seth, Godin, equation for success, formula for success, how to start a successful blog, formula for starting a blog, formula for Seth's blog, SEO, social media",
     "summary" : "Successful people are often successful in spite of the things they do. What are you trying to accomplish? What variables matter most in the equation for your success? Are there things that others say are essential that might not even be necessary?"
@@ -225,6 +247,7 @@
     "datePublished" : "2025/02/14",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Steven Pressfield, turning pro, momentum, motivation, discipline, procrastination, Resistance, Steven Pressfield Resistance, overcoming procrastination",
     "summary" : "The first hurdle standing between you and doing your work is procrastination. You overcome procrastination through discipline. Do what you need to to build a habit of doing your work and your power to overcome procrastination will increase."
@@ -235,6 +258,7 @@
     "datePublished" : "2025/02/07",
     "categories" : ["Systems & Habits"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Ray Dalio, Tommy Emmanuel, Viktor Frankl, Ray, Dalio, Tommy, Emmanuel, Vikor, Frankl, struggle, the obstacle is the way, Ryan Holiday, Paul Rabil, Steven Pressfield, struggle, endurance, do your work well, fulfilling life",
     "summary" : "If you are looking for a source of meaning in your life, find an obstacle and work to overcome it. It doesn’t matter if you find the struggle in self-betterment, making an impact in your community, or mastering a new skill. The key is to find something to overcome and to struggle well on your way to overcoming it."
@@ -245,6 +269,7 @@
     "datePublished" : "2025/01/31",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Stéphane Breitwieser, the art thief, art heist, lessons from an art thief, premature optimization, take action, learn through mistakes, trial and error, over planning",
     "summary" : "It is impossible to know all of the things that are wrong with your plan. Sometimes, you just need to act if you want to know if your plan is going to work."
@@ -255,6 +280,7 @@
     "datePublished" : "2025/01/24",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Usain Bolt, Glen Mills, do your work, work hard, execute your plan, act, take action",
     "summary" : "No amount of planning can make up for a lack of execution. Doing your work is the only thing that will actually take you anywhere."
@@ -265,6 +291,7 @@
     "datePublished" : "2025/01/17",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "consistent effort, long-term success, practice and perseverance, University of Washington rowing, Olympic rowing champions, unseen work behind greatness, Stephen King early novels, Mozart compositions, Simone Biles training hours, mastery through repetition, athletic dedication, academic persistence, personal growth through effort, rowing endurance, finding your 4,344 miles",
     "summary" : "You can’t expect to become great at something if you don’t put in consistent effort over a long period of time. This is as true in athletics and academics as it is in living a fulfilling life."
@@ -275,6 +302,7 @@
     "datePublished" : "2025/01/10",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "learning to play an instrument, long-term progress, Steve Martin banjo, persistence in learning, skill development over time, motivation for beginners, mastering a skill, growth mindset, banjo practice tips, overcoming frustration in learning, Bill Gates quote on progress, incremental improvement, staying consistent, learning challenges, expert advice on practice",
     "summary" : "It is easy to feel like you aren’t making progress. Widen your lens, lengthen your timeline, and stick with it. All experts in the world were once beginners."
@@ -285,6 +313,7 @@
     "datePublished" : "2025/01/03",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Joe Rantz, don't waste your energy, energy, wasting energy, brain space, forgiveness, it takes energy to get angry, anger is a waste",
     "summary" : "We can’t control what happens to us. We can control how we respond to the things that happen to us."
@@ -295,6 +324,7 @@
     "datePublished" : "2024/12/20",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "on living a fulfilling life, Ric Elias, life lessons, near death experience, looking to the future",
     "summary" : "\"I think people get old when they stop thinking about the future. If you want to find someone's true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they've gotten old.\" - Ric Elias"
@@ -305,6 +335,7 @@
     "datePublished" : "2024/12/06",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "rewards, punishments, faulty incentive structures, bad incentives, incentives, losing meaning",
     "summary" : "\"There are wealthy gentlemen in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line, in the summer, because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work and then they would resign.\" - Mark Twain"
@@ -315,6 +346,7 @@
     "datePublished" : "2024/11/29",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "payul mccartney, yesterday song, beatles, creative process, creativity",
     "summary" : "Scrambled eggs... Everybody calls me scrambled eggs. Sir Paul McCartney has written over a thousand songs. His song Yesterday sounded a lot different a year before it was released."
@@ -325,6 +357,7 @@
     "datePublished" : "2024/11/22",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : true,
+    "rank" : 0,
     "image" : "hiring-new-people.jpg",
     "keywords" : "hiring people, hiring new people, ray dalio, lessons from ray dalio, job fit",
     "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about \"fit.\" Is the candidate capable of performing job responsibilities competently? Will they enjoy the job down the road?"
@@ -335,6 +368,7 @@
     "datePublished" : "2024/11/15",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "meaningful research, useful questions, context for research",
     "summary" : "The benefits of asking useful questions are realized by doing meaningful research. For research to be meaningful, it must have a specific context."
@@ -345,6 +379,7 @@
     "datePublished" : "2024/11/08",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "asking questions, asking useful questions, questions lead to solutions, ask the right questions",
     "summary" : "When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke."
@@ -355,6 +390,7 @@
     "datePublished" : "2024/11/01",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "charity, wasted charity, don't make beggars, help others to help themselves",
     "summary" : "After a collective recognition of personal excess and lots of discussion, the Salwens decided it was time to act. They could live on a lot less. Half, in fact. They sold their $1.5 million home, bought something down the street for roughly half the price, and devoted the next year to researching how they could use the remaining money to make the world a better place."
@@ -365,6 +401,7 @@
     "datePublished" : "2024/10/25",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : true,
+    "rank" : 0,
     "image" : "creative-projects.jpg",
     "keywords" : "creative projects, starting creative projects, better with time, investing in creativity",
     "summary" : "\"If there is any magic in creative expression, it's how small, even silly ideas can become big, important, aw-inspiring works if a person invests enough time in them.\" - Ryan Holiday"
@@ -375,6 +412,7 @@
     "datePublished" : "2024/10/18",
     "categories" : ["Agile Living & Iterative Development"],
     "featured" : true,
+    "rank" : 4,
     "image" : "agile.jpg",
     "keywords" : "agile, agile development, agile life, pattern for improvement",
     "summary" : "Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move."
@@ -385,6 +423,7 @@
     "datePublished" : "2024/10/11",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "kevin kelly, excellent advice for living, lessons from kevin kelly, lessons from excellent advice for living",
     "summary" : "\"We tend to overestimate what we can do in a day, and underestimate what we can achieve in a decade.\" - Kevin Kelly"
@@ -395,6 +434,7 @@
     "datePublished" : "2024/10/04",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "reading, why you should read, read more, importance of reading",
     "summary" : "A reading habit will do more for your personal education level than earning a university degree. Here are three reasons why."
@@ -405,6 +445,7 @@
     "datePublished" : "2024/09/27",
     "categories" : ["Systems & Habits"],
     "featured" : true,
+    "rank" : 3,
     "image" : "netflix.jpg",
     "keywords" : "netflix, chaos monkey, preparing for the worst, planning to handle disaster",
     "summary" : "While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
@@ -415,6 +456,7 @@
     "datePublished" : "2024/09/20",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "have you considered the cost, true cost, opportunity cost, opportunity cost of our actions",
     "summary" : "\"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind.\" - Robert Green"
@@ -425,6 +467,7 @@
     "datePublished" : "2024/09/13",
     "categories" : ["Systems & Habits"],
     "featured" : true,
+    "rank" : 2,
     "image" : "unplanned-work.jpg",
     "keywords" : "unplanned work, 80/20 principle, eighty twenty, 80-20 principle, plan for unplanned work, ninety ninety rule, 90-90, first 90%, second 90%",
     "summary" : "If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for all parties involved."
@@ -435,6 +478,7 @@
     "datePublished" : "2024/09/07",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "deep work, cal newport, work deeply, focus, improving focus",
     "summary" : "Don’t suffocate your productive potential by splitting your focus. Focus on the task at hand. It may be hard, but it gets easier."
@@ -445,6 +489,7 @@
     "datePublished" : "2024/08/30",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : true,
+    "rank" : 0,
     "image" : "curious-not-opinionated.jpg",
     "keywords" : "curiosity, strong opinions, curiosity over opinions, don't be too opinionated",
     "summary" : "\"When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.\" - Steven Levitt and Stephen Dubner"
@@ -455,6 +500,7 @@
     "datePublished" : "2024/08/23",
     "categories" : ["Systems & Habits"],
     "featured" : true,
+    "rank" : 0,
     "image" : "feedback.jpg",
     "keywords" : "feedback, feedback loops, world class feedback, getting better, learning through feedback",
     "summary" : "You don’t have to be a professional to build a world-class feedback loop. In fact, the opposite is true; creating a world-class feedback loop will make you a professional."
@@ -465,6 +511,7 @@
     "datePublished" : "2024/08/23",
     "categories" : ["Taking Action"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "premature optimization, perfectionism, overcoming perfectionism",
     "summary" : "You will never be perfectly prepared to do something great. You can spend all of the time in the world practicing, rehearsing, and studying. You will never feel totally prepared to take opportunities that are truly worthwhile. Over preparation is the death of productivity and success."
@@ -475,6 +522,7 @@
     "datePublished" : "2024/08/16",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "biography method, social skills, easier conversations",
     "summary" : "It is often difficult to know how to connect with people. Navigating social interactions can be challenging. You can overcome this with the Biography Method, a way of interacting with others by imagining that you are getting ready to write their life story."
@@ -485,6 +533,7 @@
     "datePublished" : "2024/08/02",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "writing better college essays, method for improving college essays, how to write better essays, weaving essays",
     "summary" : "In college, I created a method for writing cohesive essays more quickly. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this colorful approach to writing, inspired by anthropology studies, can streamline your writing process and improve your academic performance."
@@ -495,6 +544,7 @@
     "datePublished" : "2024/08/01",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "relative sacrifice, relative weight of sacrifice, improving relationships by making efficient sacrifices",
     "summary" : "You can improve your relationships with others by finding the relative weight of the sacrifices others make for you and respond accordingly."
@@ -505,6 +555,7 @@
     "datePublished" : "2024/07/30",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "monk week, Bill Gates, think week, deep reflection",
     "summary" : "You don't have to be successful to set aside time for deep reflection. Setting aside time to read, think, and plan makes you more successful."
@@ -515,6 +566,7 @@
     "datePublished" : "2024/07/23",
     "categories" : ["Systems & Habits"],
     "featured" : true,
+    "rank" : 0,
     "image" : "grow-your-focus.jpg",
     "keywords" : "grow your focus, improve focus, cal newport, deep work, work deeply, focus is a skill, focus is a habit",
     "summary" : "It doesn't matter who you are. Lack of focus inhibits connection, productivity, and enjoyment. Too many people think that they can't focus. Trust me, you can."
@@ -525,6 +577,7 @@
     "datePublished" : "2024/07/22",
     "categories" : ["Systems & Habits"],
     "featured" : true,
+    "rank" : 0,
     "image" : "eliminate-automate-delegate-do.jpg",
     "keywords" : "eliminate automate delegate do, reduce task list, automate tasks, delegate tasks, Tim Ferriss, 4-hour work week, efficient work",
     "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate."
@@ -535,6 +588,7 @@
     "datePublished" : "2024/07/17",
     "categories" : ["Timeless Principles in Modern Disciplines"],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "mastery, Robert Greene, Bob Dylan, master your craft, engaging work",
     "summary" : "No one is great at the start of something creative. Don't be afraid to pursue something challenging. Find something that engages you. Work to master it. That will bring you satisfaction."
@@ -545,6 +599,7 @@
     "datePublished" : "2024/06/17",
     "categories" : [],
     "featured" : false,
+    "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Better business writing, keep writing simple, tips for better writing, Scott Adams, Steven Pressfiled, writing with substance",
     "summary" : "Writing should be as easy to understand as possible. Make your work entertaining, but not at the expense of simplicity."
@@ -555,6 +610,7 @@
     "datePublished" : "2024/06/15",
     "categories" : [],
     "featured" : true,
+    "rank" : 0,
     "image" : "books-2.jpg",
     "keywords" : "books, life changing books, Stefan's favorite books, best books, life altering books, books that change perspective",
     "summary" : "\"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.\" - Jim Mattis"

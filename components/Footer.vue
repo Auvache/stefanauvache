@@ -1,11 +1,11 @@
 <template>
-  <div class="fade-in-up">
+  <div>
     <SubscribeBar />
     <footer>
-      <section class="bg-gray text-center py-4">
+      <section class="bg-black-denim text-center py-4">
         <div class="container">
           <div class="row">
-            <p class="m-0 tagline">Property of Stefan Auvache Bradley, 2025</p>
+            <p class="m-0 tagline text-white">Property of Stefan Auvache Bradley, 2025</p>
           </div>
         </div>
       </section>

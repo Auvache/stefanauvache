@@ -1,19 +1,19 @@
 <template>
 	<section class="section-padding">
 		<div class="container thin-content">
-			<h1 class="t2 text-center text-black mt-3 mb-4">Featured Articles</h1>
+			<h1 class="t2 text-center text-black mt-3 mb-5">Featured Articles</h1>
 			<div id="featuredArticles">
 				<div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 					<NuxtLink :to="article.articlePath" class="text-decoration-none" >
 						<img :src="`/img/articles/${article.imagePath}`" alt="">
 						<h2 class="intro-heading">{{article.title}}</h2>
 					</NuxtLink>
+					<hr>
 					<p>{{article.summary}}</p>
 				</div>
-
 			</div>
 			<div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-				<NuxtLink to="/all-articles">Keep reading...</NuxtLink>
+				<NuxtLink to="/categories">Keep reading...</NuxtLink>
 			</div>
 
 		</div>
@@ -48,17 +48,3 @@ let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, technology, tech,
 let metaCanonical = 'www.stefanauvache.com/articles'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>
-
-<style scoped lang="scss">
-#featuredArticles {
-	display: grid;
-	grid-column-gap: 2rem;
-	grid-row-gap: 2rem;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-
-	img {
-		width: 100%;
-	}
-}
-
-</style>
