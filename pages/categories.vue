@@ -31,8 +31,8 @@ import Articles from "@/assets/articlesList.json"
 const categories = [
 	"Agile Living & Iterative Development",
 	"Systems & Habits",
-	"Taking Action",
-	"Timeless Principles in Modern Disciplines"
+	"Intentional Action",
+	"Meaningful Focus"
 ]
 const articlesList = ref({})
 categories.forEach(category => {

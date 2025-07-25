@@ -32,11 +32,18 @@
 			<h2 class="text-white">About Stefan Auvache</h2>
 			<hr class="white">
 			<div class="text-white">
-				<p>Modern times call for timeless principles.</p>
-				<p>What happens when you work hard to achieve something only to realize that you didn’t want that thing in the first place? How can you possibly know if you truly want something if you’ve never experienced it before?</p>
-				<p>We can find the answers to these questions by studying how timeless principles are used by successful people in modern times.</p>
-				<p>Principles from technology, business, and project management can be applied directly to our daily lives to help us orient ourselves and move forward.</p>
-				<p>By exploring these universal patterns&mdash;iterative development, systems for productivity, taking action&mdash;I help readers develop their own systems for personal improvement.</p>
+				<p>Modern times call for actionable principles.</p>
+				<p>We’ve all worked hard for things we didn’t actually want. We’ve chased goals that looked good on paper but left us burned out or unfulfilled. How do we know what’s worth pursuing—before it’s too late?</p>
+				<p>I believe the answers lie in how we work, plan, and focus. The same principles that power successful teams and organizations—agile development, strategic planning, systems thinking—can be used to build a more intentional, fulfilling life.</p>
+				<p>My work is grounded in four pillars:</p>
+				<ul class="list-unstyled text-white">
+					<li><strong>Agile Living</strong> – Live iteratively. Adapt often. Learn from feedback.</li>
+					<li><strong>Simple Systems</strong> – Build routines that empower ease and growth.</li>
+					<li><strong>Intentional Action</strong> – Work deeply. Act deliberately. Find the right tools.</li>
+					<li><strong>Meaningful Focus</strong> – Choose what matters. Ignore what doesn’t.</li>
+				</ul>
+				<p>These pillars help me avoid wasted effort, make better decisions, and stay focused on what actually matters. They can do the same for you.</p>
+				<p>If you want practical insights rooted in modern disciplines—blended with timeless ideas from history, philosophy, and everyday experience—you’re in the right place.</p>
 				<hr class="white">
 				<ul class="list-unstyled">
 					<li><NuxtLink class="link" to="/subscribe">Subscribe for weekly articles, directly to your inbox</NuxtLink></li>

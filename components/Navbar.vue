@@ -36,7 +36,7 @@
 <script setup>
 const router = useRouter()
 const { currentRoute } = router
-const hideBannerPageList = ['/', '/subscribe', '/music']
+const hideBannerPageList = ['/', '/subscribe', '/music', '/thank-you']
 const showSubscribeBanner = ref(!hideBannerPageList.includes(currentRoute.value.path))
 const toggleMenu = () => {
   let menu = document.getElementById("dropdown");
