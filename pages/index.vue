@@ -8,25 +8,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="section-padding">
-		<div class="container thin-content">
-			<h2 class="t2 text-center text-black mt-3 mb-5">Most Important Articles</h2>
-			<div id="featuredArticles">
-				<div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
-					<NuxtLink :to="article.articlePath" class="text-decoration-none" >
-						<img :src="`/img/articles/${article.imagePath}`" alt="">
-						<h2 class="intro-heading">{{article.title}}</h2>
-					</NuxtLink>
-					<hr>
-					<p>{{article.summary}}</p>
-				</div>
-			</div>
-			<div class="d-flex flex-column justify-content-center mt-5 thinnest-content">
-				<NuxtLink class="btn mb-3" to="/subscribe">Subscribe for weekly updates</NuxtLink>
-				<NuxtLink class="text-center" to="/articles">Read more articles</NuxtLink>
-			</div>
-		</div>
-	</section>
+	<ImportantArticles />
 	<section class="section-padding bg-black-denim">
 		<div class="container thinnest-content">
 			<h2 class="text-white">About Stefan Auvache</h2>
@@ -57,27 +39,9 @@
 </template>
 
 <script setup lang="ts">
-import Articles from "assets/articlesList.json"
-
 definePageMeta({
 	layout: 'no-footer'
 })
-
-// featured articles
-let sortedArticles = []
-
-for (let i in Articles) {
-	let article = Articles[i];
-	if (article.featured && article.rank !== 0) {
-		article.articlePath = '/articles/' + article.slug;
-		if (article.image) {
-			article.imagePath = article.image;
-		}
-		sortedArticles.push(article);
-	}
-}
-
-sortedArticles.sort((a, b) => a.rank - b.rank);
 
 // meta tags
 let metaTitle = 'Stefan Auvache | Newsletter, Articles, and More'

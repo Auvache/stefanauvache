@@ -19,7 +19,7 @@
 // meta tags
 let metaTitle = 'Stefan Auvache | Contact'
 let metaDescription = 'Contact Stefan Auvache.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, contact, articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache contact'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, contact, articles, agile living, agile, simple systems, intentional action, meaningful focus, Stefan Auvache contact'
 let metaCanonical = 'www.stefanauvache.com/contact'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>

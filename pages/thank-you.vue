@@ -15,9 +15,9 @@ definePageMeta({
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | Subscribe to Food for Thought'
-let metaDescription = 'Subscribe to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
+let metaTitle = 'Stefan Auvache | Thank You'
+let metaDescription = 'Thank you for subscribing to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, , thank you, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
 let metaCanonical = 'www.stefanauvache.com/subscribe'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>

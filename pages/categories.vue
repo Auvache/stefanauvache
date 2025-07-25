@@ -50,7 +50,7 @@ categories.forEach(category => {
 // meta tags
 let metaTitle = 'Stefan Auvache | Articles'
 let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, business, technology, literature, philosophy, music, lifelong learning, Stefan Auvache articles'
+let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, agile living, agile, simple systems, intentional action, meaningful focus, Stefan Auvache articles'
 let metaCanonical = 'www.stefanauvache.com/articles'
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>

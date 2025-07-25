@@ -1,5 +1,6 @@
 <template>
   <div>
+	  <ImportantArticles v-if="!hideFooterArticlesList.includes(route.path)" />
     <SubscribeBar />
     <footer>
       <section class="bg-black-denim text-center py-4">
@@ -12,3 +13,7 @@
     </footer>
   </div>
 </template>
+<script setup lang="ts">
+const route = useRoute()
+const hideFooterArticlesList = ['/articles']
+</script>
