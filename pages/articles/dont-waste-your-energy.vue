@@ -25,6 +25,7 @@
 
         <p>It takes energy to get angry. Don’t waste your energy.</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -29,6 +29,7 @@
         <p>Everyone has a story to tell. Your job is to get them to tell it.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

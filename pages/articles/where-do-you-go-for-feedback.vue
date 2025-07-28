@@ -43,6 +43,7 @@
 	      <p>Where do you go for feedback?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

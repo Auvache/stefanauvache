@@ -16,6 +16,7 @@
         <p>Trophies aren’t won in the fourth quarter. They aren’t even won in the first half. They are won at practice. They are won in the weight room and at team dinners. Success is determined by how you choose to handle the 100,000 little moments that precede the championship game. Every rep, every assignment, every meal, every morning, every project, every drive, every conversation. Focus on the task at hand. Do your work every day.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

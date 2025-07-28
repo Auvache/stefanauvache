@@ -18,6 +18,7 @@
 	      <p>Good feedback loops don’t end with insight—they end with action.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

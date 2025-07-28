@@ -15,6 +15,7 @@
 
         <p>Where are your 4,344 miles?</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

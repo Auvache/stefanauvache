@@ -149,6 +149,7 @@
         <p>It will change your life for the better.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

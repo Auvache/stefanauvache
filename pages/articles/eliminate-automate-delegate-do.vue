@@ -31,6 +31,7 @@
         <p>Eliminate, automate, delegate, do.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

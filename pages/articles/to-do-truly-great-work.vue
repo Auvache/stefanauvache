@@ -24,6 +24,7 @@
 	      <p>Do you give your full attention to the task at hand?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

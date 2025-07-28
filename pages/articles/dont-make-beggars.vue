@@ -35,6 +35,7 @@
         <p>Don’t make beggars. Empower others.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

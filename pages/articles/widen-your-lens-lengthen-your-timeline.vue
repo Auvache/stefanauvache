@@ -17,6 +17,7 @@
 
         <p>Eventually, you, too, will have “played the banjo for 40 years.”</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

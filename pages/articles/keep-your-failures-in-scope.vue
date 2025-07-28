@@ -16,6 +16,7 @@
 	      <p>Keep your failure in scope. Don’t let it bleed into other areas of your life—especially your future.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -51,6 +51,7 @@
         <p>Even if your ability to focus sucks, your capacity to focus is greater than you think. You can do your work. You can do it well. You can focus.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

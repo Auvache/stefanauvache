@@ -39,6 +39,7 @@
         <p>Are you prepared for outages?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

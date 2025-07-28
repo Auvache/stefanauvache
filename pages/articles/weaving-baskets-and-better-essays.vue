@@ -120,6 +120,7 @@
         <p>Give it a shot.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

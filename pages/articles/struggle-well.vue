@@ -22,6 +22,7 @@
         <p>To find joy, struggle well.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

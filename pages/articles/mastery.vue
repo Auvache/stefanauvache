@@ -42,6 +42,7 @@
         <p>Find something that engages you. Work to master it. That will bring you satisfaction.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

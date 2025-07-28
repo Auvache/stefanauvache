@@ -26,6 +26,7 @@
 	      <p>Instead of falling into these traps, fight to be humble. Humility tells us to shamelessly admit what we don’t know in the name of improving our understanding. It tells us to be honest about our limitations, stay open to learning, and to be open minded. Don’t prioritize ego over understanding. Don’t avoid challenges that might expose your weaknesses. Growth requires the recognition that you don’t know everything. Fight to be humble.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -28,6 +28,7 @@
         <p>Punishments can absolve you of your guilt when you do something wrong and rewards can take the fun out of whatever you are doing. People rarely learn from paying speeding tickets, and grades in school make learning less fun for children. Be careful with how you structure the incentives in your life. You can rip passion and motivation from your career, free time, and relationships if you focus too much on transactional rewards and punishments.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

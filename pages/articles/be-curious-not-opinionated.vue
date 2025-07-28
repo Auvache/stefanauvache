@@ -35,6 +35,7 @@
         <p>Be curious, not opinionated.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

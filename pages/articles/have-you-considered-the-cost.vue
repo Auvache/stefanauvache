@@ -17,6 +17,7 @@
         <p>What do you want most? What sacrifices are you willing to make for the things you want? Have you considered the cost?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

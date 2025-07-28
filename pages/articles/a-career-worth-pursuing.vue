@@ -18,6 +18,7 @@
 	      <p>If you are choosing a career or looking to switch what you are doing, find something that you like well enough to do, that presents ample opportunities for employment, and that aligns with your natural strengths. When you find something that matches these three criteria, you’ve found a career worth pursuing.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

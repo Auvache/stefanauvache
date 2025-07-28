@@ -52,6 +52,7 @@
         <p>Sometimes, we are even early.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -44,6 +44,7 @@
         <p>Write simply. Keep it lean. Convey ideas to your audience as clearly as possible. And, for the love of Scott and Steven, write about something meaningful.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

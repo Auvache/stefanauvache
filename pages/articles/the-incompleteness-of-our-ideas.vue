@@ -28,6 +28,7 @@
         <p>It is impossible to know all of the things that are wrong with your plan. Sometimes, you just need to act if you want to know if your plan is going to work.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

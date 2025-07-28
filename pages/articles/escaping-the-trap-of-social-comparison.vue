@@ -28,6 +28,7 @@
 	      <p>Be your own measuring stick.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

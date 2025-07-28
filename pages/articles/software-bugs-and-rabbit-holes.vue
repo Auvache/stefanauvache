@@ -26,6 +26,7 @@
         <p>Every trip down a rabbit hole comes at a cost. Don’t derail the focus train every time some new issue comes up. Address the problem, decide whether or not it needs to be pursued immediately (or at all), and move on. Remember opportunity cost. Don’t get sucked down the rabbit hole.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -27,6 +27,7 @@
 
         <p>What song are you working on? What problems are you trying to solve? Generate ideas. Find the ones with potential. Then refine those until you have something great.</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

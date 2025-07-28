@@ -14,6 +14,7 @@
 	      <p>The same is true of adults. Fear of failure, looking stupid, and making mistakes prevents people every day from learning things and getting better. Those who are willing to fail become more capable in the long run than those who let their fear and anxiety prevent them from taking risks and making mistakes. A growth mindset leads to long-term learning and success. A fixed mindset leads to stagnation and, ironically, future failures.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

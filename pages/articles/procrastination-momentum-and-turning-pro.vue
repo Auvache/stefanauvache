@@ -54,6 +54,7 @@
         <p class="quote">“Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second, we can turn the tables on Resistance. This second, we can sit down and do our work.” - Steven Pressfield</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

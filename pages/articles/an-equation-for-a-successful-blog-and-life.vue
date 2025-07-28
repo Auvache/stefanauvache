@@ -30,6 +30,7 @@
         <p>What are you trying to accomplish? What variables matter most in the equation for your success? Are there things that others say are essential that might not even be necessary?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

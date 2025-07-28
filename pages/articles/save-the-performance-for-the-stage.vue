@@ -17,6 +17,7 @@
 	      <p>If you want to be successful AND live a fulfilling life, save the performance for the stage. Focus on doing your work, not what other people think about you while you are doing your work. You can’t control what other people think and you can’t eliminate the notoriety that accompanies success, but you don’t have to indulge either of them. Let your results speak for themselves. Practice humility. Practice your craft. Don’t foster a persona that sucks the peace out of your life. Be yourself. Do your work.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

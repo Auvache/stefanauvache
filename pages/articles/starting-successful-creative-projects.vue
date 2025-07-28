@@ -19,6 +19,7 @@
         <p>Most often, you won't find success by setting out to sell a bunch of books, run a billion dollar company, or win a grammy. It comes from an unrefined idea that you work on long enough until it becomes something good, then something better, then something great. If your goal is to be a great author, you are barking up the wrong tree. If your goal is to share something wonderful you have discovered or created, you are on the right track.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

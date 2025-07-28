@@ -14,6 +14,7 @@
 	      <p>What are you trying to master? Can you break it up into small, manageable chunks, master them, then string them together to build something real and usable?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -96,6 +96,7 @@
         <p>And, it is worth it.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

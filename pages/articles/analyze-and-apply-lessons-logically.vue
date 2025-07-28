@@ -28,6 +28,7 @@
 	      <p>Analyze and apply lessons logically.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

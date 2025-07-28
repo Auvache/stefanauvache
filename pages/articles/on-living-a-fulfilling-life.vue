@@ -22,6 +22,7 @@
         <p>If you want to live a fulfilling life, do your best to enjoy the present while looking to the future. Make plans to improve and enrich your life, regardless of your age. Take care of yourself, don’t worry about things that are outside of your control, and focus your efforts on things that will pay future dividends in the form of joy.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

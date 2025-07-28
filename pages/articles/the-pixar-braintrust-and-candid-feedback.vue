@@ -17,6 +17,7 @@
 	      <p>What are you trying to improve? Are you measuring it? How can you get honest feedback from a reliable source and apply it to improve your work?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

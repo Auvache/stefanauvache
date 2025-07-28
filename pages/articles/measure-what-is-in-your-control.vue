@@ -42,6 +42,7 @@
 	      <p>Measure things within your control.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

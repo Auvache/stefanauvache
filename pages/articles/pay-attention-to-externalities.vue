@@ -14,6 +14,7 @@
 	      <p>What you do matters. It not only matters to you—it matters to everyone around you. When making decisions, think about the potential externalities of your actions. Some externalities are good, some are bad, and some will come back to bite you. You change the world for the people around you every day through the externalities caused by your actions. Think before you act. Pay attention to externalities.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

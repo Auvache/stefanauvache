@@ -20,6 +20,7 @@
         <p>What questions are you asking to bring yourself closer to those goals? Those questions establish the context, direction, and quality of your research. That research informs your plans and goals, which shape your future.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

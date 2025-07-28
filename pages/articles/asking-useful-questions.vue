@@ -52,6 +52,7 @@
         <p>These questions can be used as a base for generating more questions. As you focus on asking useful questions, you will find useful answers. Those answers inform planning, spur more useful questions, and lead to more directed, useful action.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

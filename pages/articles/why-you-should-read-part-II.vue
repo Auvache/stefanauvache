@@ -15,6 +15,7 @@
         <p>When you get stuck, read. Go back to the basics. Fill the gaps in your knowledge and use your newfound wisdom to better solve problems.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -37,6 +37,7 @@
         <p>Be a monk, not a punk.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

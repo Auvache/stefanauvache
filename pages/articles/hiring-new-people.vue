@@ -38,6 +38,7 @@
 
         <p>How do you choose who you give your time to? What does your interview process look like? Do you focus on values, abilities, and skills in that order? Do you know what you are looking for? Do you spend your time on people because they are who you want to spend time with, or because they were the best people around when you were hiring?</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

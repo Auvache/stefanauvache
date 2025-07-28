@@ -22,6 +22,7 @@
 	      <p>Don’t shy away from projects or pathways that may end in failure. Fail we</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

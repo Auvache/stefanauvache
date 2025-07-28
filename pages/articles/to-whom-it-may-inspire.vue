@@ -37,6 +37,7 @@
 
         <p>Persist. Things will not always be easy. Things will not always be so hard. Do your work and keep doing it. On a long enough timeline, anyone can do almost anything.</p>
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

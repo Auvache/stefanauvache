@@ -23,6 +23,7 @@
 	      <p>Artifacts and credentials will attach themselves to you as you put effort into learning, experimentation, and improving your abilities. Focus on competence, and credentials will come.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

@@ -14,6 +14,7 @@
         <p class="quote">"How many pages have I produced? I don’t care. Are they any good? I don’t even think about it. All that matters is I’ve put in my time and hit it with all I’ve got. All that counts is that, for this day, for this session, I have overcome Resistance."<br> - Steven Pressfield</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

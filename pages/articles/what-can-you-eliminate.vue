@@ -12,6 +12,7 @@
         <p>What can you eliminate?</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

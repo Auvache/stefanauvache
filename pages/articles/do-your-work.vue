@@ -28,6 +28,7 @@
         <p>Once you have your plan in place, do your work.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>
