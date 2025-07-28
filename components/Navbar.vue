@@ -16,7 +16,6 @@
               <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/subscribe">Subscribe for weekly articles</NuxtLink></li>
               <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/articles">See featured articles</NuxtLink></li>
               <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/categories">Browse articles by category</NuxtLink></li>
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/all-articles">Browse all articles</NuxtLink></li>
               <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/contact">Reach out</NuxtLink></li>
             </ul>
           </div>
