@@ -1,13 +1,6 @@
 <template>
-	<section id="subscribe" class="section-padding bg-black-denim pb-0">
-		<div class="container thin-content text-center">
-			<h1 class="white fst-italic">Get timeless principles for modern life, once a week, directly to your inbox.<br>
-				Subscribe to <span class="fw-bold fst-italic">Food For Thought</span> today.</h1>
-			<div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center mb-3" style="min-height: 250px;">
-				<component is="script" async data-uid="0396ab84d5" src="https://stefan-bradley.ck.page/0396ab84d5/index.js"></component>
-			</div>
-		</div>
-	</section>
+	<h1 class="ada-hide">Articles by Stefan Auvache</h1>
+	<SubscribeBar />
 	<ImportantArticles />
 	<section class="section-padding bg-black-denim">
 		<div class="container thinnest-content">

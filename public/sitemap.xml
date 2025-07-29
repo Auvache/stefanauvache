@@ -12,15 +12,87 @@
     <url>
         <loc>https://www.stefanauvache.com/articles</loc>
     </url>
-    <url>
-        <loc>https://www.stefanauvache.com/music</loc>
-    </url>
+	<url>
+		<loc>https://www.stefanauvache.com/categories</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/categories/agile-living</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/categories/simple-systems</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/categories/intentional-action</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/categories/meaningful-focus</loc>
+	</url>
     <url>
         <loc>https://www.stefanauvache.com/sitemap</loc>
     </url>
     <url>
         <loc>https://www.stefanauvache.com/subscribe</loc>
     </url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/measure-what-is-in-your-control</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/to-do-truly-great-work</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/failure-is-an-option</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/ultracrepidarianism-imposter-syndrome-and-the-fight-for-humility</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/escaping-the-trap-of-social-comparison</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/mindsets-for-learning</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/a-career-worth-pursuing</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/analyze-and-apply-lessons-logically</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/dont-give-into-analysis-paralysis</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/three-notes-at-a-time</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/pay-attention-to-externalities</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/keep-your-failures-in-scope</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/where-do-you-go-for-feedback</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/credentials-artifacts-and-competence</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/the-pixar-braintrust-and-candid-feedback</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/save-the-performance-for-the-stage</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/to-be-a-champion</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/to-whom-it-may-inspire</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/software-bugs-and-rabbit-holes</loc>
+	</url>
+	<url>
+		<loc>https://www.stefanauvache.com/articles/why-you-should-read-part-II</loc>
+	</url>
     <url>
         <loc>https://www.stefanauvache.com/articles/what-can-you-eliminate</loc>
     </url>
@@ -129,6 +201,4 @@
     <url>
         <loc>https://www.stefanauvache.com/articles/books-that-have-changed-my-life</loc>
     </url>
-
-
 </urlset>

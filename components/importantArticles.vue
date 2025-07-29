@@ -1,7 +1,7 @@
 <template>
 	<section class="section-padding">
 		<div class="container thin-content">
-			<h2 class="t2 text-center text-black mt-0 mb-5">Most Important Articles</h2>
+			<h2 class="t2 text-center text-black mt-0 mb-5">Read My Most Useful Articles</h2>
 			<div id="featuredArticles">
 				<div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 					<NuxtLink :to="article.articlePath" class="text-decoration-none" >

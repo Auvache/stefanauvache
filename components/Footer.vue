@@ -1,7 +1,7 @@
 <template>
   <div>
+	  <SubscribeBar />
 	  <ImportantArticles v-if="!hideFooterArticlesList.includes(route.path)" />
-    <SubscribeBar />
     <footer>
       <section class="bg-black-denim text-center py-4">
         <div class="container">
