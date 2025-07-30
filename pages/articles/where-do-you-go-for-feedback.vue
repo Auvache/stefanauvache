@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Where Do You Go for Feedback?</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 	      <p class="quote">“True words are often unpleasant; pleasant words are often untrue.” - Lao Tzu</p>
 

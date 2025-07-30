@@ -13,9 +13,9 @@
                 <span class="bar3"></span>
             </button>
             <ul id="dropdown" class="hamburger-menu d-none">
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/subscribe">Subscribe for weekly articles</NuxtLink></li>
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/articles">See featured articles</NuxtLink></li>
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/categories">Browse articles by category</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/">Read articles</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/categories">Browse categories</NuxtLink></li>
               <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/contact">Reach out</NuxtLink></li>
             </ul>
           </div>

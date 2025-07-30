@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Why You Should Read (Part II) - Overcoming Frustration Distraction</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 
         <p>Frans Rosén is not your average bounty hunter. By day he is a software-engineering, child-rearing, rides-his-bike-to-work tech entrepreneur. But in the quiet of night, he sits alone at home on his laptop or his phone and tries to break the internet. In 2014, Frans was ranked the number one bug bounty hunter in the world. A bug bounty is a reward for finding and reporting some security vulnerability in a company’s website or app. Frans has reported as many as 40 bugs in a single month. In 2015, his largest payout for reporting a bug was $30,000.</p>
 

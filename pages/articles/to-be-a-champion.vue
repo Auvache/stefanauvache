@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">To Be a Champion - 100,000 Little Moments</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Nick Saban is one of the greatest college football coaches ever. He has won seven national championships, nine conference championships, and coached four Heisman Trophy winners. While head coach for the University of Alabama, his team spent 109 weeks ranked number one, winning 201 games and losing only 29.</p>

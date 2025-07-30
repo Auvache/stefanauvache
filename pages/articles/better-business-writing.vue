@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Better Business Writing</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>Sometimes, a writer can change your life. Scott Adams changed mine.</p>

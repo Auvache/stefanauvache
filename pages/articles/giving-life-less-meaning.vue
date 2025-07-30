@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Rewards, Punishments, and Giving Life Less Meaning</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">“Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do.” - Mark Twain</p>

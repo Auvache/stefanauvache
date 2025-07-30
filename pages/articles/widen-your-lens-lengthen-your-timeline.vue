@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Widen your lens, lengthen your timeline</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>When Steven Martin was 17 years old, he decided to learn to play the banjo. He bought a book (and a banjo) and went about trying to learn some chords. At first, he couldn’t hear the difference between trying to play a C-chord and just strumming the strings. Everything sounded the same and making progress was difficult.</p>

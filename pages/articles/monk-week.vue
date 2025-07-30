@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Monk Week - How Taking Exams Early Changed My Life</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>I never wait in line if I can avoid it. Placing myself unnecessarily in a line is a conscious admonition to myself that I don't care about my time, and therefore don't care about my life.</p>

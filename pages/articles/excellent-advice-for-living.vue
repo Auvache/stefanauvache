@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Excellent Advice for Living</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>On his 68th birthday, <a href="https://www.kk.org" target="_blank">Kevin Kelly</a> decided to write down some advice for his now adult children. He wrote down 68 pearls of wisdom that he wished he had known at the beginning of his career and shared them with his family.</p>

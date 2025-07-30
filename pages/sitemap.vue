@@ -12,6 +12,7 @@
           <li><NuxtLink to="/categories/intentional-action">Articles about Intentional Action</NuxtLink></li>
           <li><NuxtLink to="/categories/meaningful-focus">Articles about Meaningful Focus</NuxtLink></li>
           <li><NuxtLink to="/subscribe">Subscribe to newsletter</NuxtLink></li>
+          <li><NuxtLink to="/contact">Reach out</NuxtLink></li>
         </ul>
 	      <h2 class="t1">Articles</h2>
 	      <ul class="list-unstyled">

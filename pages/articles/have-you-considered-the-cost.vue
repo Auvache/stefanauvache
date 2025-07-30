@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Have You Considered the Cost?</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind."<br /> - Robert Greene</p>

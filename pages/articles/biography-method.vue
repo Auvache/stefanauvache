@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">The Biography Method: Enhancing Social Interactions Through Curiosity</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">"Practice really hearing what people say. Do your best to get inside their minds."<br> - Meditations, Marcus Aurelius</p>

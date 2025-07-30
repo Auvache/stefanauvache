@@ -1,7 +1,10 @@
 <template>
 	<section class="section-padding">
 		<div class="container thin-content">
-			<h2 class="t2 text-center text-black mt-0 mb-5">Read My Most Useful Articles</h2>
+			<h2 class="t2 text-center text-black mt-3 mb-5">
+				The Most Useful Articles
+				<span class="text-nowrap">For You Right Now</span>
+			</h2>
 			<div id="featuredArticles">
 				<div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 					<NuxtLink :to="article.articlePath" class="text-decoration-none" >
@@ -14,7 +17,7 @@
 			</div>
 			<div class="d-flex flex-column justify-content-center mt-5 thinnest-content">
 				<NuxtLink class="btn mb-3" to="/subscribe">Subscribe for weekly updates</NuxtLink>
-				<NuxtLink class="text-center" to="/articles">Read more articles</NuxtLink>
+				<NuxtLink class="btn" to="/categories">Browse more articles</NuxtLink>
 			</div>
 		</div>
 	</section>

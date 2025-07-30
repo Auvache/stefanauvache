@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Mastery</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.</p>

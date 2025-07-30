@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Ultracrepidarianism, Imposter Syndrome, and the Fight for Humility</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
 	      <p>Ultracrepidarianism is the habit of giving opinions or advice on matters outside of one’s knowledge or competence. An ultracrepidarian is someone who practices ultracrepidarianism.</p>

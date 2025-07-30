@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">title</h1>
+<!--        <h1 class="mb-3">{{articleInfo.title}}</h1>-->
 
 
       </div>

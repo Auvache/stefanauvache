@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Don't Make Beggars</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">“When you lead, your real job is to create more leaders, not more followers.” - Kevin Kelly</p>

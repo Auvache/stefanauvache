@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Procrastination, Momentum, and Turning Pro</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p class="quote">“The hours we spend talking about writing is time we don’t spend actually doing it.” - Stephen King</p>

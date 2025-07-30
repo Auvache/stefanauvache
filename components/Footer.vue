@@ -3,10 +3,12 @@
 	  <SubscribeBar />
 	  <ImportantArticles v-if="!hideFooterArticlesList.includes(route.path)" />
     <footer>
-      <section class="bg-black-denim text-center py-4">
+      <section class="bg-black-denim text-center py-4 border-top border-white">
         <div class="container">
           <div class="row">
-            <p class="m-0 tagline text-white">Property of Stefan Auvache Bradley, 2025</p>
+	          <NuxtLink class="logo" to="/">
+		          STEFAN AUVACHE
+	          </NuxtLink>
           </div>
         </div>
       </section>

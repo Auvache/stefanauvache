@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container thinnest-content">
       <div>
-        <h1 class="mb-3">Asking Useful Questions</h1>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 
         <p>When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke. The time commitment would undoubtedly hinder his writing progress over the next five years. Undaunted, Cal made a long-term vision. He would find a way to keep writing while attending MIT and graduate as an established author.</p>
