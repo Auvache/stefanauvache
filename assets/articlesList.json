@@ -2,13 +2,24 @@
   {
     "slug": "ai-strategies-for-personal-development",
     "title": "AI Strategies to Safeguard Personal Development",
-    "datePublished": "2025/08/15",
+    "datePublished": "2025/08/21",
     "categories": ["Systems & Habits"],
     "featured" : true,
     "rank" : 1,
     "image": "ai.jpg",
     "keywords": "AI personal development strategies, how to use AI productively, AI and critical thinking, AI in learning and creativity, avoiding AI skill atrophy, AI productivity tips, AI best practices for professionals, AI in self-improvement, AI and human skills balance, leveraging AI for growth",
     "summary": "AI can make you far more productive, but it can also cause valuable skills to atrophy. Learn how to use AI to boost productivity without losing skills by following simple, practical principles."
+  },
+  {
+    "slug" : "how-to-improve-anything-feedback-loop",
+    "title" : "How to Improve Anything: Building a World-Class Feedback Loop",
+    "datePublished" : "2025/08/15",
+    "categories" : ["Systems & Habits"],
+    "featured" : true,
+    "rank" : 0,
+    "image" : "feedback.jpg",
+    "keywords" : "how to improve anything, feedback loops, self improvement, personal growth, continuous improvement, build better habits, achieve goals faster, learn from feedback, skill improvement, performance growth",
+    "summary" : "Discover how to improve any skill or area of life using world-class feedback loops for faster self-improvement, growth, and lasting success."
   },
   {
     "slug": "measure-what-is-in-your-control",
@@ -456,7 +467,7 @@
     "datePublished" : "2024/09/27",
     "categories" : ["Systems & Habits"],
     "featured" : true,
-    "rank" : 3,
+    "rank" : 0,
     "image" : "netflix.jpg",
     "keywords" : "netflix, chaos monkey, preparing for the worst, planning to handle disaster",
     "summary" : "While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
@@ -504,17 +515,6 @@
     "image" : "curious-not-opinionated.jpg",
     "keywords" : "curiosity, strong opinions, curiosity over opinions, don't be too opinionated",
     "summary" : "\"When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.\" - Steven Levitt and Stephen Dubner"
-  },
-  {
-    "slug" : "world-class-feedback-loops",
-    "title" : "Creating World-Class Feedback Loops",
-    "datePublished" : "2024/08/23",
-    "categories" : ["Systems & Habits"],
-    "featured" : true,
-    "rank" : 0,
-    "image" : "feedback.jpg",
-    "keywords" : "feedback, feedback loops, world class feedback, getting better, learning through feedback",
-    "summary" : "You don’t have to be a professional to build a world-class feedback loop. In fact, the opposite is true; creating a world-class feedback loop will make you a professional."
   },
   {
     "slug" : "premature-optimization",

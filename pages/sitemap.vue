@@ -18,7 +18,6 @@
 	      <ul class="list-unstyled">
 		      <li v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 			      <NuxtLink :to="article.articlePath">{{article.title}}</NuxtLink>
-
 		      </li>
 	      </ul>
       </div>
