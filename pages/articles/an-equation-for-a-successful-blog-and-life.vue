@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-	      <img src="/img/articles/equation.jpg" alt="" class="mb-3">
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>If you wanted to start a blog today and googled “how to start a blog,” you would find step-by-step tutorials and pro tips: design a website, optimize for SEO, promote your content on social media, pick a niche, etc.</p>
 

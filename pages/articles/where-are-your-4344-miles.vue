@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>In 1937, the University of Washington men’s rowing crew won their second consecutive national championship. The previous year, they had won not only the national championship, but Olympic Gold in Berlin. Jim Ten Eyck, a storied collegiate rowing coach, said of the Washington varsity crew at the time, “it’s the greatest eight I ever saw, and I never expect to see another like it.”</p>
 

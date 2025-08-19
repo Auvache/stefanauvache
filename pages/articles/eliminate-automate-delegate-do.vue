@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-        <img src="/img/articles/eliminate-automate-delegate-do.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>Some tasks engage and energize us; others give our work meaning. Unfortunately, these tasks are often buried under a stack of less important items that crowd our to-do lists and demand our attention.</p>
 	      <p>Whenever I feel overwhelmed by the workload in front of me, I rely on a simple task management framework to reduce stress, clean out my to-dos, and refocus on what truly matters.</p>

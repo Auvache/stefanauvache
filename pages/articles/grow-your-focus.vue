@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-        <img src="/img/articles/grow-your-focus.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p class="quote">"Concentrate every minute like a Roman on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions."<br> - Marcus Araelius</p>
         <p class="quote">"Resistance is like a telemarketer; if you so much as say hello, you're finished. The pro doesn't even pick up the phone. He stays at work."<br> - Steven Pressfield</p>

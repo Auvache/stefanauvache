@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>Happiness doesn’t come from achieving goals. It comes from overcoming the problems that stand in the way of us achieving our goals.</p>
 

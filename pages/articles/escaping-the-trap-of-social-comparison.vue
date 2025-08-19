@@ -4,6 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>At the end of the 19th century, two inventors found themselves locked in what is now called the War of the Currents: Thomas Edison and Nikola Tesla. Edison had built his empire on direct current (DC) electricity, while Tesla championed alternating current (AC) as the future of electric energy.</p>
 

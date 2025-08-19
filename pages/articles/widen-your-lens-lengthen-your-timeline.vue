@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>When Steven Martin was 17 years old, he decided to learn to play the banjo. He bought a book (and a banjo) and went about trying to learn some chords. At first, he couldn’t hear the difference between trying to play a C-chord and just strumming the strings. Everything sounded the same and making progress was difficult.</p>
 

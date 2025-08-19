@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-	      <img src="/img/articles/ai.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>I use AI every day.</p>
 	      <p>As a software engineer, I use it to write better code in less time. In my writing, I use it to work through ideas and edit drafts.</p>

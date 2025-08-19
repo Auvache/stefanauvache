@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-        <img src="/img/articles/agile.jpg" alt="" class="mb-3">
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>In the early days of software development, projects failed in the same way over and over again.
 		      Company executives, marketing teams, and entrepreneurs would hand off a set of requirements to an engineering team, expecting the final product to match their vision. Months later, the engineers would return with something that, while technically correct, didn’t line up with the original vision. Miscommunication, subtly shifting goals, and unclear expectations created a frustrating pattern of wasted time and energy.</p>

@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p class="quote">“How is an idea created? Maybe sometimes it strikes like lightning, but mostly it will develop slowly through intensive search under numerous mistakes.” - Rudolph Diesel</p>
 

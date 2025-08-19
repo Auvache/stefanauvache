@@ -4,6 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
         <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>Ned Johnson has been helping kids with school since the early 90s. He is a professional tutor who has spent more than 40,000 one-on-one hours helping students overcome their fear of standardized testing, college applications, and learning in general.</p>
 

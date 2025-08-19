@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>Victor Wooten, a five-time Grammy-winning bassist, once said that if you can play one note perfectly, you can play them all perfectly. In his book <em>The Music Lesson</em>, he doesn’t teach scales or drills. He teaches that music is a language you pick up one note at a time. To be a master musician, you must master the smallest set of notes or the smallest technique until it feels natural. Then you move on to the next piece, then the next, then the next.</p>
 

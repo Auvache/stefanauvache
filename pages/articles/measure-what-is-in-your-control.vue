@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-	      <img src="/img/articles/measure-boy.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>Stephen King has written dozens of bestsellers, sold over 350 million books, and built a net worth north of $500 million. While impressive, these are metrics he pays little attention to. As an author, there is only one metric that King pays attention to—words written per day.</p>
 

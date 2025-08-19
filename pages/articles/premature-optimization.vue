@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p class="quote">"Premature optimization is the root of all evil" - Donald Knuth</p>
         <p>Shaun White has dedicated his life to snowboarding. As a result, he is the most well known professional snowboarder of all time. He is less known as the guitarist of his band,

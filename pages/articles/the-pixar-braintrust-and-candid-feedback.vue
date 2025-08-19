@@ -3,7 +3,9 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
+
 	      <p>In 1995, Pixar broke ground by releasing <em>Toy Story</em>, the first-ever feature-length film created entirely with CGI. It made almost $30 million on its first weekend in theaters and grossed $358 million worldwide. For Ed Catmull, the president of Pixar, <em>Toy Story</em> was more than just a smashing financial success. Everyone raved about the story and the characters, but almost no one mentioned the cutting-edge computer animation used to tell that story and bring those characters to life. Pixar, though piloted by computer scientists and tech investors, had managed to make the telling of the tale more memorable than the medium.</p>
 
 	      <p>The story outshined the technology thanks to a critical group of candid, want-to-make-something-great creatives—John Lasseter, Andrew Stanton, Pete Docter, Lee Unkrich, and Joe Ranft. During production, they convened to change and tweak the story over and over again until every scene pushed the plot forward and every character fit perfectly in its place. Later, while working to save a floundering <em>Toy Story 2</em> project, Pixar decided to turn that group of candid creators (and others who had jumped on the Pixar train) into an official team, and the Pixar Braintrust was born.</p>

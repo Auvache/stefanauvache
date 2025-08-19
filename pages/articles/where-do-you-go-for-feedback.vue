@@ -3,7 +3,9 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
+
 	      <p class="quote">“True words are often unpleasant; pleasant words are often untrue.” - Lao Tzu</p>
 
 	      <p>For better or for worse, you get to choose who you listen to and who you ignore. Parents, friends at school, the YouTube comments section—these are sources of feedback, and there is a lot of noise out there. If you do anything at all, someone will have something to say about it.</p>

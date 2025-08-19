@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-        <img src="/img/articles/feedback.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>In the summer of 1995, hackers Paul Graham and Robert Morris set out to build software that would let anyone create an online store. Instead of a downloadable program, they launched a revolutionary idea at the time—a web-based app that could be updated instantly. This allowed them to improve their product quickly without forcing clients to repeatedly download bulky updates.</p>
 	      <p>Because Paul and Robert were the sole employees, they did everything—sales, support, and software development. The close connection to their customers meant they received direct, unfiltered feedback. Complaints and feature requests came straight to them, allowing instant fixes and rapid improvement.</p>

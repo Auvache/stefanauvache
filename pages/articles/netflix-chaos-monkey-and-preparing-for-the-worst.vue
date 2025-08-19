@@ -4,7 +4,7 @@
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
-        <img src="/img/articles/netflix.jpg" alt="" class="mb-3">
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>On April 21, 2011, <a href="https://money.cnn.com/2011/04/21/technology/amazon_server_outage/index.htm" target="_blank">an entire Amazon AWS availability zone went down</a>, taking a large chunk of the internet down with it. Companies like Reddit, Foursquare, and Quora lost their internet presence with no idea how long it would take to get it back. For some companies, a crash of longer than an hour can cost hundreds of millions of dollars.</p>
 

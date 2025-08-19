@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>I have a passion for craft. As a guitar player, as a software engineer, and as a writer, I find fulfillment in deepening my understanding in something. The pathway to depth of craftsmanship is called mastery, and it turns my crank.</p>
         <p>I recently read <a :href="affiliateLinks.books.onWriting" target="_blank">Stephen King's memoir, On Writing.</a> He talks about the hour-after-hour, story-after-story grind that led him to writeCarrie,his first successful book. I also recently relistened to

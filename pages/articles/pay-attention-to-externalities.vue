@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
 	      <p>At the beginning of the 20th century, American settlers in the Great Plains plowed millions of acres of untamed prairie into productive farmland. When a severe drought hit in the 1930s, topsoil that had previously been held together by various prairie grasses turned to dust and was swept up by the wind into the sky. A massive dust storm blew across the plains. It devastated farms, displaced hundreds of thousands of people, and caused severe economic and environmental damage.</p>
 

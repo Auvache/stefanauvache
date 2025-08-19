@@ -3,7 +3,8 @@
     <div class="container thinnest-content">
       <div>
         <h1 class="mb-3">{{articleInfo.title}}</h1>
-	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+        <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
         <p>The relative in question does not refer to the group of people you share kinship with (sister, cousin, uncle), but to the comparative (he is tall relative to his friend). Don't be alarmed.</p>
         <p>A quote from <a :href="affiliateLinks.books.toolsOfTitans" target="_blank">Tim Ferriss's Tools of Titans</a> book grabbed my attention the other day.</p>
