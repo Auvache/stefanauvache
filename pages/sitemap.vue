@@ -4,17 +4,12 @@
       <div class="d-flex flex-column">
         <h1>Sitemap</h1>
         <ul class="list-unstyled d-inline-block mb-5">
-          <li><NuxtLink to="/about">About Stefan Auvache</NuxtLink></li>
-          <li><NuxtLink to="/articles">Featured articles</NuxtLink></li>
-          <li><NuxtLink to="/categories">Articles by category</NuxtLink></li>
-          <li><NuxtLink to="/categories/agile-living">Articles about Agile Living</NuxtLink></li>
-          <li><NuxtLink to="/categories/simple-systems">Articles about Simple Systems</NuxtLink></li>
-          <li><NuxtLink to="/categories/intentional-action">Articles about Intentional Action</NuxtLink></li>
-          <li><NuxtLink to="/categories/meaningful-focus">Articles about Meaningful Focus</NuxtLink></li>
+          <li><NuxtLink to="/">Homepage: Featured articles</NuxtLink></li>
+          <li><NuxtLink to="/articles">Articles</NuxtLink></li>
           <li><NuxtLink to="/subscribe">Subscribe to newsletter</NuxtLink></li>
-          <li><NuxtLink to="/contact">Reach out</NuxtLink></li>
+          <li><NuxtLink to="/contact">Contact</NuxtLink></li>
         </ul>
-	      <h2 class="t1">Articles</h2>
+	      <h2 class="t1">All Articles</h2>
 	      <ul class="list-unstyled">
 		      <li v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 			      <NuxtLink :to="article.articlePath">{{article.title}}</NuxtLink>

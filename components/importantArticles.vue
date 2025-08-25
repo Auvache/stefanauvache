@@ -17,13 +17,14 @@
 			</div>
 			<div class="d-flex flex-column justify-content-center mt-5 thinnest-content">
 				<NuxtLink class="btn mb-3" to="/subscribe">Subscribe for weekly updates</NuxtLink>
-				<NuxtLink class="btn" to="/categories">Browse more articles</NuxtLink>
+				<NuxtLink v-if="route.path !== '/articles'" class="btn" to="/articles">Browse more articles</NuxtLink>
 			</div>
 		</div>
 	</section>
 </template>
 <script setup lang="ts">
 import Articles from "assets/articlesList.json"
+const route = useRoute()
 // featured articles
 let sortedArticles = []
 

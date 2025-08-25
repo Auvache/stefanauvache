@@ -28,8 +28,6 @@
 	      </ul>
 	      <p class="text-white mb-4"><i>Listen wherever you stream music</i></p>
 
-	      <p class="text-white"><i>Interested in booking me for a show or event? Feel free to reach out:</i></p>
-
 	      <div class="email">
 		      <a class="text-white" href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a>
 	      </div>
