@@ -3,6 +3,8 @@
 		<div class="container thinnest-content">
 			<div>
 				<h1 class="text-sm-center mb-4">{{pageCategory}}</h1>
+				<p>Every productive professional—from software engineers and project managers to entrepreneurs and authors—has a set of tools and systems they use to operate efficiently. Professional-grade tools like Agile development, postmortems, feedback loops, and deep work can all be used to enrich and improve your personal life.</p>
+				<p>Check out the articles below for insights into practical, professional tools and how you can use them in your own personal growth.</p>
 
 				<hr>
 

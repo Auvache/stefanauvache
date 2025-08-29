@@ -3,6 +3,8 @@
 		<div class="container thinnest-content">
 			<div>
 				<h1 class="text-sm-center mb-4">{{pageCategory}}</h1>
+				<p>No habit has changed my life more than reading.</p>
+				<p>Check out the articles to see the books that I find most important and how reading can help you become a better person.</p>
 
 				<hr>
 

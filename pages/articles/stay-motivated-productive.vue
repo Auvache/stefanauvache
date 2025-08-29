@@ -3,6 +3,18 @@
 		<div class="container thinnest-content">
 			<div>
 				<h1 class="text-sm-center mb-4">{{pageCategory}}</h1>
+				<p>Motivation and productivity are key to living a fulfilling life. The best software engineers and businesspeople use specific methods and philosophies to get things done efficiently and consistently.</p>
+
+				<p>With these articles, I try to answer questions like:</p>
+
+				<ul>
+					<li><em>How can I stay committed to my long-term vision and avoid burnout?</em></li>
+					<li><em>How can I stay motivated during hard times?</em></li>
+					<li><em>How can I overcome procrastination?</em></li>
+					<li><em>How can I set up an environment that boosts motivation and productivity?</em></li>
+				</ul>
+
+				<p>Check out the articles below for insights into how to stay motivated and productive.</p>
 
 				<hr>
 

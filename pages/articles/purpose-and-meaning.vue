@@ -3,7 +3,17 @@
 		<div class="container thinnest-content">
 			<div>
 				<h1 class="text-sm-center mb-4">{{pageCategory}}</h1>
+				<p>Questions about finding fulfillment, purpose, and meaning in the various parts of your life can be daunting to ask.</p>
 
+				<ul>
+					<li><em>How can I find a fulfilling career?</em></li>
+					<li><em>How can I find a sense of purpose in my relationships or in my work?</em></li>
+					<li><em>How can I live a meaningful life?</em></li>
+				</ul>
+
+				<p>These may be some of the most important questions you will ever ask yourself. It is difficult to define success without first defining meaning and fulfillment.</p>
+
+				<p>Here are some articles I have written to try to gain some insight into these big questions.</p>
 				<hr>
 
 				<div>
