@@ -5,12 +5,7 @@
 				<h1 class="text-sm-center mb-4">Articles</h1>
 
 				<p>
-					Personal growth can be an overwhelming topic to tackle. There are so many books, frameworks, and voices offering advice that it’s hard to know where to begin.
-					The most useful way that I’ve found to approach self-improvement is to step back and ask big questions.
-				</p>
-
-				<p>
-					This page is organized around some of those questions:
+					The most useful way that I’ve found to approach self-improvement is to step back and ask big questions like:
 				</p>
 
 				<ul class="list-unstyled">

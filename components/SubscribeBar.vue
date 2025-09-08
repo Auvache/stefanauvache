@@ -3,8 +3,8 @@
     <div class="container thin-content text-center fade-in">
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
-		      <p class="t2 fw-bold my-2">GET ONE GREAT IDEA IN YOUR INBOX EACH WEEK</p>
-		      <p class="mb-0">Plus <span class="fw-bold">email-only articles and content</span> straight to your inbox</p>
+		      <p class="t2 fw-bold my-2">GET ONE INTERESTING IDEA IN YOUR INBOX EACH WEEK</p>
+		      <p>And some extras</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">

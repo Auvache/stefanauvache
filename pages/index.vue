@@ -3,10 +3,7 @@
 	<SubscribeBar />
 	<section class="section-padding">
 		<div class="container thin-content">
-			<h1 class="t2 text-center text-black mt-3 mb-5">
-				The Most Useful Articles
-				<span class="text-nowrap">For You Right Now</span>
-			</h1>
+			<h1 class="ada-hide">Relevant Articles</h1>
 			<div id="featuredArticles">
 				<div class="article-card" v-for="article in sortedArticles" :key="article.slug" :id="article.slug">
 					<NuxtLink :to="article.articlePath" class="text-decoration-none" >
