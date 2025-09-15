@@ -4,7 +4,6 @@
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
 		      <p class="t2 fw-bold my-2">GET ONE INTERESTING IDEA IN YOUR INBOX EACH WEEK</p>
-		      <p>And some extras</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">

@@ -4,6 +4,7 @@
       <div>
 <!--        <h1 class="mb-3">{{articleInfo.title}}</h1>-->
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+<!--	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">-->
 
 
       </div>
@@ -26,3 +27,5 @@
 <!--let metaCanonical = `www.stefanauvache.com/articles/${articleInfo.slug}`-->
 <!--useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})-->
 <!--</script>-->
+<script setup lang="ts">
+</script>
