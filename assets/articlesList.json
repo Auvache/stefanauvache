@@ -1,5 +1,16 @@
 [
   {
+    "slug": "build-showcase-skills-without-degree",
+    "title": "How to Build and Showcase Your Skills Without a Degree",
+    "datePublished": "2025/09/22",
+    "categories" : ["How can I learn and improve skills?"],
+    "featured" : true,
+    "rank" : 0,
+    "image": "resume.jpg",
+    "keywords": "stop chasing credentials, build skills, showcase competence, get a job without a degree, prove your skills, build artifacts, career growth without degree, skill-based hiring",
+    "summary": "Most people are more focused on college degrees, certifications, and other credentials than they are on learning and improving skills. Learn how to stop chasing credentials, build real skills, and showcase your competence through practical projects and artifacts."
+  },
+  {
     "slug": "how-to-change-your-life-by-reading",
     "title": "How to Change Your Life By Reading",
     "datePublished": "2025/09/15",
@@ -180,7 +191,7 @@
     "title": "Credentials, Artifacts, and Competence",
     "datePublished": "2025/04/18",
     "categories" : ["How can I learn and improve skills?"],
-    "featured" : true,
+    "featured" : false,
     "rank" : 0,
     "image": "graduation.jpg",
     "keywords": "Nelson Mandela, competence vs credentials, artifacts, education and experience, job hiring, real-world skills",
@@ -400,7 +411,7 @@
     "title" : "Starting Successful Creative Projects",
     "datePublished" : "2024/10/25",
     "categories" : [],
-    "featured" : true,
+    "featured" : false,
     "rank" : 0,
     "image" : "creative-projects.jpg",
     "keywords" : "creative projects, starting creative projects, better with time, investing in creativity",
