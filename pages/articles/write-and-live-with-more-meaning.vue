@@ -26,23 +26,28 @@
         <p>The last line of the article says:</p>
         <p>
           <em>"That's it. You just learned 80% of the rules of good writing. You're welcome.</em>"</p>
-        <p>I first assumed that the remaining 20% would include granular, complex stuff like, "know your target audience" or "have an editor run through your work."</p>
+        <p>I first assumed that the remaining 20% would include granular, complex stuff like, "know your target audience" or "use contractions sparingly."</p>
         <p>Then I read <a target="_blank" :href="affiliateLinks.books.theWarOfArt"><em>The War of Art</em></a> by Steven Pressfield.</p>
-        <p>Pressfield's writing embodies many of the principles from Adams' post. His sentences are concise. His "chapters" are often a single paragraph.
-          <em>The War of Art</em>
-          itself barely breaks 150 pages. Anyone would be hard pressed to cut a phrase from that book without making it worse. If books were people,
-          <em>The War of Art
-          </em>would have 3% body fat.</p>
-        <p>But the thing that makes Steven Pressfield a great writer isn't the leanness of his writing. Every portion of
-          <em>The War of Art</em>
-          is meaningful. His singular focus on what he calls
-          <em>Resistance
-          </em>captivates and inspires the reader.</p>
-        <p>The main characteristic of great writing is something great to write about.</p>
-        <p>If I could append a sentence to Scott Adams' nigh perfect blog post, it would be this:</p>
-        <p>"<em>That's it. You just learned 80% or the rules of good writing. Now find something worth writing about."</em>
-        </p>
-        <p>Write simply. Keep it lean. Convey ideas to your audience as clearly as possible. And, for the love of Scott and Steven, write about something meaningful.</p>
+	      <p>If books were people, The War of Art would have 3% body fat. His sentences are concise. His "chapters" are often a single paragraph. The War of Art itself barely breaks 150 pages. Anyone would be hard-pressed to cut a phrase from that book without making it worse.</p>
+
+	      <p>But the thing that makes Steven Pressfield a great writer isn't the leanness of his writing. Every portion of The War of Art is meaningful. His singular focus on what he calls Resistance captivates and inspires the reader.</p>
+
+	      <p>The main characteristic of great writing isn’t style—it’s substance. The best writers write about things worth writing about.</p>
+
+	      <h2>Do Meaningful Things</h2>
+
+	      <p>The same is true in life.</p>
+
+	      <p>There are strategies for skill acquisition, personal growth, financial freedom, and career success. You can use as many productivity tools as you want. All of the tools in the world won’t help you feel fulfilled if they don’t help you do worthwhile things.</p>
+
+	      <p>When setting goals or making life plans, follow a simple rule: focus first on meaning. Choose projects, habits, and pursuits that matter to you and make a positive impact on the people around you. Intentionally creating meaningful goals will make your days feel more purposeful and help you feel more fulfilled in life.</p>
+
+	      <p>If I could append a sentence to Scott Adams' near-perfect blog post, it would be this:<br>
+		      "That's it. You just learned 80% of the rules of good writing. You’re welcome. Now find something worth writing about."</p>
+
+	      <p>Great writers focus on the substance of their writing.</p>
+
+	      <p>Great people focus on the substance of their lives.</p>
 
       </div>
 	    <ArticleShareLinks :slug="articleInfo.slug" />
@@ -53,7 +58,6 @@
 <script setup>
 import affiliateLinks from "@/assets/affiliateLinks";
 import articlesList from "@/assets/articlesList";
-import formatDate from "~/functions/formatDate";
 
 const router = useRouter()
 const { currentRoute } = router
