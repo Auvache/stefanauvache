@@ -4,6 +4,7 @@
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
 		      <p class="t2 fw-bold my-2">GET ONE INTERESTING IDEA IN YOUR INBOX EACH WEEK</p>
+		      <p>You will also get a proper introduction to my work on improving focus and doing meaningful work, along with some other exclusive goodies</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">
