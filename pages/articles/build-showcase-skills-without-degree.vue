@@ -39,6 +39,7 @@
 	      <p>If you are struggling to find open doors because of inexperience or lack of credentials, build your skills by building artifacts.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

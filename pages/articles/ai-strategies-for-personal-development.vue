@@ -46,14 +46,13 @@
 	      </ul>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>
 
 <script setup>
-import affiliateLinks from "@/assets/affiliateLinks";
 import articlesList from "@/assets/articlesList";
-import formatDate from "~/functions/formatDate";
 
 const router = useRouter()
 const { currentRoute } = router

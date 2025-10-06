@@ -30,8 +30,7 @@
 
 	      <p>In college, I took an independent research class that allowed me to pick a topic and study it on my own for a semester. The professor in charge had one requirement to pass the course—I needed artifacts. By artifacts, he meant some physical evidence that I had done some kind of work during the semester. Without evidence, how could he know if I had actually spent three months doing research?</p>
 
-<!--	      TODO update this link to /stop-chasing-credentials-build-showcase-skills-->
-	      <p><a href="/articles/credentials-artifacts-and-competence" target="_blank">A college degree is an artifact</a>. It shows that you got into a university and passed enough classes to graduate. It is an indicator of your potential competence. Because it is difficult to gauge how well someone will actually fill a position during an interview, employers take artifacts—like college degrees—into account. A diploma can help you get hired, but it doesn’t mean that you will be good at your job. To perform, you need to be competent.</p>
+	      <p><a href="/articles/build-showcase-skills-without-degree" target="_blank">A college degree is an artifact</a>. It shows that you got into a university and passed enough classes to graduate. It is an indicator of your potential competence. Because it is difficult to gauge how well someone will actually fill a position during an interview, employers take artifacts—like college degrees—into account. A diploma can help you get hired, but it doesn’t mean that you will be good at your job. To perform, you need to be competent.</p>
 
 	      <p>Competence is the ability to apply knowledge effectively in different situations. It’s built on a foundation of learning, context, and judgment. The depth of your knowledge determines the strength of your foundation. Reading is one of the best ways to expand that foundation. The more well-read and personally educated you are, the more adaptable, resourceful, and ultimately competent you can become.</p>
 
@@ -146,6 +145,7 @@
 	      <p>A well-thought-out, consistent reading habit will make you a more capable, intelligent person. It will change who you are. It will change your life.</p>
 
       </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
     </div>
   </section>
 </template>

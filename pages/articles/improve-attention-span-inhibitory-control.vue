@@ -1,0 +1,58 @@
+<template>
+  <section class="section-padding">
+    <div class="container thinnest-content">
+      <div>
+        <h1 class="mb-3">{{articleInfo.title}}</h1>
+	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
+	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
+
+	      <p>Sometimes, it is hard to stay focused on the task at hand. Your desire to be productive can be challenged by your attention span.</p>
+	      <p>Attention span is the amount of time you can sustain focus on a task without getting pulled away. A key element of attention span is <i>inhibitory control</i>—the ability to regulate impulses, ignore distractions, and resist automatic behaviors. Inhibitory control is a defense against the things that pull you away from being on task.</p>
+	      <p>Neuroscience and psychology break inhibitory control into two categories: <i>attentional inhibition</i> and <i>response inhibition</i>.</p>
+	      <p>Attentional inhibition helps you ignore stuff that isn’t relevant to what you are doing. It filters out random thoughts, notifications, and background noise so they don’t hijack your focus.</p>
+	      <p>Response inhibition keeps your impulses in check. It helps you avoid your autopilot behaviors and make intentional decisions. Strong response inhibition keeps you from getting sidetracked by every urge that comes along.</p>
+	      <p>Together, attentional and response inhibition make up your inhibitory control. They keep you from drifting off-course and help you sustain deep, meaningful focus. If either of them is lacking, you and your attention span will suffer. You will be easily distracted and largely unable to focus for long periods of time.</p>
+
+	      <h2>How to Improve Inhibitory Control</h2>
+	      <p>There are two main levers you can adjust to help yourself have better inhibitory control.</p>
+
+	      <h3>Lighten the Load</h3>
+	      <p>As your focus muscles fatigue, distractions have an easier time grabbing your attention. By intentionally removing unnecessary distractions, you lighten the workload for your inhibitory control.</p>
+	      <p>Turn off all notifications that aren’t totally necessary during your work sessions. Keep a clean workspace. Close apps or browser tabs that distract you. Find someplace quiet to work where you won’t be constantly interrupted.</p>
+	      <p>Don’t waste your inhibitory control on things that can be easily removed.</p>
+
+	      <h3>Train Your Control</h3>
+	      <p>Just like pushups, pullups, and squats make your body stronger, specific exercises can build both your attentional and response inhibition. Here are three exercises that can help to strengthen inhibitory control:</p>
+
+	      <h4>Pomodoro Sessions</h4>
+	      <p>Set a timer for 25 minutes and focus on a single task. When the timer goes off, take a five-minute break, reset your timer, and do another session. Each session reinforces the habit of ignoring distractions until the time ends. That habit translates directly into building your attentional inhibition.</p>
+
+	      <h4>Transcendental meditation</h4>
+	      <p>Get comfortable, close your eyes, and silently repeat a simple mantra in your head for 10–15 minutes (it can be a made-up word or phrase). When your mind drifts away to other things, pull your thoughts back by continuing to repeat the mantra. This trains attentional inhibition by strengthening your ability to notice distractions without engaging them.</p>
+
+	      <h4>Pause-and-choose</h4>
+	      <p>When you recognize an impulse to do something off-task, stop and count to three. This prevents your automatic responses from kicking in and pulling you away from your work. You can then consciously choose to ignore the impulse and return to your task. This strengthens response inhibition by building a habit of resisting urges.</p>
+
+	      <h2>Inhibitory Control for a More Intentional and Fulfilled Life</h2>
+	      <p>Improving inhibitory control lengthens your attention span, which in turn makes you more productive and satisfied with your work.</p>
+	      <p>Increased attention span also carries over into other aspects of your life. It can help you have more engaging conversations, improve your relationships, be less stressed and overwhelmed, and be more efficient in your day-to-day life.</p>
+	      <p>Improve your attention span by protecting and training your inhibitory control.</p>
+      </div>
+	    <ArticleShareLinks :slug="articleInfo.slug" />
+    </div>
+  </section>
+</template>
+
+<script setup>
+import articlesList from "@/assets/articlesList";
+
+const router = useRouter()
+const { currentRoute } = router
+const articleInfo = articlesList.find(article => article.slug === currentRoute.value.fullPath.replace('/articles/',''))
+// meta tags
+let metaTitle = `${articleInfo.title}`
+let metaDescription = `${articleInfo.summary}`
+let metaKeywords = `Stefan, Stefan Auvache, Auvache, ${articleInfo.keywords}`
+let metaCanonical = `www.stefanauvache.com/articles/${articleInfo.slug}`
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+</script>
