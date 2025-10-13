@@ -1,5 +1,16 @@
 [
   {
+    "slug" : "improve-focus-actionable-ways",
+    "title" : "Actionable Ways to Improve Focus",
+    "datePublished" : "2025/10/13",
+    "categories" : ["How can I stay motivated and productive?"],
+    "featured" : true,
+    "rank" : 0,
+    "image" : "grow-your-focus.jpg",
+    "keywords" : "improve focus, increase concentration, productivity, deep work, avoid distractions, focus techniques, attention span, Cal Newport, mental clarity, work deeply, productivity tips",
+    "summary" : "Unlock strategies to improve focus and concentration with proven tips from productivity experts like Cal Newport. Learn actionable steps to work deeply, avoid distractions, and achieve more each day."
+  },
+  {
     "slug" : "improve-attention-span-inhibitory-control",
     "title" : "How to Improve Attention Span: Inhibitory Control",
     "datePublished" : "2025/10/07",
@@ -565,7 +576,7 @@
     "title" : "Grow Your Focus",
     "datePublished" : "2024/07/23",
     "categories" : ["How can I stay motivated and productive?","What practical tools and frameworks can help me improve?"],
-    "featured" : true,
+    "featured" : false,
     "rank" : 0,
     "image" : "grow-your-focus.jpg",
     "keywords" : "grow your focus, improve focus, cal newport, deep work, work deeply, focus is a skill, focus is a habit",

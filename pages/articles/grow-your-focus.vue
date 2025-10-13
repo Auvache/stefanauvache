@@ -33,7 +33,7 @@
          <p>Eat your snack, fill your water bottle, and go to the bathroom before starting your task. Designate a clean, distraction-free place for work. Put your phone away, sit down, and work.</p>
         <h2>The Roosevelt Dash - exercise for your focus</h2>
         <p>President Theodore Roosevelt is a wannabe focus-master's hero. He focused with an intensity that took him from homeschooling to Harvard to the White House.</p>
-        <p>The following is an exercise I learned from <a :href="affiliateLinks.books.deepWork" target="_blank">Cal Newport's book Deep Work</a>for increasing focus based on the habits of President Theodore Roosevelt. It is called "The Roosevelt Dash".</p>
+        <p>The following is an exercise I learned from <a :href="affiliateLinks.books.deepWork" target="_blank">Cal Newport's book Deep Work</a> for increasing focus based on the habits of President Theodore Roosevelt. It is called "The Roosevelt Dash".</p>
         <ol>
           <li>Pick a task.</li>
           <li>Estimate the time it will take to complete the task.</li>
@@ -59,7 +59,6 @@
 <script setup>
 import affiliateLinks from "@/assets/affiliateLinks";
 import articlesList from "@/assets/articlesList";
-import formatDate from "~/functions/formatDate";
 
 const router = useRouter()
 const { currentRoute } = router
