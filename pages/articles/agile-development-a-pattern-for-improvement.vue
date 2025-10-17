@@ -96,8 +96,8 @@ const { currentRoute } = router
 const articleInfo = articlesList.find(article => article.slug === currentRoute.value.fullPath.replace('/articles/',''))
 // meta tags
 let metaTitle = `${articleInfo.title}`
-let metaDescription = `${articleInfo.summary}`
-let metaKeywords = `Stefan, Stefan Auvache, Auvache, ${articleInfo.keywords}`
+let metaDescription = `${articleInfo.description}`
+let metaKeywords = `Stefan, Stefan Auvache, Auvache, ${articleInfo.categories.join(', ')}, ${articleInfo.keywords}`
 let metaCanonical = `www.stefanauvache.com/articles/${articleInfo.slug}`
 useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
 </script>

@@ -8,7 +8,8 @@
     "rank" : 0,
     "image" : "grow-your-focus.jpg",
     "keywords" : "improve focus, increase concentration, productivity, deep work, avoid distractions, focus techniques, attention span, Cal Newport, mental clarity, work deeply, productivity tips",
-    "summary" : "Unlock strategies to improve focus and concentration with proven tips from productivity experts like Cal Newport. Learn actionable steps to work deeply, avoid distractions, and achieve more each day."
+    "description" : "Learn actionable strategies to improve focus and do deep work. Discover techniques to reduce distractions, avoid attention residue, train your mind, and embrace boredom for better productivity and concentration.",
+    "summary" : "Focus is like a muscle—it can be trained and strengthened. By cultivating focus deliberately, you can work with greater intensity, sustain concentration, and achieve life-changing productivity."
   },
   {
     "slug" : "improve-attention-span-inhibitory-control",
@@ -19,6 +20,7 @@
     "rank" : 0,
     "image" : "texting-class.jpg",
     "keywords" : "attention span, inhibitory control, improve focus, increase productivity, attentional inhibition, response inhibition, Pomodoro technique, transcendental meditation, impulse control, deep work, focus strategies, concentration exercises, train attention, mental discipline, reduce distractions",
+    "description" : "Learn how to strengthen your attention span by improving inhibitory control. Discover practical exercises and strategies to ignore distractions, resist impulses, and focus deeply on what matters.",
     "summary" : "A key element of attention span is inhibitory control—the ability to regulate impulses, ignore distractions, and resist automatic behaviors. You can improve your inhibitory control with specific strategies like Pomodoro sessions, transcendental meditation, and removing unnecessary load."
   },
   {
@@ -30,6 +32,7 @@
     "rank" : 0,
     "image" : "writing.jpg",
     "keywords" : "write with meaning, meaningful writing tips, Scott Adams writing advice, Steven Pressfield The War of Art, living a meaningful life, writing and life lessons",
+    "description" : "Learn how to write and live with purpose. Focus on simplicity in writing and meaningful actions in life to create impact, fulfillment, and substance in everything you do.",
     "summary" : "Good writing is about meaning. The same is true for life. Insights from Scott Adams and Steven Pressfield show why simplicity and purpose are the keys to great writing and a fulfilling life."
   },
   {
@@ -41,6 +44,7 @@
     "rank" : 0,
     "image": "resume.jpg",
     "keywords": "stop chasing credentials, build skills, showcase competence, get a job without a degree, prove your skills, build artifacts, career growth without degree, skill-based hiring",
+    "description" : "Learn how to demonstrate competence and stand out without a college degree. Build real-world skills through projects and artifacts that showcase your abilities and overcome credentialism.",
     "summary": "Most people are more focused on college degrees, certifications, and other credentials than they are on learning and improving skills. Learn how to stop chasing credentials, build real skills, and showcase your competence through practical projects and artifacts."
   },
   {
@@ -52,6 +56,7 @@
     "rank" : 0,
     "image": "book-shelves.jpg",
     "keywords": "reading habit, personal development, self improvement, lifelong learning, skill development, books for growth, improve your life, how to read more, reading for success, educational growth",
+    "description" : "Discover how a consistent reading habit can transform your life. Learn strategies to read more effectively, choose impactful books, and turn knowledge into competence, creativity, and lifelong personal growth.",
     "summary": "Building a consistent reading habit can transform your life. Learn practical strategies, book recommendations, and how reading develops competence, perspective, and fulfillment beyond formal education."
   },
   {
@@ -62,8 +67,9 @@
     "featured" : true,
     "rank" : 1,
     "image": "ai.jpg",
-    "keywords": "AI personal development strategies, how to use AI productively, AI and critical thinking, AI in learning and creativity, avoiding AI skill atrophy, AI productivity tips, AI best practices for professionals, AI in self-improvement, AI and human skills balance, leveraging AI for growth",
-    "summary": "AI can make you far more productive, but it can also cause valuable skills to atrophy. Learn how to use AI to boost productivity without losing skills by following simple, practical principles."
+    "keywords": "AI personal development, using AI responsibly, AI productivity, skill improvement, critical thinking, creativity, problem-solving, AI learning strategies, AI workflow, human-AI collaboration",
+    "description" : "Learn how to use AI without sacrificing your growth. Discover strategies to leverage AI for learning, productivity, and skill development while protecting critical thinking, creativity, and problem-solving.",
+    "summary": "AI can make you far more productive, but it can also cause valuable skills to atrophy. By focusing on understanding, reinvesting time saved into deeper work, and collaborating with AI intelligently, you can improve skills while taking full advantage of AI’s power."
   },
   {
     "slug" : "how-to-improve-anything-feedback-loop",
@@ -73,8 +79,9 @@
     "featured" : true,
     "rank" : 0,
     "image" : "feedback.jpg",
-    "keywords" : "how to improve anything, feedback loops, self improvement, personal growth, continuous improvement, build better habits, achieve goals faster, learn from feedback, skill improvement, performance growth",
-    "summary" : "Discover how to improve any skill or area of life using world-class feedback loops for faster self-improvement, growth, and lasting success."
+    "keywords" : "feedback loop, continuous improvement, skill development, self-improvement, actionable feedback, Paul Graham, Gordon Ramsay, rapid learning, performance tracking, personal growth",
+    "description" : "Learn how to create a world-class feedback loop to improve any skill, habit, or goal. Discover methods to get reliable feedback, capture it efficiently, and apply insights for continuous growth.",
+    "summary" : "By building your own feedback loop, you can accelerate growth in any area of life. Find reliable, honest sources of feedback and getting as close to them as possible. Capture feedback quickly and intentionally, focusing only on what directly informs your improvement. Analyze the data to uncover patterns, root causes, and actionable steps."
   },
   {
     "slug": "measure-what-is-in-your-control",
@@ -84,7 +91,8 @@
     "featured" : true,
     "rank" : 1,
     "image": "measure-boy.jpg",
-    "keywords": "Stephen King, lead measures, lagging indicators, goal setting, productivity systems, focus on controllables, daily habits, performance tracking",
+    "keywords": "lead measures, lagging indicators, productivity, Stephen King writing, measurable goals, controllable metrics, performance tracking, success habits, personal development, 4 disciplines of execution",
+    "description" : "Learn how to focus on lead measures—metrics you can control daily—to achieve long-term success. Discover why Stephen King writes 2,000 words a day and how tracking effort, not outcomes, drives results.",
     "summary": "Stephen King has written dozens of bestsellers, sold over 350 million books, and built a net worth north of $500 million. While impressive, these are metrics he pays little attention to. As an author, there is only one metric that King pays attention to—words written per day."
   },
   {
@@ -96,6 +104,7 @@
     "rank" : 0,
     "image": "",
     "keywords": "deep work, focus, Cal Newport, productivity, undistracted effort, meaningful work, cognitive performance, attention management",
+    "description" : "Discover how to achieve truly great work by embracing deep focus. Learn why undistracted attention, not multitasking, leads to mastery, breakthroughs, and lasting results.",
     "summary": "True greatness comes from deep, focused work. Avoid multitasking and distractions to unlock clarity and produce meaningful results with undivided attention."
   },
   {
@@ -107,6 +116,7 @@
     "rank" : 0,
     "image": "",
     "keywords": "failure, Pixar, innovation, creative process, iteration, learning from mistakes, risk-taking, success through failure",
+    "description" : "Learn why failure is essential for growth. Pixar’s shelved projects illustrate how embracing mistakes and iterating leads to innovation and long-term success.",
     "summary": "Pixar’s shelved film taught the power of failure and iteration. Failure isn’t defeat—it’s a vital step toward success and improvement in creativity and life."
   },
   {
@@ -117,7 +127,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "ultracrepidarianism, imposter syndrome, humility, learning, knowledge gaps, ego, vulnerability, growth mindset",
+    "keywords": "ultracrepidarianism, imposter syndrome, humility, personal growth, self-improvement, learning mindset, admit what you don’t know, overcome ego, lifelong learning, growth mindset",
+    "description" : "Avoid the traps of ultracrepidarianism and imposter syndrome. Learn how humility, curiosity, and honest self-assessment can accelerate learning and personal growth.",
     "summary": "Ultracrepidarianism and imposter syndrome hinder learning. Fight ego with humility by admitting what you don’t know and staying open to growth and understanding."
   },
   {
@@ -128,7 +139,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "social comparison, War of the Currents, Edison vs Tesla, motivation, progress, social media, personal growth, measuring success",
+    "keywords": "social comparison, personal growth, self-improvement, productivity, comparing yourself to others, avoiding jealousy, mindset for success, measuring progress, focus on your own goals, escape social media trap",
+    "description" : "Stop comparing yourself to others and focus on your own progress. Learn how social comparison undermines success and how to measure achievement on your own terms.",
     "summary": "Social comparison distracts and demotivates. Instead of chasing others’ success, focus on your own progress and set personal goals to escape this trap."
   },
   {
@@ -139,7 +151,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "growth mindset, fixed mindset, Carol Dweck, learning, resilience, failure, mindset psychology",
+    "keywords": "growth mindset, fixed mindset, learning strategies, Carol Dweck, mindset and success, overcoming failure, lifelong learning, personal development, resilience, mindset for growth",
+    "description" : "Learn how growth and fixed mindsets impact learning and success. Discover why embracing challenges and mistakes can help you improve and achieve long-term growth.",
     "summary": "Carol Dweck’s research shows that a growth mindset—believing abilities can improve with effort—leads to learning and success, while a fixed mindset limits growth."
   },
   {
@@ -150,7 +163,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "career advice, natural strengths, Ned Johnson, success, talent, job fit, professional development",
+    "keywords": "career choice, natural strengths, career success, finding your calling, career advice, professional growth, skill alignment, employment opportunities, career fulfillment",
+    "description" : "Discover how to choose a career that aligns with your natural strengths, interests, and opportunities. Maximize success by focusing on what comes easiest to you.",
     "summary": "Success comes easier when you lean into your natural strengths. Like Ned Johnson says, don’t chase what’s hardest—pursue what fits you well and has real opportunity."
   },
   {
@@ -161,7 +175,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "feedback, analysis, root cause, decision-making, Kobe Bryant, performance improvement, patterns, action",
+    "keywords": "feedback analysis, actionable insights, analysis paralysis, pattern recognition, problem solving, root cause, personal growth, Kobe Bryant, performance improvement, decision making",
+    "description" : "Learn how to analyze feedback effectively and turn insights into action. Avoid analysis paralysis, identify patterns, address root causes, and improve like Kobe Bryant.",
     "summary": "Effective analysis means spotting patterns, finding root causes, and acting on insights. Like Kobe Bryant, use feedback to make smart, targeted changes—not just reflect."
   },
   {
@@ -173,6 +188,7 @@
     "rank" : 0,
     "image": "",
     "keywords": "analysis paralysis, decision-making, feedback loops, overthinking, fear of failure, clarity vs. certainty, productivity",
+    "description" : "Overcome analysis paralysis and start taking action. Learn how to use feedback effectively without getting stuck in endless planning and overthinking.",
     "summary": "Overanalyzing can feel productive, but often it's just fear in disguise. You usually have enough information—what you need is action, not certainty."
   },
   {
@@ -184,6 +200,7 @@
     "rank" : 0,
     "image": "",
     "keywords": "mastery, chunking, practice, Victor Wooten, learning technique, music, deliberate practice, skill-building",
+    "description" : "Learn how to master skills by breaking them into small, manageable chunks. Apply the “three notes at a time” method from music to any skill or goal.",
     "summary": "Mastery doesn’t happen all at once. Break big skills into small chunks—like three notes at a time—and work each piece until it feels natural. Then build from there."
   },
   {
@@ -195,6 +212,7 @@
     "rank" : 0,
     "image": "",
     "keywords": "externalities, unintended consequences, Dust Bowl, decision-making, ripple effect, responsibility, economics",
+    "description" : "Learn why every action you take has ripple effects. Understand the concept of externalities and how your decisions can impact others and the world around you.",
     "summary": "Your actions affect others in ways you might not see. Like the Dust Bowl, unintended consequences—externalities—can have major impacts. Think before you act."
   },
   {
@@ -205,7 +223,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "failure, self-worth, resilience, mindset, setbacks, learning from mistakes, The Self-Driven Child",
+    "keywords": "failure management, coping with failure, learn from mistakes, resilience, personal growth, self-improvement, mindset, overcoming setbacks, productivity, self-worth",
+    "description" : "Learn how to handle setbacks without letting them define you. Discover strategies to analyze mistakes, try again, pivot effectively, and keep your failures in scope.",
     "summary": "Failure doesn’t define you. Learn from setbacks, adjust your strategy, and move forward without letting failure affect your self-worth or your future."
   },
   {
@@ -216,7 +235,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "feedback sources, Bruce Springsteen, qualified feedback, honest criticism, fast feedback, relevant input, objectivity",
+    "keywords": "feedback sources, candid feedback, fast feedback, relevant feedback, skill improvement, professional growth, effective feedback loops",
+    "description" : "Not all feedback is created equal. Learn how to find honest, fast, and relevant sources to improve your work and grow your skills.",
     "summary": "Not all feedback is equal—valuable feedback is specific, qualified, close, fast, and honest. Where you get feedback determines how well you improve."
   },
   {
@@ -227,7 +247,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "graduation.jpg",
-    "keywords": "Nelson Mandela, competence vs credentials, artifacts, education and experience, job hiring, real-world skills",
+    "keywords": "competence vs credentials, artifacts of skill, Nelson Mandela, real-world experience, professional growth, skill development, learning, career success",
+    "description" : "Nelson Mandela showed that competence matters more than credentials. Focus on skill, curiosity, and results, and artifacts will naturally follow.",
     "summary": "A college degree is an artifact. It shows that you got into a university, learned enough to not fail all of your classes, and persevered to the end to some extent. But true education is about competence and experience, not just credentials."
   },
   {
@@ -238,7 +259,8 @@
     "featured" : false,
     "rank" : 0,
     "image": "",
-    "keywords": "Pixar Braintrust, candid feedback, creative improvement, Toy Story success, honest critique, performance measurement",
+    "keywords": "Pixar Braintrust, candid feedback, Toy Story, creative improvement, storytelling, honest critique, professional growth, self-improvement, performance measurement",
+    "description" : "The Pixar Braintrust shows how candid feedback drives improvement. Learn how honest critique can help you refine your work and achieve excellence.",
     "summary": "Pixar's Braintrust shows how candid, honest feedback drives creative excellence and lasting success in storytelling."
   },
   {
@@ -249,7 +271,8 @@
     "featured" : true,
     "rank" : 0,
     "image": "performance.jpg",
-    "keywords": "John Mayer, musician success, public persona, focus on craft, humility in success, artist fulfillment",
+    "keywords": "John Mayer, music career, focus on craft, avoiding distraction, fulfillment, celebrity, personal growth, humility, creative work, life lessons",
+    "description" : "John Mayer’s career shows that true fulfillment comes from focusing on craft, not public perception. Learn to prioritize meaningful work over fame.",
     "summary": "Setting goals, making plans, working hard, and achieving success can lead to recognition. Recognition can lead to distraction and perceived public expectation. Those distractions and expectations can shift your priorities away from doing meaningful, fulfilling work."
   },
   {
@@ -260,7 +283,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "to whom it may inspire, pixar, Austin Madison, overestimate what we can do in a day, underestimate what we can do in a decade, no overnight success, Steven Pressfield, Stephen King, keep working hard, persist",
+    "keywords" : "persistence, long-term success, creative process, improvement over time, Austin Madison, Steven Pressfield, Stephen King, habit of work, skill development",
+    "description" : "Progress feels slow day-to-day, but persistence compounds over time. Learn how long-term dedication turns effort into lasting success and creative breakthroughs.",
     "summary" : "\"How many pages have I produced?\" asks Steven Pressfield of himself. \"I don’t care. Are they any good? I don’t even think about it. All that matters is I’ve put in my time and hit it with all I’ve got… The most important thing about art is to work. Nothing else matters except sitting down every day and trying.\""
   },
   {
@@ -271,7 +295,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "software bugs, bugs, rabbit holes, going down a rabbit hole, opportunity cost, broken windows, y2k, don't lose focus, don't go down rabbit holes",
+    "keywords" : "software bugs, rabbit holes, Y2K, opportunity cost, unplanned work, project management, scope creep, programming lessons, problem-solving",
+    "description" : "Learn how software bugs turn into rabbit holes, why opportunity cost matters, and how to stay focused while addressing unplanned issues effectively.",
     "summary" : "Every action you take has a price associated with it. This is called opportunity cost—when you choose to do one thing, you are choosing to not do other things."
   },
   {
@@ -283,6 +308,7 @@
     "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "Frans Rosen, Frans Rosén, ethical hacking, why you should read, reading, read to unstick, fill the gaps in your knowledge, problem solving through reading",
+    "description" : "Learn how reading can overcome frustration distraction. Gain expertise, solve problems efficiently, and boost focus like top software engineers and hackers.",
     "summary" : "When you get stuck, read. Go back to the basics. Fill the gaps in your knowledge and use your newfound wisdom to better solve problems."
   },
   {
@@ -294,6 +320,7 @@
     "rank" : 0,
     "image" : "equation.jpg",
     "keywords" : "Seth Godin, Seth, Godin, equation for success, formula for success, how to start a successful blog, formula for starting a blog, formula for Seth's blog, SEO, social media, pareto distribution, 80/20 principle, eliminating waste, stop wasting effort",
+    "description" : "Discover the true formula for success. Focus on what matters most, experiment strategically, and eliminate unnecessary actions to get better results.",
     "summary" : "Successful people are often successful in spite of the things they do. What are you trying to accomplish? What variables matter most in the equation for your success? Are there things that others say are essential that might not even be necessary?"
   },
   {
@@ -304,7 +331,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "Steven Pressfield, turning pro, momentum, motivation, discipline, procrastination, Resistance, Steven Pressfield Resistance, overcoming procrastination",
+    "keywords" : "procrastination, turning pro, Steven Pressfield, discipline, internal motivation, external motivation, overcoming resistance, productivity, momentum, creative work",
+    "description" : "Learn how to overcome procrastination, build momentum, and turn pro. Harness external motivation, internal drive, and discipline to get your work done.",
     "summary" : "The first hurdle standing between you and doing your work is procrastination. You overcome procrastination through discipline. Do what you need to to build a habit of doing your work and your power to overcome procrastination will increase."
   },
   {
@@ -315,7 +343,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "Ray Dalio, Tommy Emmanuel, Viktor Frankl, Ray, Dalio, Tommy, Emmanuel, Vikor, Frankl, struggle, the obstacle is the way, Ryan Holiday, Paul Rabil, Steven Pressfield, struggle, endurance, do your work well, fulfilling life",
+    "keywords" : "struggle well, overcoming obstacles, finding meaning, Ray Dalio, Ryan Holiday, Viktor Frankl, personal growth, joy in effort, mastery, daily practice",
+    "description" : "True fulfillment comes from overcoming challenges, not just achieving goals. Learn to find meaning and joy through struggle and daily effort.",
     "summary" : "If you are looking for a source of meaning in your life, find an obstacle and work to overcome it. It doesn’t matter if you find the struggle in self-betterment, making an impact in your community, or mastering a new skill. The key is to find something to overcome and to struggle well on your way to overcoming it."
   },
   {
@@ -326,7 +355,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "Stéphane Breitwieser, the art thief, art heist, lessons from an art thief, premature optimization, take action, learn through mistakes, trial and error, over planning",
+    "keywords" : "implementation, premature optimization, taking action, software engineering, Frederick Brooks Jr., fear of failure, planning vs action, experimentation, progress, problem-solving",
+    "description" : "Fear of failure delays action. Learn why ideas are only tested through implementation and how premature optimization can block progress.",
     "summary" : "It is impossible to know all of the things that are wrong with your plan. Sometimes, you just need to act if you want to know if your plan is going to work."
   },
   {
@@ -337,7 +367,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "consistent effort, long-term success, practice and perseverance, University of Washington rowing, Olympic rowing champions, unseen work behind greatness, Stephen King early novels, Mozart compositions, Simone Biles training hours, mastery through repetition, athletic dedication, academic persistence, personal growth through effort, rowing endurance, finding your 4,344 miles",
+    "keywords" : "4,344 miles, Joe Rantz, University of Washington rowing, rowing champions, Stephen King, Mozart, Simone Biles, consistent effort, mastery, practice, long-term dedication, personal growth, achieving greatness",
+    "description" : "Greatness takes unseen effort. Discover the lesson behind 4,344 miles rowed by University of Washington champions and apply it to your life.",
     "summary" : "You can’t expect to become great at something if you don’t put in consistent effort over a long period of time. This is as true in athletics and academics as it is in living a fulfilling life."
   },
   {
@@ -348,7 +379,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "learning to play an instrument, long-term progress, Steve Martin banjo, persistence in learning, skill development over time, motivation for beginners, mastering a skill, growth mindset, banjo practice tips, overcoming frustration in learning, Bill Gates quote on progress, incremental improvement, staying consistent, learning challenges, expert advice on practice",
+    "keywords" : "Steven Martin, banjo mastery, long-term progress, persistence, 40-year rule, skill development, personal growth, patience, learning curve, improvement over time, lifelong learning, delayed gratification, Bill Gates quote, mastery mindset",
+    "description" : "Learn from Steven Martin: slow progress compounds over time. Stick with your craft, widen your perspective, and achieve mastery over decades.",
     "summary" : "It is easy to feel like you aren’t making progress. Widen your lens, lengthen your timeline, and stick with it. All experts in the world were once beginners."
   },
   {
@@ -359,7 +391,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "Joe Rantz, don't waste your energy, energy, wasting energy, brain space, forgiveness, it takes energy to get angry, anger is a waste",
+    "keywords" : "Joe Rantz, Olympic rowing, 1936 Olympics, energy management, forgiveness, personal growth, resilience, Great Depression, self-reliance, life lessons, focus, overcoming adversity, peace of mind, emotional intelligence, productivity",
+    "description" : "Learn from Olympian Joe Rantz: forgive, focus, and protect your energy. Don’t let anger or bitterness drain your life—channel your energy toward progress.",
     "summary" : "We can’t control what happens to us. We can control how we respond to the things that happen to us."
   },
   {
@@ -370,7 +403,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "on living a fulfilling life, Ric Elias, life lessons, near death experience, looking to the future",
+    "keywords" : "fulfilling life, Ric Elias, Hudson River plane crash, Sully Sullenberger, life lessons, enjoy the present, personal growth, happiness, prioritizing family, mindset, future planning, healthspan, longevity, living fully, positive thinking",
+    "description" : "Learn life lessons from Ric Elias, a Hudson River plane crash survivor. Prioritize joy, focus on family, and live fully in the present while planning for the future.",
     "summary" : "\"I think people get old when they stop thinking about the future. If you want to find someone's true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they've gotten old.\" - Ric Elias"
   },
   {
@@ -381,7 +415,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "rewards, punishments, faulty incentive structures, bad incentives, incentives, losing meaning",
+    "keywords" : "intrinsic motivation, rewards and punishments, behavioral economics, Gneezy Rustichini study, human motivation, transactional motivation, parenting, learning motivation, productivity, avoiding burnout, motivation psychology, incentives, intrinsic vs extrinsic, Mark Twain quotes, motivation research",
+    "description" : "Discover why fines and rewards can backfire. Learn how intrinsic motivation drives behavior, creativity, and engagement more than transactional incentives.",
     "summary" : "\"There are wealthy gentlemen in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line, in the summer, because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work and then they would resign.\" - Mark Twain"
   },
   {
@@ -392,7 +427,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "payul mccartney, yesterday song, beatles, creative process, creativity",
+    "keywords" : "Paul McCartney, songwriting process, creating songs, music ideas, song development, refining ideas, Yesterday song, writing music, creativity in music, developing ideas, music inspiration, creative process, idea refinement, composing songs",
+    "description" : "Learn songwriting lessons from Paul McCartney: generate many ideas, refine the best, and turn simple beginnings into timeless songs like Yesterday.",
     "summary" : "Scrambled eggs... Everybody calls me scrambled eggs. Sir Paul McCartney has written over a thousand songs. His song Yesterday sounded a lot different a year before it was released."
   },
   {
@@ -403,7 +439,8 @@
     "featured" : true,
     "rank" : 0,
     "image" : "hiring-new-people.jpg",
-    "keywords" : "hiring people, hiring new people, ray dalio, lessons from ray dalio, job fit",
+    "keywords" : "Ray Dalio, hiring principles, hiring new people, job fit, Bridgewater, values abilities skills, effective hiring, talent management, recruitment strategy, team building, workplace culture, intentional hiring, decision making, life principles",
+    "description" : "Learn hiring lessons from Ray Dalio’s Principles: aligning values, abilities, and skills for the right fit in work and life relationships.",
     "summary" : "Hiring someone to work for you (or looking for a job yourself) is all about \"fit.\" Is the candidate capable of performing job responsibilities competently? Will they enjoy the job down the road?"
   },
   {
@@ -414,7 +451,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "meaningful research, useful questions, context for research",
+    "keywords" : "meaningful research, establishing context, useful questions, Pixar research, creative process, project research, goal-oriented research, effective inquiry, innovation, research strategy, creative insights, problem solving, contextual research",
+    "description" : "Learn how meaningful research, guided by useful questions and clear context, drives better outcomes in creativity, work, and personal growth.",
     "summary" : "The benefits of asking useful questions are realized by doing meaningful research. For research to be meaningful, it must have a specific context."
   },
   {
@@ -425,7 +463,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "asking questions, asking useful questions, questions lead to solutions, ask the right questions",
+    "keywords" : "asking useful questions, goal setting, creative thinking, career planning, productivity tips, Cal Newport, decision making, problem solving, actionable questions, long-term planning, effective inquiry, project management, strategic thinking",
+    "description" : "Learn how asking the right questions can guide goals, creative projects, careers, and products. Insights from Cal Newport and actionable strategies.",
     "summary" : "When Cal Newport started his PhD in computer science at MIT, he had just submitted the manuscript for his first book. He wanted to be an established author by the time he graduated, but getting a PhD was no joke."
   },
   {
@@ -436,7 +475,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "charity, wasted charity, don't make beggars, help others to help themselves",
+    "keywords" : "empower others, leadership lessons, creating leaders, self-sufficiency, philanthropy, Hunger Project, Salwen family, teaching responsibility, personal growth, giving vs teaching, effective aid, leadership principles, mentoring",
+    "description" : "Learn why true leadership and philanthropy empower others to succeed, not depend on handouts, inspired by the Salwen family and Hunger Project.",
     "summary" : "After a collective recognition of personal excess and lots of discussion, the Salwens decided it was time to act. They could live on a lot less. Half, in fact. They sold their $1.5 million home, bought something down the street for roughly half the price, and devoted the next year to researching how they could use the remaining money to make the world a better place."
   },
   {
@@ -447,7 +487,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "creative-projects.jpg",
-    "keywords" : "creative projects, starting creative projects, better with time, investing in creativity",
+    "keywords" : "creative projects, creative success, Ryan Holiday, Perennial Seller, process over product, daily creative practice, idea development, creative discipline, personal growth, building ideas, turning ideas into work, creative habit, success mindset",
+    "description" : "Learn how to turn small ideas into great work by focusing on process over product, inspired by Ryan Holiday’s principles for creative success.",
     "summary" : "\"If there is any magic in creative expression, it's how small, even silly ideas can become big, important, aw-inspiring works if a person invests enough time in them.\" - Ryan Holiday"
   },
   {
@@ -458,8 +499,9 @@
     "featured" : true,
     "rank" : 4,
     "image" : "agile.jpg",
-    "keywords" : "agile, agile development, agile life, pattern for improvement",
-    "summary" : "Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move."
+    "keywords" : "Agile development, personal growth, iteration, productivity, self-improvement, plan-act-measure-iterate, Agile principles, feedback loop, continuous improvement, intentional action, life skills, software engineering methods, adaptive planning, learning from mistakes",
+    "description" : "Learn how Agile principles from software engineering—plan, act, measure, iterate—can improve personal growth, productivity, and intentional action.",
+    "summary" : "Stripped of business and coding jargon, Agile Development is an incredible framework for self-improvement. Make a plan to get a little closer to where you want to be. Act on that plan. Measure the outcome of your actions. Then, use what you have learned to adjust your vision for the future and plan your next move."
   },
   {
     "slug" : "why-you-should-read",
@@ -469,7 +511,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "reading, why you should read, read more, importance of reading",
+    "keywords" : "reading habit, lifelong learning, self-education, personal development, George Pocock, book recommendations, reading lists, higher education alternatives, skill building, competence over credentials, influential books, learning from masters, Stephen King reading list, Ryan Holiday books, Jordan Peterson book list, Mark Manson reading list",
+    "description" : "Discover why reading surpasses formal education, builds lifelong competence, and how to choose books that elevate your skills and personal growth.",
     "summary" : "A reading habit will do more for your personal education level than earning a university degree. Here are three reasons why."
   },
   {
@@ -480,7 +523,8 @@
     "featured" : true,
     "rank" : 0,
     "image" : "netflix.jpg",
-    "keywords" : "netflix, chaos monkey, preparing for the worst, planning to handle disaster",
+    "keywords" : "Chaos Monkey, Netflix AWS, premortem analysis, failure prevention, risk management, outage preparation, personal resilience, project planning, disaster mitigation, unforeseen problems, contingency planning, Joseph Bible story, professional preparedness, personal preparedness, avoid catastrophe, risk assessment",
+    "description" : "Learn from Netflix’s Chaos Monkey: prepare for worst-case scenarios, anticipate failures, and prevent disasters in life, work, and projects.",
     "summary" : "While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
   },
   {
@@ -491,7 +535,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "have you considered the cost, true cost, opportunity cost, opportunity cost of our actions",
+    "keywords" : "cost of decisions, time management, life priorities, ambition vs cost, opportunity cost, peace of mind, personal sacrifices, decision making, Robert Greene, The Prestige, evaluating choices, lifestyle impact, financial decisions, work-life balance, priorities and values",
+    "description" : "Explore the true cost of your decisions—time, dignity, and peace of mind. Learn how to weigh ambition and desire against what matters most in life.",
     "summary" : "\"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind.\" - Robert Green"
   },
   {
@@ -502,7 +547,8 @@
     "featured" : true,
     "rank" : 2,
     "image" : "unplanned-work.jpg",
-    "keywords" : "unplanned work, 80/20 principle, eighty twenty, 80-20 principle, plan for unplanned work, ninety ninety rule, 90-90, first 90%, second 90%",
+    "keywords" : "ninety-ninety rule, unplanned work, productivity strategies, time management, task prioritization, project management, work planning, handling setbacks, personal organization, IT productivity, Gene Kim, Bill Cargill, work efficiency, work-life balance, managing unexpected tasks",
+    "description" : "Learn how to overcome unplanned work and avoid the 90-90 rule. Master visibility, prioritization, and planning to increase productivity and reduce stress.",
     "summary" : "If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for all parties involved."
   },
   {
@@ -513,7 +559,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "deep work, cal newport, work deeply, focus, improving focus",
+    "keywords" : "deep work, focus strategies, productivity tips, Cal Newport, work deeply, time management, distraction-free work, deep vs shallow tasks, professional focus, task batching, work-life balance, Naval Ravikant, effective work habits, maximize concentration, meaningful productivity",
+    "description" : "Learn how to work deeply and maximize focus. Discover strategies to eliminate distractions, prioritize tasks, and achieve meaningful productivity.",
     "summary" : "Don’t suffocate your productive potential by splitting your focus. Focus on the task at hand. It may be hard, but it gets easier."
   },
   {
@@ -524,7 +571,8 @@
     "featured" : true,
     "rank" : 0,
     "image" : "curious-not-opinionated.jpg",
-    "keywords" : "curiosity, strong opinions, curiosity over opinions, don't be too opinionated",
+    "keywords" : "curiosity over opinion, be curious not opinionated, learning mindset, intellectual humility, critical thinking, Steven Levitt, Stephen Dubner, Lowell Benion, ultracrepidarian, innovation through curiosity, listening skills, personal growth, seeking truth, learning from others, mindset for success",
+    "description" : "Discover why curiosity beats opinion. Learn how staying humble and asking questions fosters learning, trust, and innovation in life and work.",
     "summary" : "\"When you are consumed with the rightness or wrongness of a given issue, it’s easy to lose track of what the issue actually is.\" - Steven Levitt and Stephen Dubner"
   },
   {
@@ -535,7 +583,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "premature optimization, perfectionism, overcoming perfectionism",
+    "keywords" : "premature optimization, productivity tips, overcoming perfectionism, action over perfection, Steven Pressfield, Donald Knuth, creative productivity, avoid over-preparation, success mindset, taking action, snowboarding story, Shaun White, creative work, productivity mindset, doing vs perfecting, productivity hacks",
+    "description" : "Discover why over-preparing and perfecting too early can block progress. Learn how embracing action over premature optimization fuels success.",
     "summary" : "You will never be perfectly prepared to do something great. You can spend all of the time in the world practicing, rehearsing, and studying. You will never feel totally prepared to take opportunities that are truly worthwhile. Over preparation is the death of productivity and success."
   },
   {
@@ -547,6 +596,7 @@
     "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "writing better college essays, method for improving college essays, how to write better essays, weaving essays",
+    "description" : "Learn a simple, colorful method for writing cohesive essays quickly by weaving your main ideas together—like threads in a basket.",
     "summary" : "In college, I created a method for writing cohesive essays more quickly. Learn how to organize your thoughts, assign colors to main ideas, and create cohesive, impactful papers. Discover how this colorful approach to writing, inspired by anthropology studies, can streamline your writing process and improve your academic performance."
   },
   {
@@ -558,6 +608,7 @@
     "rank" : 0,
     "image" : "title.jpg",
     "keywords" : "relative sacrifice, relative weight of sacrifice, improving relationships by making efficient sacrifices",
+    "description" : "Explore the concept of relative sacrifice—how understanding the weight of sacrifices in relationships can improve connection, empathy, and mutual care.",
     "summary" : "You can improve your relationships with others by finding the relative weight of the sacrifices others make for you and respond accordingly."
   },
   {
@@ -568,19 +619,9 @@
     "featured" : true,
     "rank" : 0,
     "image" : "solitude.jpg",
-    "keywords" : "Intentional Action, Monk Week, Solitude, Reflection, Life Calibration, Stress Reduction, Creativity, Well-being, Mindfulness, Productivity, Self-discovery",
+    "keywords" : "intentional solitude, Monk Week, benefits of being alone, deep reflection, mindfulness practice, reduce stress, boost creativity, self-awareness exercises, life clarity, personal development, Carl Jung solitude, Bill Gates Think Week, Haruki Murakami routine, deep thinking, intentional living, solo reflection",
+    "description" : "Learn how intentional solitude, inspired by “Monk Week,” can reduce stress, boost creativity, and help you live with clarity and purpose.",
     "summary" : "Discover how “Monk Weeks”—a purposeful period of solitude for deep reflection and life calibration—can help you live your life more intentionally. Learn science-backed benefits of intentional solitude and practical steps to improve clarity, creativity, and well-being."
-  },
-  {
-    "slug" : "grow-your-focus",
-    "title" : "Grow Your Focus",
-    "datePublished" : "2024/07/23",
-    "categories" : ["How can I stay motivated and productive?","What practical tools and frameworks can help me improve?"],
-    "featured" : false,
-    "rank" : 0,
-    "image" : "grow-your-focus.jpg",
-    "keywords" : "grow your focus, improve focus, cal newport, deep work, work deeply, focus is a skill, focus is a habit",
-    "summary" : "It doesn't matter who you are. Lack of focus inhibits connection, productivity, and enjoyment. Too many people think that they can't focus. Trust me, you can."
   },
   {
     "slug" : "eliminate-automate-delegate-do",
@@ -590,8 +631,9 @@
     "featured" : true,
     "rank" : 0,
     "image" : "eliminate-automate-delegate-do.jpg",
-    "keywords" : "eliminate automate delegate do, reduce task list, automate tasks, delegate tasks, Tim Ferriss, 4-hour work week, efficient work",
-    "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate."
+    "keywords" : "Eliminate Automate Delegate Do, productivity framework, task management, time management, eliminate tasks, automate work, delegate effectively, focus on meaningful work, productivity tips, workflow optimization, stress reduction, work efficiently, managing to-do lists, productivity system, task prioritization",
+    "description" : "Boost productivity with the Eliminate, Automate, Delegate, Do framework. Focus on meaningful work, reduce stress, and manage tasks efficiently.",
+    "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate. The Eliminate, Automate, Delegate, Do framework helps you focus on what truly matters."
   },
   {
     "slug" : "mastery",
@@ -601,7 +643,8 @@
     "featured" : false,
     "rank" : 0,
     "image" : "title.jpg",
-    "keywords" : "mastery, Robert Greene, Bob Dylan, master your craft, engaging work",
+    "keywords" : "mastery, developing skills, mastering a craft, personal development, Robert Greene Mastery, Bob Dylan Chronicles, Stephen King On Writing, deep work, skill development, creative mastery, satisfaction in work, learning a craft, becoming a master, craft practice, honing skills",
+    "description" : "Learn how to achieve mastery in any craft. Insights from Robert Greene, Bob Dylan, Stephen King, and practical steps to deepen skills and find fulfillment.",
     "summary" : "No one is great at the start of something creative. Don't be afraid to pursue something challenging. Find something that engages you. Work to master it. That will bring you satisfaction."
   },
   {
@@ -612,7 +655,8 @@
     "featured" : true,
     "rank" : 0,
     "image" : "books-2.jpg",
-    "keywords" : "books, life changing books, Stefan's favorite books, best books, life altering books, books that change perspective",
+    "keywords" : "books that changed my life, life-changing books, personal development books, best books for growth, self-improvement reading list, productivity books, creativity books, Paulo Coelho, Viktor Frankl, Steven Pressfield, Cal Newport, Ryan Holiday, Stephen King, Gene Kim, Marcus Aurelius, Jordan Peterson",
+    "description" : "Discover 18 life-changing books that inspire personal growth, creativity, productivity, and meaning. Lessons from Coelho, Pressfield, Peterson, King, and more.",
     "summary" : "\"If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experiences alone aren't broad enough to sustain you.\" - Jim Mattis"
   }
 ]
