@@ -6,8 +6,6 @@
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
-	      <h1>Actionable Ways to Improve Focus</h1>
-
 	      <p>Cal Newport is a prime example of sustained productivity. He published multiple books while working on a PhD in computer science at MIT. As a tenured professor at Georgetown University, he has continued to publish best-selling books—including <i>Deep Work</i>, <i>Digital Minimalism</i>, <i>A World Without Email</i>, and <i>Slow Productivity</i>.</p>
 
 	      <p>He also writes a widely read blog, hosts a popular podcast, and publishes essays in <i>The New Yorker</i> and <i>The New York Times</i>. On top of his career achievements, he is a husband and father with a normal family life.</p>

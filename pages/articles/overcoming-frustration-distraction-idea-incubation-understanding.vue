@@ -6,8 +6,6 @@
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
-	      <h1>Overcoming <em>Frustration Distraction</em>: Idea <em>Incubation</em> and Building Understanding</h1>
-
 	      <p>Think about the following scenario:</p>
 
 	      <p>A computer science student sits at his desk and works on a programming assignment.
