@@ -16,16 +16,24 @@
 	      <hr>
 
 	      <ul id="books" class="list-unstyled">
-		      <li v-for="book in books" :key="book.title" class="pb-3">
-			      <h2>
-				      {{ book.title }}<br><span class="t3">{{ book.author }}</span>
-			      </h2>
-			      <p>{{ book.description }}</p>
-			      <a :href="affiliateLinks.books[book.linkKey]" class="text-decoration-none" target="_blank" :aria-label="`Find ${book.title} online`">
-				      Find your own copy
+		      <li v-for="book in books" :id="book.image" :key="book.title" class="d-flex flex-column flex-sm-row align-items-center gap-4 pb-5">
+			      <a :href="affiliateLinks.books[book.linkKey]" class="text-decoration-none" style="flex-shrink: 0" target="_blank" :aria-label="`Find ${book.title} online`">
+				      <img
+						      style="width: 150px; height: auto; max-width: 100%;"
+						      :src="`/img/books/${book.image}`"
+						      :alt="`Cover of ${book.title} by ${book.author}`"
+				      >
 			      </a>
+			      <div>
+				      <h2 class="mt-0">
+					      {{ book.title }}<br><span class="t3">{{ book.author }}</span>
+				      </h2>
+				      <p>{{ book.description }}</p>
+				      <a :href="affiliateLinks.books[book.linkKey]" class="text-decoration-none" target="_blank" :aria-label="`Find ${book.title} online`">
+					      Find your own copy
+				      </a>
+			      </div>
 		      </li>
-
         </ul>
       </div>
 	    <ArticleShareLinks :slug="articleInfo.slug" />
