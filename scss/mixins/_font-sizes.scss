@@ -11,10 +11,11 @@
   margin: 0;
 
   @if $point == h1 {
-    font-size: 24px;
-    font-weight: 200;
-    line-height: 34px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
     margin: 0 0 0.5rem;
+    text-transform: uppercase;
 
     @include breakpoint(sm) {
       font-size: fluidProp(24px, 28px);
@@ -23,11 +24,11 @@
   }
 
   @if $point == h2 {
-    font-size: 22px;
-    font-weight: 200;
+    font-size: 24px;
+    font-weight: 700;
     line-height: 32px;
     margin: 2.5rem 0 0.5rem;
-    color: $site-blue;
+    text-transform: uppercase;
 
     @include breakpoint(sm) {
       font-size: fluidProp(22px, 26px);

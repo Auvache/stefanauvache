@@ -8,7 +8,6 @@
 						<img :src="`/img/articles/${article.imagePath}`" alt="">
 						<h2 class="intro-heading">{{article.title}}</h2>
 					</NuxtLink>
-					<hr>
 					<p>{{article.summary}}</p>
 				</div>
 			</div>
