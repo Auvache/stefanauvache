@@ -15,7 +15,6 @@
     font-weight: 700;
     line-height: 48px;
     margin: 0 0 0.5rem;
-    text-transform: uppercase;
 
     @include breakpoint(sm) {
       font-size: fluidProp(24px, 28px);
@@ -28,7 +27,6 @@
     font-weight: 700;
     line-height: 32px;
     margin: 2.5rem 0 0.5rem;
-    text-transform: uppercase;
 
     @include breakpoint(sm) {
       font-size: fluidProp(22px, 26px);

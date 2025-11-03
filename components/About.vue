@@ -5,7 +5,7 @@
 			<hr class="white">
 			<div class="text-white">
 				<p>Stefan is a software engineer and writer specializing in applying lessons, tools, and principles from software engineering and business to personal development and self-improvement. </p>
-				<p>He holds a Master’s degree in Information Systems Management from the Marriott School of Business at Brigham Young University and works as a full-time software engineer. He lives in Vancouver, WA with his family.</p>
+				<p>He holds a Master’s degree in Information Systems Management from the Marriott School of Business at Brigham Young University and works as a full-time software engineer. He lives in Vancouver, Washington with his family.</p>
 				<hr class="white">
 				<ul class="list-unstyled">
 					<li><NuxtLink class="link" to="/subscribe">Subscribe to the email list</NuxtLink></li>
