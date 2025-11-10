@@ -15,11 +15,6 @@
     font-weight: 700;
     line-height: 48px;
     margin: 0 0 0.5rem;
-
-    @include breakpoint(sm) {
-      font-size: fluidProp(24px, 28px);
-      line-height: fluidProp(34px, 38px);
-    }
   }
 
   @if $point == h2 {
@@ -28,38 +23,24 @@
     line-height: 32px;
     margin: 2.5rem 0 0.5rem;
 
-    @include breakpoint(sm) {
-      font-size: fluidProp(22px, 26px);
-      line-height: fluidProp(32px, 36px);
-    }
+    //@include breakpoint(sm) {
+    //  font-size: fluidProp(22px, 26px);
+    //  line-height: fluidProp(32px, 36px);
+    //}
   }
 
   @if $point == h3 {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 26px;
     margin: 2rem 0 0.5rem;
     color: $site-blue;
   }
 
-  @if $point == h4 {
-    font-size: 16px;
-    font-weight: bold;
-    line-height: 30px;
-    margin-bottom: 1rem;
-  }
-
-  @if $point == h5 {
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 30px;
-    margin-bottom: 1rem;
-  }
-
   @if $point == p {
     font-size: 16px;
     font-weight: 300;
-    line-height: 30px;
+    line-height: 28px;
     margin-bottom: 1rem;
   }
 

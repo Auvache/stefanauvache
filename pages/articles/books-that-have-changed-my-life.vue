@@ -16,7 +16,7 @@
 	      <hr>
 
 	      <ul id="books" class="list-unstyled">
-		      <li v-for="book in books" :id="book.image" :key="book.title" class="d-flex flex-column flex-sm-row align-items-center gap-4 pb-5">
+		      <li v-for="book in books" :id="book.image.replace('.jpg','')" :key="book.title" class="d-flex flex-column flex-sm-row align-items-center gap-4 pb-5">
 			      <a :href="affiliateLinks.books[book.linkKey]" class="text-decoration-none" style="flex-shrink: 0" target="_blank" :aria-label="`Find ${book.title} online`">
 				      <img
 						      style="width: 150px; height: auto; max-width: 100%;"

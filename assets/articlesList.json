@@ -1,5 +1,17 @@
 [
   {
+    "slug" : "ninety-ninety-rule-overcoming-unplanned-work",
+    "title" : "The Ninety-Ninety Rule and Overcoming Unplanned Work",
+    "datePublished" : "2025/11/10",
+    "categories" : ["What practical tools and frameworks can help me improve?","How can I stay motivated and productive?"],
+    "featured" : true,
+    "rank" : 2,
+    "image" : "unplanned-work.jpg",
+    "keywords" : "Ninety-Ninety Rule, unplanned work, software engineering principles, project management tips, productivity, planning fallacy, managing uncertainty, time estimation, triage, Gene Kim, The Phoenix Project, handling unexpected tasks, project visibility, personal productivity",
+    "description" : "Learn how the Ninety-Ninety Rule reveals the hidden cost of unplanned work—and how to manage surprise tasks with visibility, slack time, and smart triage.",
+    "summary" : "Every project takes longer than expected. Unplanned work derails progress, but it doesn’t have to. Gain visibility, double your timelines, and triage like a pro to stay productive and in control."
+  },
+  {
     "slug" : "overcome-perfectionism-premature-optimization",
     "title" : "How to Overcome Perfectionism: Premature Optimization and Making Things Work",
     "datePublished" : "2025/11/03",
@@ -574,18 +586,6 @@
     "keywords" : "cost of decisions, time management, life priorities, ambition vs cost, opportunity cost, peace of mind, personal sacrifices, decision making, Robert Greene, The Prestige, evaluating choices, lifestyle impact, financial decisions, work-life balance, priorities and values",
     "description" : "Explore the true cost of your decisions—time, dignity, and peace of mind. Learn how to weigh ambition and desire against what matters most in life.",
     "summary" : "\"Powerful people judge everything by what it costs, not just in money but in time, dignity, and peace of mind.\" - Robert Green"
-  },
-  {
-    "slug" : "unplanned-work",
-    "title" : "The Ninety-Ninety Rule and Overcoming Unplanned Work",
-    "datePublished" : "2024/09/13",
-    "categories" : ["What practical tools and frameworks can help me improve?","How can I stay motivated and productive?"],
-    "featured" : true,
-    "rank" : 2,
-    "image" : "unplanned-work.jpg",
-    "keywords" : "ninety-ninety rule, unplanned work, productivity strategies, time management, task prioritization, project management, work planning, handling setbacks, personal organization, IT productivity, Gene Kim, Bill Cargill, work efficiency, work-life balance, managing unexpected tasks",
-    "description" : "Learn how to overcome unplanned work and avoid the 90-90 rule. Master visibility, prioritization, and planning to increase productivity and reduce stress.",
-    "summary" : "If you don’t account for inevitable unplanned work ahead of time, you will have to find more time by dropping something else, which causes pain for all parties involved."
   },
   {
     "slug" : "work-deeply",

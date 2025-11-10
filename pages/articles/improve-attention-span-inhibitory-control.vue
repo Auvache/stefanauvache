@@ -24,14 +24,11 @@
 	      <h3>Train Your Control</h3>
 	      <p>Just like pushups, pullups, and squats make your body stronger, specific exercises can build both your attentional and response inhibition. Here are three exercises that can help to strengthen inhibitory control:</p>
 
-	      <h4>Pomodoro Sessions</h4>
-	      <p>Set a timer for 25 minutes and focus on a single task. When the timer goes off, take a five-minute break, reset your timer, and do another session. Each session reinforces the habit of ignoring distractions until the time ends. That habit translates directly into building your attentional inhibition.</p>
+	      <p><span class="fw-bold fst-italic">Pomodoro Sessions:</span> Set a timer for 25 minutes and focus on a single task. When the timer goes off, take a five-minute break, reset your timer, and do another session. Each session reinforces the habit of ignoring distractions until the time ends. That habit translates directly into building your attentional inhibition.</p>
 
-	      <h4>Transcendental meditation</h4>
-	      <p>Get comfortable, close your eyes, and silently repeat a simple mantra in your head for 10–15 minutes (it can be a made-up word or phrase). When your mind drifts away to other things, pull your thoughts back by continuing to repeat the mantra. This trains attentional inhibition by strengthening your ability to notice distractions without engaging them.</p>
+	      <p><span class="fw-bold fst-italic">Transcendental meditation:</span> Get comfortable, close your eyes, and silently repeat a simple mantra in your head for 10–15 minutes (it can be a made-up word or phrase). When your mind drifts away to other things, pull your thoughts back by continuing to repeat the mantra. This trains attentional inhibition by strengthening your ability to notice distractions without engaging them.</p>
 
-	      <h4>Pause-and-choose</h4>
-	      <p>When you recognize an impulse to do something off-task, stop and count to three. This prevents your automatic responses from kicking in and pulling you away from your work. You can then consciously choose to ignore the impulse and return to your task. This strengthens response inhibition by building a habit of resisting urges.</p>
+	      <p><span class="fw-bold fst-italic">Pause-and-choose:</span> When you recognize an impulse to do something off-task, stop and count to three. This prevents your automatic responses from kicking in and pulling you away from your work. You can then consciously choose to ignore the impulse and return to your task. This strengthens response inhibition by building a habit of resisting urges.</p>
 
 	      <h2>Inhibitory Control for a More Intentional and Fulfilled Life</h2>
 	      <p>Improving inhibitory control lengthens your attention span, which in turn makes you more productive and satisfied with your work.</p>
