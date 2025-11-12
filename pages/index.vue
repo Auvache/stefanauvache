@@ -1,6 +1,6 @@
 <template>
 	<h1 class="ada-hide">Articles by Stefan Auvache</h1>
-	<SubscribeBar />
+	<SubscribeBarHero />
 	<section class="section-padding">
 		<div class="container thin-content">
 			<h1 class="ada-hide">Relevant Articles</h1>

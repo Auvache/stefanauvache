@@ -91,6 +91,7 @@ h2, .t2{ @include font-prop(h2); }
 h3, .t3{ @include font-prop(h3); }
 
 p, .tp { @include font-prop(p); }
+.text-alternate { @include font-prop(alternate); }
 .tp2 { @include font-prop(p2); }
 a, .ta {
   @include font-prop(a);
@@ -98,6 +99,7 @@ a, .ta {
 }
 //p a { @include  font-prop(p); @include font-prop(a);}
 .tagline { @include  font-prop(tagline); }
+.huge { @include  font-prop(huge); }
 li {
   @include font-prop(li);
   button {

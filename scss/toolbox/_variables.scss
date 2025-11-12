@@ -5,7 +5,8 @@
 /* DROP SHADOWS */
 /* ANIMATIONS */
 /* OPTIONS */
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap');
 
 // Prefix for :root CSS variables
 $variable-prefix:             bs- !default;
@@ -114,13 +115,13 @@ $body-text-align:             null !default;
 // Font, line-height, and color for body text, headings, and more.
 
 $spacer:                      1rem;
-$font-family-sans-serif:      'Lexend', sans-serif !default;
+$font-family-sans-serif:      'Lexend Deca', sans-serif !default;
+$font-family-title:           'Montserrat', sans-serif !default;
 $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 $font-family-code:            var(--#{$variable-prefix}font-monospace) !default;
 
 $font-weight-base:            400 !default;
-
 $font-weight-thin:            200 !default;
 $font-weight-light:           300 !default;
 $font-weight-normal:          $font-weight-base !default;
@@ -128,6 +129,7 @@ $font-weight-slightlybold:    400 !default;
 $font-weight-medium:          500 !default;
 $font-weight-semibold:        600 !default;
 $font-weight-bold:            700 !default;
+$font-weight-bolder:          900 !default;
 
 .strong-medium {
   font-weight:                $font-weight-semibold;

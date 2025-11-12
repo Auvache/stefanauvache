@@ -113,6 +113,9 @@ section {
 .top-section {
   min-height: 100vh;
 }
+.text-balanced {
+  text-wrap: balance;
+}
  #mainContent {
    min-height: 50vh;
  }
@@ -230,7 +233,8 @@ section {
 .logo {
   font-size: 1rem;
   color: $white;
-  font-weight: $font-weight-light;
+  font-family: $font-family-title;
+  font-weight: 400;
   padding: 0;
   text-decoration: none;
 

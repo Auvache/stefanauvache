@@ -2,10 +2,9 @@
   <section id="subscribe" class="section-padding bg-black-denim">
 	  <div class="container thin-content text-center fade-in">
 		  <div>
-			  <div class="text-white" style="margin-bottom: -2.5rem;">
-				  <h1 class="fw-bold my-2">GET ONE INTERESTING IDEA IN YOUR INBOX EACH WEEK</h1>
-				  <p>Get a weekly email with useful ideas on making your work and life more productive and fulfilling.</p>
-				  <p>You will also get a proper introduction to my work on improving focus and doing meaningful work, along with some other exclusive goodies.</p>
+			  <div class="text-white text-balanced" style="margin-bottom: -2.5rem;">
+				  <h1 class="my-2 huge">One Email, One Idea, Every Week. </h1>
+				  <p class="h2 fw-lighter">Learn how to apply the tools and strategies used by top professionals to boost your productivity, live with more intention, and be more fulfilled.</p>
 			  </div>
 			  <div>
 				  <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">
