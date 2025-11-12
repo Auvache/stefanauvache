@@ -3,7 +3,7 @@
 	  <div class="container thin-content text-center fade-in">
 		  <div>
 			  <div class="text-white text-balanced" style="margin-bottom: -2.5rem;">
-				  <h1 class="my-2 huge">One Email, One Idea, Every Week. </h1>
+				  <h1 class="my-2 huge">One Email, One Idea, Every Week</h1>
 				  <p class="h2 fw-lighter">Learn how to apply the tools and strategies used by top professionals to boost your productivity, live with more intention, and be more fulfilled.</p>
 			  </div>
 			  <div>

@@ -3,8 +3,8 @@
     <div class="container thin-content text-center fade-in">
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
-		      <p class="t2 fw-bold my-2">GET ONE INTERESTING IDEA IN YOUR INBOX EACH WEEK</p>
-		      <p>Learn how to use professional tools and frameworks to be more productive, intentional, and fulfilled.</p>
+		      <p class="t1 fw-bolder my-2 text-balanced">One Email, One Idea, Every Week</p>
+		      <p class="t2 fw-lighter mt-3">Learn how to apply the tools and strategies used by top professionals to boost your productivity, live with more intention, and be more fulfilled.</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">
