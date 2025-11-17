@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<hr class="mt-5">
-		<p>Enjoy this article? Share it and <NuxtLink to="/subscribe">subscribe to Food for Thought</NuxtLink>.</p>
+		<p>Enjoy this article? Share it and <NuxtLink to="/subscribe">subscribe for weekly insights</NuxtLink>.</p>
 		<ul class="list-unstyled d-flex flex-wrap gap-2">
 			<li>
 				<a :href="`https://twitter.com/intent/tweet?url=https://www.stefanauvache.com/articles/${slug}&text=Check%20out%20this%20article:`" target="_blank" rel="noopener noreferrer">

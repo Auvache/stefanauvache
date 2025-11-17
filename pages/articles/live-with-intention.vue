@@ -47,7 +47,7 @@ articlesList.value = Articles.filter(article => {
 let metaTitle = 'Act with Intention | Stefan Auvache'
 let metaDescription = 'Explore strategies to live deliberately, make intentional choices, and align daily actions with long-term goals.'
 let metaKeywords = 'intentional living, deliberate action, conscious choices, mindful productivity, intentional habits, focus and clarity'
-let metaCanonical = 'www.stefanauvache.com/articles/act-with-intention'
+let metaCanonical = 'https://www.stefanauvache.com/articles/act-with-intention'
 
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

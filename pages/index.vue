@@ -48,11 +48,11 @@ definePageMeta({
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | Newsletter, Articles, and More'
-let metaDescription = 'Stay up to date with the Food For Thought newsletter, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
-let metaCanonical = 'www.stefanauvache.com'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaTitle = 'Agile Personal Development | Stefan Auvache'
+let metaDescription = 'Stop chasing goals you don\'t actually want. Learn iterative, experimental frameworks from software engineering to build a life that actually fits. Join thousands testing their way to clarity.'
+let metaKeywords = 'agile personal development, iterative goal setting, life experiments, alternatives to goal setting, how to know what you want, sprint planning for life, personal development framework'
+let metaCanonical = 'https://www.stefanauvache.com'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>
 
 <style lang="scss" scoped>

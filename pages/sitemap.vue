@@ -36,9 +36,9 @@ for (let i in Articles) {
 
 sortedArticles = sortByKey(Articles, "title", "atoz")
 // meta tags
-let metaTitle = 'Stefan Auvache | Sitemap'
-let metaDescription = 'Sitemap for Stefan Auvache'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, sitemap'
-let metaCanonical = 'www.stefanauvache.com/sitemap'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaTitle = 'Sitemap | Stefan Auvache'
+let metaDescription = 'Browse all pages and articles on stefanauvache.com—exploring Agile Personal Development and iterative approaches to life.'
+let metaKeywords = 'Stefan Auvache sitemap, agile personal development articles'
+let metaCanonical = 'https://www.stefanauvache.com/sitemap'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

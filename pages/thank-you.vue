@@ -15,11 +15,11 @@ definePageMeta({
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | Thank You'
-let metaDescription = 'Thank you for subscribing to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, , thank you, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
-let metaCanonical = 'www.stefanauvache.com/subscribe'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaTitle = 'Thank You for Subscribing | Stefan Auvache'
+let metaDescription = 'Thanks for joining the weekly newsletter. Check your inbox for your first email on Agile Personal Development and iterative approaches to life.'
+let metaKeywords = 'Stefan Auvache, agile personal development, newsletter confirmation'
+let metaCanonical = 'https://www.stefanauvache.com/thank-you'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'noindex, follow'})
 </script>
 
 <style lang="scss" scoped>

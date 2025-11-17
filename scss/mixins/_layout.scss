@@ -406,9 +406,13 @@ nav {
     list-style: none;
     padding: 0.5rem 1rem;
     color: $site-text;
-    width: 290px;
+    width: 200px;
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
     transition: all 500ms;
+
+    a {
+      font-size: 1rem;
+    }
   }
 }
 

@@ -38,7 +38,7 @@ articlesList.value = Articles.filter(article => {
 let metaTitle = 'Practical Tools and Frameworks | Stefan Auvache'
 let metaDescription = 'Explore practical tools, systems, and frameworks from business, technology, and philosophy that improve everyday life.'
 let metaKeywords = 'practical tools, productivity frameworks, self improvement systems, agile methods, life frameworks, personal development tools'
-let metaCanonical = 'www.stefanauvache.com/articles/practical-tools-frameworks'
+let metaCanonical = 'https://www.stefanauvache.com/articles/practical-tools-frameworks'
 
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

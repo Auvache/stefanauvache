@@ -46,6 +46,6 @@ articlesList.value = Articles.filter(article => {
 let metaTitle = 'Find Purpose and Meaning | Stefan Auvache'
 let metaDescription = 'Discover practical insights and timeless wisdom on finding purpose, meaning, and direction in life.'
 let metaKeywords = 'purpose in life, finding meaning, life direction, fulfillment, meaningful living, self discovery, philosophy of purpose'
-let metaCanonical = 'www.stefanauvache.com/articles/find-purpose-meaning'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaCanonical = 'https://www.stefanauvache.com/articles/find-purpose-meaning'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

@@ -46,8 +46,8 @@ definePageMeta({
 let metaTitle = 'Stefan Auvache | Music'
 let metaDescription = 'I Want to Be Yours and Other Songs | Album by Stefan Auvache.'
 let metaKeywords = 'Stefan, Stefan Auvache, Auvache, music, share music, love music, Stefan Auvache music, spotify, apple music, youtube music, amazon music'
-let metaCanonical = 'www.stefanauvache.com/music'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaCanonical = 'https://www.stefanauvache.com/music'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'noindex, nofollow'})
 </script>
 
 <style lang="scss" scoped>

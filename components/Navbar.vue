@@ -13,9 +13,9 @@
                 <span class="bar3"></span>
             </button>
             <ul id="dropdown" class="hamburger-menu d-none">
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/articles">Read articles</NuxtLink></li>
-              <li><NuxtLink class="text-decoration-none text-black" @click="toggleMenu" to="/contact">Contact</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black text-alternate" @click="toggleMenu" to="/subscribe">Subscribe</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black text-alternate" @click="toggleMenu" to="/articles">Read articles</NuxtLink></li>
+              <li><NuxtLink class="text-decoration-none text-black text-alternate" @click="toggleMenu" to="/contact">Contact</NuxtLink></li>
             </ul>
           </div>
         </div>
@@ -25,7 +25,7 @@
   <div class="nav-buffer"></div>
   <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim border-white border-bottom">
     <div class="position-relative">
-      <NuxtLink class="white text-decoration-none text-alternate" to="/subscribe">Subscribe for insights direct to your inbox</NuxtLink>
+      <NuxtLink class="white text-decoration-none text-alternate" to="/subscribe">Subscribe for weekly insights ➜</NuxtLink>
       <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>
     </div>
   </div>

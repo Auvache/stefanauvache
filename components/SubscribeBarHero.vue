@@ -3,8 +3,8 @@
     <div class="container thin-content text-center fade-in">
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
-		      <p class="huge my-2 text-balanced">One Email, One Idea, Every Week</p>
-		      <p class="h2 my-2 text-balanced fw-lighter">Learn how to apply the tools and strategies used by top professionals to boost your productivity, live with more intention, and be more fulfilled.</p>
+		      <h1 class="huge my-2 text-balanced">Stop Chasing Goals You Don't Want</h1>
+		      <p class="h2 my-3 text-balanced fw-lighter">Learn <strong>Agile Personal Development</strong>—the iterative approach to setting and achieving goals</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">

@@ -38,7 +38,7 @@ articlesList.value = Articles.filter(article => {
 let metaTitle = 'What to Read for Self-Improvement | Stefan Auvache'
 let metaDescription = 'Recommended reading lists and book insights on business, philosophy, literature, and self-improvement.'
 let metaKeywords = 'self improvement books, best books to read, personal development reading, philosophy books, productivity books, book recommendations'
-let metaCanonical = 'www.stefanauvache.com/articles/reading-self-improvement'
+let metaCanonical = 'https://www.stefanauvache.com/articles/reading-self-improvement'
 
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

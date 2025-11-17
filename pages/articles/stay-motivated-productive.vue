@@ -48,7 +48,7 @@ articlesList.value = Articles.filter(article => {
 let metaTitle = 'Stay Motivated and Productive | Stefan Auvache'
 let metaDescription = 'Practical tools, systems, and ideas to maintain motivation, build discipline, and achieve more with less stress.'
 let metaKeywords = 'motivation tips, productivity hacks, stay productive, build discipline, time management, focus, avoid procrastination'
-let metaCanonical = 'www.stefanauvache.com/articles/stay-motivated-productive'
+let metaCanonical = 'https://www.stefanauvache.com/articles/stay-motivated-productive'
 
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>

@@ -4,7 +4,8 @@
 		  <div>
 			  <div class="text-white text-balanced" style="margin-bottom: -2.5rem;">
 				  <h1 class="my-2 huge">One Email, One Idea, Every Week</h1>
-				  <p class="h2 fw-lighter">Learn how to apply the tools and strategies used by top professionals to boost your productivity, live with more intention, and be more fulfilled.</p>
+				  <p class="h2 fw-lighter">Stop chasing unfulfilling goals.</p>
+				  <p class="h2 fw-lighter">Learn <strong>Agile Personal Development</strong>—the iterative approach to setting and achieving goals. Join the newsletter and learn to live with more intention.</p>
 			  </div>
 			  <div>
 				  <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">
@@ -22,11 +23,11 @@ definePageMeta({
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | Subscribe to Food for Thought'
-let metaDescription = 'Subscribe to my Food For Thought newsletter for the latest updates, exclusive content, and special offers delivered straight to your inbox. Stay informed and never miss out. Join the community today'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, subscribe, newsletter, email list, Food For Thought, articles, business, technology, literature, philosophy, music, lifelong learning'
-let metaCanonical = 'www.stefanauvache.com/subscribe'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaTitle = 'Subscribe | Stefan Auvache'
+let metaDescription = 'Join the weekly newsletter on Agile Personal Development. Get one idea every week about iterating toward a life you actually want—no hype, no fluff.'
+let metaKeywords = 'agile personal development newsletter, Stefan Auvache subscribe, weekly insights, iterative self improvement'
+let metaCanonical = 'https://www.stefanauvache.com/subscribe'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>
 
 <style lang="scss" scoped>

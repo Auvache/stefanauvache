@@ -58,9 +58,9 @@ sortedArticles.forEach((item) => {
 })
 
 // meta tags
-let metaTitle = 'Stefan Auvache | All Articles'
-let metaDescription = 'Read articles with insights on business, technology, literature, philosophy, music, and life.'
-let metaKeywords = 'Stefan, Stefan Auvache, Auvache, articles, all articles, agile living, agile, simple systems, intentional action, meaningful focus, Stefan Auvache articles'
-let metaCanonical = 'www.stefanauvache.com/all-articles'
-useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical})
+let metaTitle = 'All Articles | Stefan Auvache'
+let metaDescription = 'Explore articles on Agile Personal Development—iterative frameworks, life experiments, and anti-perfectionism. Learn to iterate toward a life you actually want.'
+let metaKeywords = 'agile personal development, iterative self improvement, life experiments, goal setting alternatives, Stefan Auvache articles, personal development frameworks'
+let metaCanonical = 'https://www.stefanauvache.com/all-articles'
+useSeoMeta({title: metaTitle, ogTitle: metaTitle, description: metaDescription, ogDescription: metaDescription, keywords: metaKeywords, canonical: metaCanonical, robots: 'index, follow'})
 </script>
