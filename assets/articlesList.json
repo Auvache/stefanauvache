@@ -672,28 +672,16 @@
     "summary" : "Discover how “Monk Weeks”—a purposeful period of solitude for deep reflection and life calibration—can help you live your life more intentionally. Learn science-backed benefits of intentional solitude and practical steps to improve clarity, creativity, and well-being."
   },
   {
-    "slug" : "eliminate-automate-delegate-do",
-    "title" : "Eliminate Automate Delegate Do",
-    "datePublished" : "2024/07/22",
-    "categories" : ["How can I stay motivated and productive?","What practical tools and frameworks can help me improve?"],
-    "featured" : true,
-    "rank" : 0,
-    "image" : "eliminate-automate-delegate-do.jpg",
-    "keywords" : "Eliminate Automate Delegate Do, productivity framework, task management, time management, eliminate tasks, automate work, delegate effectively, focus on meaningful work, productivity tips, workflow optimization, stress reduction, work efficiently, managing to-do lists, productivity system, task prioritization",
-    "description" : "Boost productivity with the Eliminate, Automate, Delegate, Do framework. Focus on meaningful work, reduce stress, and manage tasks efficiently.",
-    "summary" : "When there are tasks that just need to be done, you can use this process to reduce the amount of unpleasant, mundane work you have on your plate. The Eliminate, Automate, Delegate, Do framework helps you focus on what truly matters."
-  },
-  {
-    "slug" : "mastery",
-    "title" : "Mastery",
-    "datePublished" : "2024/07/17",
-    "categories" : [],
-    "featured" : false,
-    "rank" : 0,
-    "image" : "title.jpg",
-    "keywords" : "mastery, developing skills, mastering a craft, personal development, Robert Greene Mastery, Bob Dylan Chronicles, Stephen King On Writing, deep work, skill development, creative mastery, satisfaction in work, learning a craft, becoming a master, craft practice, honing skills",
-    "description" : "Learn how to achieve mastery in any craft. Insights from Robert Greene, Bob Dylan, Stephen King, and practical steps to deepen skills and find fulfillment.",
-    "summary" : "No one is great at the start of something creative. Don't be afraid to pursue something challenging. Find something that engages you. Work to master it. That will bring you satisfaction."
+    "slug": "eliminate-automate-delegate-do",
+    "title": "Eliminate Automate Delegate Do",
+    "datePublished": "2024/06/22",
+    "categories": ["Systems > Chaos"],
+    "featured": true,
+    "rank": 0,
+    "image": "",
+    "keywords": "task management framework, eliminate unnecessary work, automate repetitive tasks, delegation tips, productivity system, reduce overwhelm, time management, prioritize important work, eliminate automate delegate do",
+    "description": "Learn a simple 4-step task management framework to reduce overwhelm and focus on what matters. Eliminate unnecessary tasks, automate repetitive work, delegate strategically, and do deep work with clarity.",
+    "summary": "When tasks pile up and demand attention, use this simple framework to get organized: Eliminate what doesn't need doing, automate repetitive work, delegate what others can handle better, and focus your energy on what truly matters."
   },
   {
     "slug" : "books-that-have-changed-my-life",
