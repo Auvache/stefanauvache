@@ -6,6 +6,11 @@
         <ul class="list-unstyled d-inline-block mb-5">
           <li><NuxtLink to="/">Homepage: Featured articles</NuxtLink></li>
           <li><NuxtLink to="/articles">Articles</NuxtLink></li>
+          <li><NuxtLink to="/articles/agile">Agile Article Hub</NuxtLink></li>
+          <li><NuxtLink to="/articles/iteration">Iteration Over Planning Article Hub</NuxtLink></li>
+          <li><NuxtLink to="/articles/destination-dilemma">The Destination Dilemma Article Hub</NuxtLink></li>
+          <li><NuxtLink to="/articles/systems">Systems Over Chaos Article Hub</NuxtLink></li>
+          <li><NuxtLink to="/articles/failure">Failure From Learning Article Hub</NuxtLink></li>
           <li><NuxtLink to="/subscribe">Subscribe to newsletter</NuxtLink></li>
           <li><NuxtLink to="/contact">Contact</NuxtLink></li>
         </ul>
