@@ -28,9 +28,9 @@
           </ul>
         </div>
 
-        <div class="d-flex flex-column flex-sm-row justify-content-center mt-5">
-          <NuxtLink to="/articles">Featured Articles</NuxtLink>
-        </div>
+	      <div class="d-flex flex-column justify-content-center mt-5 text-center thinnest-content">
+		      <NuxtLink class="btn" to="/articles">Browse featured articles</NuxtLink>
+	      </div>
       </div>
     </div>
   </section>

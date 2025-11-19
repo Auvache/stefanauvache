@@ -39,7 +39,7 @@
 
 <script setup>
 definePageMeta({
-	layout: 'clean'
+	layout: 'main'
 })
 
 // meta tags

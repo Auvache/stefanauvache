@@ -25,7 +25,7 @@
   <div class="nav-buffer"></div>
   <div v-if="showSubscribeBanner" id="subscribeBanner" class="bg-black-denim border-white border-bottom">
     <div class="position-relative">
-      <NuxtLink class="white text-decoration-none text-alternate" to="/subscribe">Subscribe for weekly insights ➜</NuxtLink>
+      <NuxtLink class="white text-decoration-none text-alternate" to="/subscribe"><span class="text-decoration-underline">Subscribe</span> for weekly insights</NuxtLink>
       <button @click="closeSubscribeBanner" type="button" class="btn-close btn-close-white" aria-label="Close subscribe banner"></button>
     </div>
   </div>

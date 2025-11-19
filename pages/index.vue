@@ -13,8 +13,8 @@
 					<p>{{article.summary}}</p>
 				</div>
 			</div>
-			<div class="d-flex flex-column justify-content-center mt-5 thinnest-content">
-				<NuxtLink class="btn mb-3" to="/subscribe">Subscribe for weekly updates</NuxtLink>
+			<div class="d-flex flex-column justify-content-center mt-5 text-center thinnest-content">
+				<NuxtLink class="btn block mb-3" to="/subscribe">Subscribe for weekly updates</NuxtLink>
 				<NuxtLink class="btn" to="/articles">Browse more articles</NuxtLink>
 			</div>
 

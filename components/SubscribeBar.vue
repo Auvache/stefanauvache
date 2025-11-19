@@ -1,5 +1,5 @@
 <template>
-  <section class="py-4 bg-black-denim border-top border-white">
+  <section class="py-4 bg-black-denim border-top border-bottom border-white">
     <div class="container thin-content text-center fade-in">
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
