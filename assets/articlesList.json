@@ -547,9 +547,9 @@
     "featured" : true,
     "rank" : 0,
     "image" : "netflix.jpg",
-    "keywords" : "Chaos Monkey, Netflix AWS, premortem analysis, failure prevention, risk management, outage preparation, personal resilience, project planning, disaster mitigation, unforeseen problems, contingency planning, Joseph Bible story, professional preparedness, personal preparedness, avoid catastrophe, risk assessment",
-    "description" : "Learn from Netflix's Chaos Monkey: prepare for worst-case scenarios, anticipate failures, and prevent disasters in life, work, and projects.",
-    "summary" : "While we can't run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project."
+    "keywords": "chaos monkey netflix, premortem planning, prevent catastrophic failures, risk mitigation, prepare for problems, project management techniques, think about the future, handle adversity, problem solving before failure",
+    "description": "Learn how Netflix's Chaos Monkey approach and premortem planning can help you prevent catastrophic failures. Discover how to identify weaknesses, prepare for problems, and build resilience before chaos strikes.",
+    "summary": "Netflix built Chaos Monkey to randomly break their systems and discover weaknesses before real failures occurred. You can apply the same thinking through premortems—imagining what could go wrong, then solving problems before they happen. Prevent catastrophic failures by preparing for chaos."
   },
   {
     "slug" : "have-you-considered-the-cost",

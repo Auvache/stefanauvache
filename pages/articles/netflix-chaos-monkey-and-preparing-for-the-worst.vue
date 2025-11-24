@@ -6,37 +6,33 @@
 	      <p class="tagline fst-italic blue mb-3">By Stefan Auvache</p>
 	      <img v-if="articleInfo.image !== 'title.jpg'" :src="`/img/articles/${articleInfo.image}`" alt="" class="mb-3">
 
-        <p>On April 21, 2011, <a href="https://money.cnn.com/2011/04/21/technology/amazon_server_outage/index.htm" target="_blank">an entire Amazon AWS availability zone went down</a>, taking a large chunk of the internet down with it. Companies like Reddit, Foursquare, and Quora lost their internet presence with no idea how long it would take to get it back. For some companies, a crash of longer than an hour can cost hundreds of millions of dollars.</p>
-
-        <p>Netflix, one of Amazon’s biggest AWS customers, however, was left unscathed by the outage.</p>
-
-        <p>A few years before the outage, the IT guys at Netflix decided that it would be good to prepare for the worst. What would happen if some of our servers went down? What should we do if traffic spikes and our resources can’t handle it? A few key technical solutions were decided upon and implemented to prepare Netflix for the worst.</p>
-
-        <p>One of them is Chaos Monkey.</p>
-
-        <p><a href="https://www.geeksforgeeks.org/what-is-netflixs-chaos-monkey/" target="_blank">Chaos Monkey</a> is a program that looks at all AWS resources used by Netflix and starts randomly shutting them down to see what would happen in a controlled environment away from real customers. The initial results were, as intended, chaos. The site went down, features stopped working, and all manner of unforeseeable problems occurred. Netflix now had a long list of issues to fix that were previously hidden. By forcing the system to break, engineers were able to patch newly found holes, create redundancies, and prevent those same outages from happening again. Three years later, when AWS lost an availability zone, Netflix was ready. It took most companies a whole day to be back to their full capacity. For Netflix, one day is 200 million hours of streaming, and their customers didn’t miss a minute of it.</p>
-
-        <p>Are you prepared for outages?</p>
-
-        <p>While we can’t run an automated program to detect all of the potential, unseen problems in our lives, we can create our own personal Chaos Monkey by brainstorming the things that could go wrong in a given situation or project.</p>
-
-        <p>In business, this is called a premortem; imagine what can go wrong, then work backwards to identify the source of failure and prevent it. An ounce of temporary pessimism followed by some problem solving and fortification can help you weather future storms and protect the things that are most important to you.</p>
-
-        <p>This applies on both a personal and a professional level.</p>
-
-        <p>What would happen if you lost your job? If you weren’t admitted to your chosen university? What if a project took twice as long to complete as initially estimated, or someone at work quit without warning? If you identify something that is out of your control, you can prepare yourself to withstand an outage. If you identify something inside your control, you can work to prevent and outage.</p>
-
-        <p>In the biblical Genesis, <a href="https://www.nationalgallery.org.uk/paintings/glossary/joseph-old-testament#:~:text=He%20was%20taken%20to%20Egypt,was%20made%20governor%20of%20Egypt." target="_blank">the story of the first Joseph</a> is laid out. Joseph can see glimpses of the future by interpreting dreams. His brothers don’t like that very much, so they sell him to some slavers (talk about sibling rivalry). The slavers take him some 250 miles away to Egypt where he is sold into servitude. Joseph’s talent for interpreting dreams is eventually discovered. A while later, Pharaoh has a pair of recurring dreams that he can’t shake. Seven healthy cows are swallowed up by the Nile River, and seven sickly cows take their place. The same happens with crops. Pharaoh hears about Joseph, the slave who can interpret dreams, and tells him about the dream.</p>
-
-        <p>The result is one of the first recorded premortem discussions in history. Joseph says that there will be seven years of plenty, with lots of crops, cows, rain, and prosperity. After those good years, Egypt will be hit with seven years of famine. If the Egyptians play their cards right, they can prepare during the time of harvest and prevent the famine from ravaging their society.</p>
-
-        <p>Failure and success are lagging indicators. Your actions build up over time and lead to a particular result. When you prepare for famine, whether it be of food and water or AWS resources, you can prevent catastrophe.</p>
-
-        <p>What things are out of your control? What can you do to prevent catastrophic events from ruining your plans, your systems and your life?</p>
-
-        <p>What eventual outcomes are in your control? What measures can you take now to prevent those things from happening?</p>
-
-        <p>Are you prepared for outages?</p>
+	      <p>On April 21, 2011, <a href="https://www.infoq.com/news/2011/04/Amazon-EC2-Outage-Explained/" target="_blank">an entire Amazon AWS availability zone went down</a>, taking a large chunk of the internet down with it. Companies like Reddit, Foursquare, and Quora lost their internet presence with no idea how long it would take to get it back.</p>
+	      <p>Netflix—one of Amazon's biggest clients—was left untouched by the outage. While other AWS customers were powerless to get their systems back online, Netflix went about business as usual.</p>
+	      <p>A few years before the outage, the IT team at Netflix decided that it would be a good idea to prepare for the worst. They wanted to make Netflix more robust and secure. They wanted to know what they could do to prevent catastrophic, massively expensive system failures.</p>
+	      <p>So, they built Chaos Monkey.</p>
+	      <h2>Chaos Monkey</h2>
+	      <p><a href="https://www.geeksforgeeks.org/what-is-netflixs-chaos-monkey/" target="_blank">Chaos Monkey is a program</a>. It looks at all of the technical resources that Netflix uses to stay up and running and starts randomly shutting them down.</p>
+	      <p>When the team fired up Chaos Monkey in their testing environment for the first time, the result was—as intended—chaos. The site went down. Several features stopped working. All manner of unforeseeable problems occurred on the company's technical systems.</p>
+	      <p>By forcing the system to buckle and break, engineers at Netflix discovered a series of previously-unknown weaknesses and vulnerabilities. They were then able to make specific improvements that would prevent the same chaos from ensuing if something went haywire with their actual, customer-facing website.</p>
+	      <p>Years later, when the AWS outage occurred, Netflix was ready.</p>
+	      <h2>Premortems and Preparing for Chaos</h2>
+	      <p>Chaos Monkey was the result of mindful thinking about the future.</p>
+	      <p>In project management, this often takes the form of a <em>premortem</em>—a planning exercise where a team tries to imagine all of the different ways that a project could fail. They then work backward to prevent and solve potential problems before they occur.</p>
+	      <p>Premortems are useful on both a personal and a professional level.</p>
+	      <p>While we can't run an automated program to detect all of the potential, unforeseen problems in our lives, we can think about the things that could go wrong in any given situation. For instance, what would happen if you lost your job? What if you weren't admitted to your chosen university or if the housing market crashed while you were trying to sell your home? Questions like these empower preparation. An ounce of temporary pessimism followed by problem-solving and fortification can help you weather future storms and protect the things that are most important to you.</p>
+	      <p>Here is a practical example:</p>
+	      <p>Imagine you are about to graduate from business school and are looking to start your career. You have a specific company that you really want to work for, and you send out your application. Instead of waiting and hoping for the best, you run a premortem. The project, in this case, is landing your dream job.</p>
+	      <p>First, you make a list of everything that could go wrong:</p>
+	      <p class="fst-italic">What if there is a hiring freeze at your dream company?</p>
+	      <p class="fst-italic">What if a recruiter doesn't respond to your email after a few days?</p>
+	      <p class="fst-italic">What if someone else gets the job?</p>
+	      <p class="fst-italic">What if you don't have enough experience to get hired?</p>
+	      <p>In asking these questions, you create a structure for problem-solving and risk mitigation. You can do research on other similar companies to expand employment options. You can network with alumni at your dream company to learn about hiring patterns and skills to develop for the job. You can apply to other positions at the company that provide opportunity to move to your desired position down the line.</p>
+	      <p>By running through potential problems and solutions ahead of time, you prepare yourself to handle adversity well. You reduce the risks associated with failure, give yourself options when things don't go exactly according to plan, and prevent potential catastrophe.</p>
+	      <h2>You Can Prevent Catastrophic Failures</h2>
+	      <p>Your life is the product of how you respond to the chaos around you. Just like Netflix did with Chaos Monkey, you can gain perspective and control by proactively preparing for the challenges that lie ahead.</p>
+	      <p>We are capable of changing the future. Solving problems before they occur turns anxiety into confidence and panic into clarity. Use premortems to gain perspective. Find your weaknesses. Strengthen them before they cause problems. Prevent catastrophic failures by thinking about the future and preparing accordingly.</p>
+	      <p>What things are out of your control? What can you do to prevent them from creating chaos?</p>
 
       </div>
 	    <ArticleShareLinks :slug="articleInfo.slug" />
@@ -45,9 +41,7 @@
 </template>
 
 <script setup>
-import affiliateLinks from "@/assets/affiliateLinks";
 import articlesList from "@/assets/articlesList";
-import formatDate from "~/functions/formatDate";
 
 const router = useRouter()
 const { currentRoute } = router
