@@ -2,14 +2,10 @@
   <section class="section-padding bg-black-denim border-bottom border-white">
     <div class="container thinnest-content">
       <div class="text-white">
-        <h1 class="text-sm-center mb-4 mt-4">Contact</h1>
-	      <p>I’d love to hear from you—whether you’re interested in collaborating, publishing, republishing an article, or just want to ask a question.</p>
-	      <p>I will do my best to respond promptly.</p>
-
+        <h1 class="text-center mb-4 mt-4">Contact</h1>
 	      <div class="email">
-		      <p>You can reach me at <a href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a></p>
+		      <p class="text-center text-balanced">You can reach me at <a href="mailto:stefan@stefanauvache.com">stefan@stefanauvache.com</a>. I will do my best to respond promptly.</p>
 	      </div>
-
       </div>
     </div>
   </section>

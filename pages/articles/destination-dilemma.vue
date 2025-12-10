@@ -31,7 +31,7 @@ import {ref} from "vue";
 import Articles from "assets/articlesList.json"
 
 const categories = [
-	"destination-dilemma",
+	"destination dilemma",
 ];
 
 const featuredArticles = ref([

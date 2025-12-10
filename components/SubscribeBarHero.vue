@@ -4,7 +4,7 @@
       <div>
 	      <div class="text-white" style="margin-bottom: -2.5rem;">
 		      <p class="huge my-2 text-balanced">One Email, One Idea, Every Week</p>
-		      <p class="h2 my-3 text-balanced fw-lighter">Learn how to use <strong>Agile Personal Development</strong>—the iterative approach to setting and achieving goals.</p>
+		      <p class="h2 my-3 text-balanced fw-lighter">Join <span class="fst-italic">Food for Thought</span>—a weekly email about the iterative approach to building a fulfilling life.</p>
 	      </div>
         <div>
           <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">

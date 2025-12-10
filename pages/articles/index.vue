@@ -44,7 +44,6 @@
 </template>
 
 <script setup>
-import {ref} from "vue";
 import Articles from "assets/articlesList.json"
 
 const categories = [
@@ -56,22 +55,22 @@ const categories = [
 	{
 		name: "Iteration Over Planning",
 		slug: "iteration",
-		description: "Test your way to clarity through small experiments and continuous adjustment."
+		description: "Use experiments and short-term goals to find direction and make adjustments."
 	},
 	{
 		name: "The Destination Dilemma",
 		slug: "destination-dilemma",
-		description: "Make better decisions and build fulfillment when you don't know what you want."
+		description: "How can you set worthwhile goals if you don't know what you want?"
 	},
 	{
 		name: "Systems Over Chaos",
 		slug: "systems",
-		description: "Build sustainable productivity systems that create space for what matters."
+		description: "Build sustainable productivity systems to create space for the things that matter most."
 	},
 	{
 		name: "Learning From Failure",
 		slug: "failure",
-		description: "Turn setbacks into data and use failure as fuel for continuous improvement."
+		description: "Turn setbacks into data and use failure for continuous improvement."
 	}
 ];
 

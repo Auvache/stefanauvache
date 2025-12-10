@@ -4,8 +4,8 @@
 		  <div>
 			  <div class="text-white text-balanced" style="margin-bottom: -2.5rem;">
 				  <h1 class="my-2 huge">One Email, One Idea, Every Week</h1>
-				  <p class="h2 fw-lighter">Stop chasing unfulfilling goals.</p>
-				  <p class="h2 fw-lighter">Learn <strong>Agile Personal Development</strong>—the iterative approach to setting and achieving goals. Join the newsletter and learn to live with more intention.</p>
+				  <p class="h2 fw-lighter mb-3">How can we set goals and make plans if we don't know what we want? How can we know what we want if we've never had it?</p>
+				  <p class="h2 fw-lighter">Join <span class="fst-italic">Food for Thought</span>—a weekly email about the iterative approach to building a fulfilling life.</p>
 			  </div>
 			  <div>
 				  <div class="subscribe d-flex flex-column flex-sm-row justify-content-center align-items-center text-white" style="min-height: 200px;">

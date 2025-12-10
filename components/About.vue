@@ -12,7 +12,7 @@
 				</div>
 			</div>
 			<hr class="white">
-			<ul class="list-unstyled">
+			<ul class="list-unstyled text-white">
 				<li><NuxtLink class="link" to="/subscribe">Subscribe to the email list</NuxtLink></li>
 				<li><NuxtLink to="/articles">Read articles</NuxtLink></li>
 				<li><NuxtLink to="/contact">Contact Information</NuxtLink></li>
