@@ -1,0 +1,7 @@
+# /robots.txt file for https://www.stefanauvache.com/
+
+User-agent: *
+Disallow: /include/
+Disallow: /articles/Template
+
+Sitemap: https://www.stefanauvache.com/sitemap.xml

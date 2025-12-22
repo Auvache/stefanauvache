@@ -1,5 +1,17 @@
 [
   {
+    "slug": "escaping-the-trap-of-social-comparison",
+    "title": "Escaping the Trap of Social Comparison",
+    "datePublished": "2025/12/22",
+    "categories" : ["iteration"],
+    "featured" : true,
+    "rank" : 0,
+    "image": "comparison.jpg",
+    "keywords": "social comparison theory, herd behavior, question your goals, experiment before committing, destination dilemma, avoid comparing yourself to others, set intentional goals, reflect and iterate, keeping up with joneses",
+    "description": "Social comparison drives us to chase goals we don't actually want. Learn how to question your goals, experiment with small versions of success, and reflect regularly to set goals with intention instead of following the herd.",
+    "summary": "Social comparison pushes us to chase other people's goals without questioning whether we actually want them. The solution: question where your goals come from, run small experiments to test what success feels like, and reflect often to stay intentional instead of falling in line with the herd."
+  },
+  {
     "slug": "overcoming-einstellung-effect-when-experience-gets-in-your-way",
     "title": "Overcoming the Einstellung Effect: When Experience Gets in Your Way",
     "datePublished": "2025/12/02",
@@ -202,18 +214,6 @@
     "keywords": "ultracrepidarianism, imposter syndrome, humility, personal growth, self-improvement, learning mindset, admit what you don't know, overcome ego, lifelong learning, growth mindset",
     "description" : "Avoid the traps of ultracrepidarianism and imposter syndrome. Learn how humility, curiosity, and honest self-assessment can accelerate learning and personal growth.",
     "summary": "Ultracrepidarianism and imposter syndrome hinder learning. Fight ego with humility by admitting what you don't know and staying open to growth and understanding."
-  },
-  {
-    "slug": "escaping-the-trap-of-social-comparison",
-    "title": "Escaping the Trap of Social Comparison",
-    "datePublished": "2025/06/20",
-    "categories" : [],
-    "featured" : false,
-    "rank" : 0,
-    "image": "",
-    "keywords": "social comparison, personal growth, self-improvement, productivity, comparing yourself to others, avoiding jealousy, mindset for success, measuring progress, focus on your own goals, escape social media trap",
-    "description" : "Stop comparing yourself to others and focus on your own progress. Learn how social comparison undermines success and how to measure achievement on your own terms.",
-    "summary": "Social comparison distracts and demotivates. Instead of chasing others' success, focus on your own progress and set personal goals to escape this trap."
   },
   {
     "slug": "a-career-worth-pursuing",
